@@ -43,7 +43,7 @@ Trennbare Verbpräfixe (aufstehen, einkaufen) klar betonen und untrennbare Präf
 
 ### AUFstehen vs. verSTEHen: Der Akzent verrät die Grammatik
 
-Sam notiert zwei Verben aus Herr Brauns Unterricht nebeneinander auf der **Laut-Schrift-Tafel**: **AUF**stehen (*get up*) und ver**STEH**en (*understand*). Im Deutschen hängen Aussprache und Grammatik hier direkt zusammen: **Ist das Präfix betont, ist das Verb trennbar!**
+Peter notiert zwei Verben aus Herr Brauns Unterricht nebeneinander auf der **Laut-Schrift-Tafel**: **AUF**stehen (*get up*) und ver**STEH**en (*understand*). Im Deutschen hängen Aussprache und Grammatik hier direkt zusammen: **Ist das Präfix betont, ist das Verb trennbar!**
 
 Trennbare vs. untrennbare Verbpräfixe:
 - Präfix-Typ | Wo liegt der Akzent? | Typische Präfixe & Beispiele
@@ -75,7 +75,7 @@ Manche Präfixe (*durch-, über-, um-, unter-*) ändern mit dem Akzent sogar ihr
 
 ### Aufgabe uebersetzen-akzent
 
-- Aufgabe: Nadia hilft Sam, einen Satz ins Deutsche zu **übersetzen** (*to translate*). Welche Silbe wird betont?
+- Aufgabe: Nadia hilft Peter, einen Satz ins Deutsche zu **übersetzen** (*to translate*). Welche Silbe wird betont?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ über-**SETZ**-en (auf dem Stamm – untrennbar) – Richtig! *übersetzen* in der Bedeutung *translate* ist untrennbar: *Nadia übersetzt den Satz.*

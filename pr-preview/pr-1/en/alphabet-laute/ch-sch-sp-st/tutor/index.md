@@ -43,7 +43,7 @@ Distinguish the ich-sound and ach-sound (ch), and pronounce sch, initial sp/st, 
 
 ### Ich-Sound or Ach-Sound? Two Sides of ch
 
-Nadia reads Sam a sentence: *'Ich mache heute einen Kuchen in der Küche.'* The same **ch** sounds soft in the front (*ich, Küche*) and raspy in the back (*mache, Kuchen*). The letter **right before** **ch** decides!
+Nadia reads Peter a sentence: *'Ich mache heute einen Kuchen in der Küche.'* The same **ch** sounds soft in the front (*ich, Küche*) and raspy in the back (*mache, Kuchen*). The letter **right before** **ch** decides!
 
 Sound-Spelling Board: ch, sch, sp/st, and z:
 - Letters | When / How? | Examples

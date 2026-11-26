@@ -43,7 +43,7 @@ Write German compound nouns as single words and capitalize nominalized verbs and
 
 ### Final Polish for the Blog: No Gaps in Compound Nouns!
 
-In English, compound nouns are often written with spaces (*language course, bike path*). In German, you write them **as one single word** (*Sprachkurs, Fahrradweg*) — and whenever a verb or adjective is used as a noun, it earns a capital letter on Sam's **Sound-Spelling Board**!
+In English, compound nouns are often written with spaces (*language course, bike path*). In German, you write them **as one single word** (*Sprachkurs, Fahrradweg*) — and whenever a verb or adjective is used as a noun, it earns a capital letter on Peter's **Sound-Spelling Board**!
 
 Compounds and nominalizations at a glance:
 - Area | Rule & signal words | Examples
@@ -63,7 +63,7 @@ While compound nouns are written as one word (*das Fahrradfahren*), verb phrases
 
 ### Exercise nominalisierung-gross
 
-- Task: Choose the right spelling for Sam's final post on the Lindenberg school blog.
+- Task: Choose the right spelling for Peter's final post on the Lindenberg school blog.
 - Answer format: choose a word for each gap
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
@@ -79,9 +79,9 @@ While compound nouns are written as one word (*das Fahrradfahren*), verb phrases
 - Task: Which spelling is correct in Standard German?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ Sam bereitet sich auf die B1-Prüfung im Jugendzentrum vor. – Correct! *Jugendzentrum* is written as one word, while *B1-Prüfung* uses a hyphen because of the code/digit.
-  - ✗ Sam bereitet sich auf die B1 Prüfung im Jugend Zentrum vor. – German does not separate compound nouns with spaces (*Jugendzentrum*, *B1-Prüfung*).
-  - ✗ Sam bereitet sich auf die B1Prüfung im jugendzentrum vor. – Nouns (*Jugendzentrum*) are always capitalized, and compounds with *B1* require a hyphen (*B1-Prüfung*).
-- Solution: Sam bereitet sich auf die B1-Prüfung im Jugendzentrum vor.
+  - ✓ Peter bereitet sich auf die B1-Prüfung im Jugendzentrum vor. – Correct! *Jugendzentrum* is written as one word, while *B1-Prüfung* uses a hyphen because of the code/digit.
+  - ✗ Peter bereitet sich auf die B1 Prüfung im Jugend Zentrum vor. – German does not separate compound nouns with spaces (*Jugendzentrum*, *B1-Prüfung*).
+  - ✗ Peter bereitet sich auf die B1Prüfung im jugendzentrum vor. – Nouns (*Jugendzentrum*) are always capitalized, and compounds with *B1* require a hyphen (*B1-Prüfung*).
+- Solution: Peter bereitet sich auf die B1-Prüfung im Jugendzentrum vor.
 - Explanation: Compound nouns are written as a single word with no spaces — only single letters, abbreviations, or digits (*B1-Prüfung, E-Mail*) take a hyphen.
 - Link: [../?via=tutor#kompositum-richtig](../?via=tutor#kompositum-richtig)

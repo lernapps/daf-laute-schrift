@@ -43,7 +43,7 @@ Pronounce and stress common international loanwords in German (-tion, -ie, -iere
 
 ### Familiar Words, New Rhythm
 
-For the school blog, Sam writes about *Information, Musik, fotografieren*, and *Universität*. The words look almost like English — yet on Sam's **Sound-Spelling Board**, a different rule applies: **in loanwords, German stress almost always moves to the end!**
+For the school blog, Peter writes about *Information, Musik, fotografieren*, and *Universität*. The words look almost like English — yet on Peter's **Sound-Spelling Board**, a different rule applies: **in loanwords, German stress almost always moves to the end!**
 
 Common loanword endings in German:
 - Ending | Stress & sound | Examples
@@ -76,7 +76,7 @@ Almost all *-ik* words stress the last syllable (*Mu**SIK**, Ma-the-ma-**TIK**, 
 
 ### Exercise fremdwoerter-akzent-sortieren
 
-- Task: Match each loanword from Sam's school blog to its stressed syllable.
+- Task: Match each loanword from Peter's school blog to its stressed syllable.
 - Answer format: match each item on the left with one on the right
 - Solution: organisieren – or-ga-ni-**SIE**-ren; Universität – U-ni-ver-si-**TÄT**; Fotografie – Fo-to-gra-**FIE**; Mathematik – Ma-the-ma-**TIK**
 - Explanation: Mastering these four endings (**-ieren, -tät, -ie, -ik**) lets you stress hundreds of international German words right on the first try.

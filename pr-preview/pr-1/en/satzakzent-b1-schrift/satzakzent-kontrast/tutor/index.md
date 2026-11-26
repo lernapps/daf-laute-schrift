@@ -43,13 +43,13 @@ Shift sentence stress purposefully to highlight new information or express contr
 
 ### One Sentence, Three Meanings
 
-While rehearsing for the Lindenberg school podcast, Sam notices: the exact same sentence (*'Sam fährt morgen nach Berlin.'*) answers completely different questions depending on **which word** gets the **sentence stress**!
+While rehearsing for the Lindenberg school podcast, Peter notices: the exact same sentence (*'Peter fährt morgen nach Berlin.'*) answers completely different questions depending on **which word** gets the **sentence stress**!
 
 How sentence stress shifts focus:
 - Stressed word in sentence | What is highlighted? | Matching contrast
-- **SAM** fährt morgen nach Berlin. | the person (not someone else) | not Lukas, but Sam
-- Sam fährt **MORGEN** nach Berlin. | the time | not on Friday
-- Sam fährt morgen nach **BERLIN**. | the destination (neutral focus / new info) | not to Hamburg
+- **SAM** fährt morgen nach Berlin. | the person (not someone else) | not Lukas, but Peter
+- Peter fährt **MORGEN** nach Berlin. | the time | not on Friday
+- Peter fährt morgen nach **BERLIN**. | the destination (neutral focus / new info) | not to Hamburg
 
 **Remember: Rule of thumb for sentence stress**
 
@@ -63,7 +63,7 @@ How sentence stress shifts focus:
 
 ### Exercise kontrast-korrektur
 
-- Task: Nadia asks: *'Hast du das Buch **gekauft**?'* Sam wants to correct her: he only **borrowed** it. Which word should Sam stress?
+- Task: Nadia asks: *'Hast du das Buch **gekauft**?'* Peter wants to correct her: he only **borrowed** it. Which word should Peter stress?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Nein, ich habe es **AUS**geliehen. – Correct! *ausgeliehen* contrasts with *gekauft* — and in this separable verb, the prefix **AUS-** carries the main stress.

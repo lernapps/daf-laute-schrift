@@ -41,15 +41,15 @@ If the address of this page names `bedarf=`, each section it names holds, severa
 
 Pronounce the German alphabet clearly and spell out names and addresses reliably.
 
-### Sam's First Day at the Lindenberg Citizens' Office
+### Peter's First Day at the Lindenberg Citizens' Office
 
-While registering at the Lindenberg Bürgeramt, the clerk asks: *'Wie schreibt man Ihren Nachnamen?'* Sam opens the **Sound-Spelling Board** from Herr Braun's class: several German letter names sound quite different from English.
+While registering at the Lindenberg Bürgeramt, the clerk asks: *'Wie schreibt man Ihren Nachnamen?'* Peter opens the **Sound-Spelling Board** from Herr Braun's class: several German letter names sound quite different from English.
 
 - Exercise `buchstaben-e-i` (below)
 
 ### Sound-Spelling Board: Tricky Letters in the Alphabet
 
-The German alphabet has 26 basic letters plus **ä, ö, ü**, and **ß** (*Eszett*). Sam's board highlights the letters English speakers mix up most easily:
+The German alphabet has 26 basic letters plus **ä, ö, ü**, and **ß** (*Eszett*). Peter's board highlights the letters English speakers mix up most easily:
 
 Key German letter names:
 - Letter | Name / Sound | Lindenberg example
@@ -69,7 +69,7 @@ On the phone, people often add a keyword: **W wie Weber**, **B wie Berlin**, **S
 
 ### Exercise buchstaben-e-i
 
-- Task: Sam spells **Weber**: *W – E – B – E – R*. How does the letter **E** sound in the German alphabet?
+- Task: Peter spells **Weber**: *W – E – B – E – R*. How does the letter **E** sound in the German alphabet?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ like a long *eh* (as in *say*, without the glide) – Exactly! German **E** sounds like *eh*, not like English *ee*.
@@ -89,7 +89,7 @@ On the phone, people often add a keyword: **W wie Weber**, **B wie Berlin**, **S
 
 ### Exercise strasse-buchstabieren
 
-- Task: Frau Weber spells her street name: *W – A – L – D – W – E – G* (*weh – ah – ell – deh – weh – eh – geh*). Which word does Sam write down?
+- Task: Frau Weber spells her street name: *W – A – L – D – W – E – G* (*weh – ah – ell – deh – weh – eh – geh*). Which word does Peter write down?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Waldweg – Correct! *veh* is **W**, *ah* is **A**, and *eh* is **E**.

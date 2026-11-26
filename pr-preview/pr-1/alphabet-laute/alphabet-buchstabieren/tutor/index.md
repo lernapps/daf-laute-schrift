@@ -41,15 +41,15 @@ Nennt die Adresse dieser Seite `bedarf=`, gilt jeder Abschnitt, den sie nennt, m
 
 Die Buchstaben des deutschen Alphabets richtig aussprechen und Namen oder Adressen sicher buchstabieren.
 
-### Sams erster Tag im Bürgeramt Lindenberg
+### Peters erster Tag im Bürgeramt Lindenberg
 
-Bei der Anmeldung im Bürgeramt Lindenberg fragt die Mitarbeiterin: *„Wie schreibt man Ihren Nachnamen?“* Sam öffnet seine **Laut-Schrift-Tafel** aus Herr Brauns Kurs: Viele deutsche Buchstabennamen klingen anders als im Englischen.
+Bei der Anmeldung im Bürgeramt Lindenberg fragt die Mitarbeiterin: *„Wie schreibt man Ihren Nachnamen?“* Peter öffnet seine **Laut-Schrift-Tafel** aus Herr Brauns Kurs: Viele deutsche Buchstabennamen klingen anders als im Englischen.
 
 - Aufgabe `buchstaben-e-i` (unten)
 
 ### Laut-Schrift-Tafel: Stolpersteine im Alphabet
 
-Das deutsche Alphabet hat 26 Grundbuchstaben plus **ä, ö, ü** und **ß** (*Eszett*). Auf Sams Tafel stehen die Buchstaben, die Englischsprachige am leichtesten verwechseln:
+Das deutsche Alphabet hat 26 Grundbuchstaben plus **ä, ö, ü** und **ß** (*Eszett*). Auf Peters Tafel stehen die Buchstaben, die Englischsprachige am leichtesten verwechseln:
 
 Wichtige Buchstabennamen auf Deutsch:
 - Buchstabe | Name / Aussprache | Beispiel in Lindenberg
@@ -69,7 +69,7 @@ Am Telefon nennt man oft ein Beispielwort: **W wie Weber**, **B wie Berlin**, **
 
 ### Aufgabe buchstaben-e-i
 
-- Aufgabe: Sam buchstabiert den Namen **Weber**: *W – E – B – E – R*. Wie klingt der Buchstabe **E** im deutschen Alphabet?
+- Aufgabe: Peter buchstabiert den Namen **Weber**: *W – E – B – E – R*. Wie klingt der Buchstabe **E** im deutschen Alphabet?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ wie das deutsche Wort *eh* (langes e) – Genau! Deutsches **E** klingt wie *eh* – nicht wie das englische *ee*.
@@ -89,7 +89,7 @@ Am Telefon nennt man oft ein Beispielwort: **W wie Weber**, **B wie Berlin**, **
 
 ### Aufgabe strasse-buchstabieren
 
-- Aufgabe: Frau Weber buchstabiert ihre Adresse: *W – A – L – D – W – E – G*. Welches Wort notiert Sam?
+- Aufgabe: Frau Weber buchstabiert ihre Adresse: *W – A – L – D – W – E – G*. Welches Wort notiert Peter?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Waldweg – Richtig! *weh* ist **W**, *ah* ist **A**, *eh* ist **E**.

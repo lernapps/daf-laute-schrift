@@ -43,7 +43,7 @@ Lange und kurze Vokale hören, aussprechen und an Schreibsignalen wie ie, Dehnun
 
 ### Miete oder Mitte? Die Länge ändert die Bedeutung
 
-Auf dem Weg zum Gymnasium in Lindenberg fragt Sam Lukas: *„Wohnen wir in der **Miete** oder in der **Mitte**?“* Lukas lacht: Ein langer oder kurzer Vokal macht aus zwei ähnlichen Wörtern ganz verschiedene Bedeutungen – und die Schrift zeigt dir fast immer, welcher Vokal gemeint ist.
+Auf dem Weg zum Gymnasium in Lindenberg fragt Peter Lukas: *„Wohnen wir in der **Miete** oder in der **Mitte**?“* Lukas lacht: Ein langer oder kurzer Vokal macht aus zwei ähnlichen Wörtern ganz verschiedene Bedeutungen – und die Schrift zeigt dir fast immer, welcher Vokal gemeint ist.
 
 Laut-Schrift-Tafel: Signale für lange und kurze Vokale:
 - Vokallänge | Schreibsignal | Beispiele
@@ -76,7 +76,7 @@ In *Fa**h**rrad*, *wo**h**nen* oder *u**h**r* wird das **h** nicht gehaucht. Es 
 
 ### Aufgabe minimalpaare-laenge
 
-- Aufgabe: Ordne jedes Wort aus Sams Schultag dem passenden Vokallängen-Signal zu.
+- Aufgabe: Ordne jedes Wort aus Peters Schultag dem passenden Vokallängen-Signal zu.
 - Antwortformat: jedem Eintrag links den passenden rechts zuordnen
 - Lösung: Klasse – kurzes a (Doppelkonsonant ss); Lehrer – langes e (stummes Dehnungs-h); spielen – langes i (Schreibung ie); Bäcker – kurzes ä (ck steht für doppeltes k)
 - Erklärung: Auf der Laut-Schrift-Tafel gilt die Faustregel: **ie / h / Doppelvokal = lang**, **Doppelkonsonant / ck / tz = kurz**.

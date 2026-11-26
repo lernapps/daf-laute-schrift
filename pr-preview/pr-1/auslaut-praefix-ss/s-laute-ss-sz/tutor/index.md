@@ -43,7 +43,7 @@ Anhand von Stimmhaftigkeit und Vokallänge sicher entscheiden, ob ein Wort mit s
 
 ### Straße, Wasser, Sonne: Der Vokallängen-Test für ss und ß
 
-Auf dem Lindenberger Stadtplan entdeckt Sam **Schlossstraße** und **Wasserplatz** – mal **ss**, mal **ß**! Herr Braun zeigt das klare Entscheidungsschema auf der **Laut-Schrift-Tafel**: Erst hörst du, ob das *s* weich summt oder scharf zischt – und beim scharfen *s* entscheidet die **Vokallänge**.
+Auf dem Lindenberger Stadtplan entdeckt Peter **Schlossstraße** und **Wasserplatz** – mal **ss**, mal **ß**! Herr Braun zeigt das klare Entscheidungsschema auf der **Laut-Schrift-Tafel**: Erst hörst du, ob das *s* weich summt oder scharf zischt – und beim scharfen *s* entscheidet die **Vokallänge**.
 
 Entscheidungstafel für s, ss und ß:
 - Schreibung | Regel | Beispiele

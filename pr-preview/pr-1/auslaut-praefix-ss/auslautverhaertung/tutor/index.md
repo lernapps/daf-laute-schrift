@@ -43,7 +43,7 @@ b, d und g am Wort- oder Silbenende stimmlos wie p, t und k aussprechen und mit 
 
 ### Warum klingt Tag wie Tak?
 
-Im Deutschkurs fragt Sam verwirrt: *„Lukas sagt **Tak**, **Kint** und **gelp** – aber im Buch steht **Tag**, **Kind** und **gelb**!“* Herr Braun ergänzt ein neues Feld auf der **Laut-Schrift-Tafel**: Am Wort- oder Silbenende werden stimmhafte Konsonanten im Deutschen immer stimmlos gesprochen.
+Im Deutschkurs fragt Peter verwirrt: *„Lukas sagt **Tak**, **Kint** und **gelp** – aber im Buch steht **Tag**, **Kind** und **gelb**!“* Herr Braun ergänzt ein neues Feld auf der **Laut-Schrift-Tafel**: Am Wort- oder Silbenende werden stimmhafte Konsonanten im Deutschen immer stimmlos gesprochen.
 
 Auslautverhärtung und Verlängerungsprobe:
 - Schreibung → Klang | Am Wortende (hart) | Verlängert (weich hörbar)

@@ -43,7 +43,7 @@ Decide reliably between s, ss, and ß using voicing and the vowel-length test.
 
 ### Straße, Wasser, Sonne: The Vowel-Length Test for ss vs. ß
 
-On the Lindenberg town map, Sam spots **Schlossstraße** and **Wasserplatz** — sometimes **ss**, sometimes **ß**! Herr Braun puts the clear decision rule on the **Sound-Spelling Board**: first check whether *s* buzzes (voiced) or hisses (voiceless) — and for the sharp hissing *s*, **vowel length** decides.
+On the Lindenberg town map, Peter spots **Schlossstraße** and **Wasserplatz** — sometimes **ss**, sometimes **ß**! Herr Braun puts the clear decision rule on the **Sound-Spelling Board**: first check whether *s* buzzes (voiced) or hisses (voiceless) — and for the sharp hissing *s*, **vowel length** decides.
 
 Decision board for s, ss, and ß:
 - Spelling | Rule | Examples

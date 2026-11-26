@@ -43,7 +43,7 @@ Satzanfänge, alle deutschen Nomen und die höfliche Anrede Sie/Ihr zuverlässig
 
 ### Warum so viele Großbuchstaben?
 
-In Sams erstem Schulheft in Lindenberg markiert Herr Braun drei Fehler mit einem grünen Punkt: *„Im Deutschen hilft die **Großschreibung** dem Auge sofort beim Lesen: Jedes **Nomen** trägt ein großes Signal!“*
+In Peters erstem Schulheft in Lindenberg markiert Herr Braun drei Fehler mit einem grünen Punkt: *„Im Deutschen hilft die **Großschreibung** dem Auge sofort beim Lesen: Jedes **Nomen** trägt ein großes Signal!“*
 
 - Aufgabe `ich-klein-regel` (unten)
 
@@ -67,7 +67,7 @@ Verben (*lernen, fahren*), Adjektive (*groß, deutsch* in *ein deutsches Buch*) 
 
 ### Aufgabe ich-klein-regel
 
-- Aufgabe: Sam schreibt eine Nachricht an Nadia. Welcher Satz ist im Deutschen richtig groß- und kleingeschrieben?
+- Aufgabe: Peter schreibt eine Nachricht an Nadia. Welcher Satz ist im Deutschen richtig groß- und kleingeschrieben?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Heute lerne ich Deutsch in der Schule. – Richtig! *Heute* (Satzanfang), *Deutsch* (Sprachname/Nomen) und *Schule* (Nomen) sind groß; *ich* ist mitten im Satz klein.
@@ -79,7 +79,7 @@ Verben (*lernen, fahren*), Adjektive (*groß, deutsch* in *ein deutsches Buch*) 
 
 ### Aufgabe nomen-gross-schreiben
 
-- Aufgabe: Wähle die richtige Groß- oder Kleinschreibung für Sams E-Mail an Herr Braun.
+- Aufgabe: Wähle die richtige Groß- oder Kleinschreibung für Peters E-Mail an Herr Braun.
 - Antwortformat: für jede Lücke ein Wort wählen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):
@@ -95,7 +95,7 @@ Verben (*lernen, fahren*), Adjektive (*groß, deutsch* in *ein deutsches Buch*) 
 - Aufgabe: In welchen Sätzen muss **Sie** großgeschrieben werden?
 - Antwortformat: alle richtigen Antworten wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ Entschuldigung, können [Sie] mir den Weg zum Bahnhof zeigen? – Richtig! Sam spricht eine fremde Person höflich mit *Sie* an.
+  - ✓ Entschuldigung, können [Sie] mir den Weg zum Bahnhof zeigen? – Richtig! Peter spricht eine fremde Person höflich mit *Sie* an.
   - ✗ Das ist Mina. Morgen spielt [sie] im Sportverein. – Hier bedeutet *sie* = *she* (Mina), also kleingeschrieben.
   - ✓ Frau Weber, möchten [Sie] noch einen Kaffee? – Richtig! Direkte höfliche Anrede an Frau Weber → immer groß.
   - ✗ Wo sind die Schüler? Ach, dort kommen [sie] schon! – Hier bedeutet *sie* = *they* (die Schüler), also kleingeschrieben.

@@ -43,7 +43,7 @@ Deutsches konsonantisches r am Silbenanfang vom vokalisierten r in -er sowie red
 
 ### Lehrer oder Lehra? Zwei Gesichter des deutschen R
 
-Sam hört genau hin, wenn Mina von ihrem **Bruder** und ihrem **Lehrer** erzählt: Das erste **r** in *Bruder* klingt wie ein weiches Reiben hinten im Rachen, aber die Endung **-er** am Schluss klingt fast wie ein kurzes, entspanntes **-a**!
+Peter hört genau hin, wenn Mina von ihrem **Bruder** und ihrem **Lehrer** erzählt: Das erste **r** in *Bruder* klingt wie ein weiches Reiben hinten im Rachen, aber die Endung **-er** am Schluss klingt fast wie ein kurzes, entspanntes **-a**!
 
 Laut-Schrift-Tafel: R-Laute und unbetonte Endungen:
 - Position / Endung | Aussprache im Standarddeutschen | Beispiele
@@ -75,7 +75,7 @@ Im Englischen biegt sich die Zungenspitze nach hinten (*car*). Im Deutschen blei
 
 ### Aufgabe endungen-natuerlich
 
-- Aufgabe: Ordne jedes Wort der passenden Aussprache-Notiz auf Sams Tafel zu.
+- Aufgabe: Ordne jedes Wort der passenden Aussprache-Notiz auf Peters Tafel zu.
 - Antwortformat: jedem Eintrag links den passenden rechts zuordnen
 - Lösung: Brötchen (Br-) – konsonantisches r vor Vokal; Computer (-er) – vokalisiertes -er (klingt fast wie -a); lernen (-en) – reduzierte unbetonte Endung (kurzes Schwa); Fahrrad (-hr) – erstes r nach langem Vokal vokalisiert, zweites konsonantisch
 - Erklärung: Natürliches Deutsch klingt fließend, weil unbetonte Endungen (*-er, -en, -el*) kurz und entspannt bleiben, statt jede Silbe voll auszubuchstabieren.

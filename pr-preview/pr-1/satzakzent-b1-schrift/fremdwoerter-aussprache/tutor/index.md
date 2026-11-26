@@ -43,7 +43,7 @@ Internationale Fremdwörter mit typischen Endungen (-tion, -ie, -ieren, -tät, -
 
 ### Vertraute Wörter, neuer Rhythmus
 
-Für den Schulblog schreibt Sam über *Information, Musik, fotografieren* und *Universität*. Die Wörter sehen fast aus wie im Englischen – aber auf Sams **Laut-Schrift-Tafel** gilt eine eigene Regel: **Bei Fremdwörtern wandert der Akzent fast immer ans Wortende!**
+Für den Schulblog schreibt Peter über *Information, Musik, fotografieren* und *Universität*. Die Wörter sehen fast aus wie im Englischen – aber auf Peters **Laut-Schrift-Tafel** gilt eine eigene Regel: **Bei Fremdwörtern wandert der Akzent fast immer ans Wortende!**
 
 Typische Fremdwort-Endungen im Deutschen:
 - Endung | Betonung & Klang | Beispiele
@@ -76,7 +76,7 @@ Fast alle *-ik*-Wörter betonen die letzte Silbe (*Mu**SIK**, Ma-the-ma-**TIK**,
 
 ### Aufgabe fremdwoerter-akzent-sortieren
 
-- Aufgabe: Ordne jedes Fremdwort aus Sams Schulblog seiner betonten Silbe zu.
+- Aufgabe: Ordne jedes Fremdwort aus Peters Schulblog seiner betonten Silbe zu.
 - Antwortformat: jedem Eintrag links den passenden rechts zuordnen
 - Lösung: organisieren – or-ga-ni-**SIE**-ren; Universität – U-ni-ver-si-**TÄT**; Fotografie – Fo-to-gra-**FIE**; Mathematik – Ma-the-ma-**TIK**
 - Erklärung: Mit diesen vier Endungen (**-ieren, -tät, -ie, -ik**) triffst du die Betonung von Hunderten internationaler Wörter im Deutschen sofort.

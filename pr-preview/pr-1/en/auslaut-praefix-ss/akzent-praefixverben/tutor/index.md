@@ -43,7 +43,7 @@ Stress separable verb prefixes (aufstehen, einkaufen) clearly and leave insepara
 
 ### AUFstehen vs. verSTEHen: Stress Reveals the Grammar
 
-Sam writes two verbs from Herr Braun's class side by side on the **Sound-Spelling Board**: **AUF**stehen (*get up*) and ver**STEH**en (*understand*). In German, pronunciation and grammar are directly linked here: **if the prefix is stressed, the verb is separable!**
+Peter writes two verbs from Herr Braun's class side by side on the **Sound-Spelling Board**: **AUF**stehen (*get up*) and ver**STEH**en (*understand*). In German, pronunciation and grammar are directly linked here: **if the prefix is stressed, the verb is separable!**
 
 Separable vs. inseparable verb prefixes:
 - Prefix type | Where is the stress? | Common prefixes & examples
@@ -75,7 +75,7 @@ A few prefixes (*durch-, über-, um-, unter-*) even change meaning with stress: 
 
 ### Exercise uebersetzen-akzent
 
-- Task: Nadia helps Sam **übersetzen** (*translate*) a sentence into German. Which syllable is stressed?
+- Task: Nadia helps Peter **übersetzen** (*translate*) a sentence into German. Which syllable is stressed?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ über-**SETZ**-en (on the stem — inseparable) – Correct! *übersetzen* meaning *to translate* is inseparable: *Nadia übersetzt den Satz.*

@@ -43,13 +43,13 @@ Relativsätze (auch eingeschoben mit zwei Kommas) und Infinitivsätze mit um/ohn
 
 ### Korrekturlesen für den Lindenberger Schulblog
 
-Sam schreibt einen Artikel für den Schulblog. Auf B1-Niveau werden seine Sätze komplexer: Er beschreibt Personen mit **Relativsätzen** und nennt Ziele mit **um … zu**. Auf der **Laut-Schrift-Tafel** kommen jetzt die B1-Kommaregeln hinzu!
+Peter schreibt einen Artikel für den Schulblog. Auf B1-Niveau werden seine Sätze komplexer: Er beschreibt Personen mit **Relativsätzen** und nennt Ziele mit **um … zu**. Auf der **Laut-Schrift-Tafel** kommen jetzt die B1-Kommaregeln hinzu!
 
 B1-Kommaregeln für Relativ- und Infinitivsätze:
 - Satztyp | Kommaregel | Beispiel
-- **Relativsatz** am Ende | immer ein Komma **davor** | Das ist der Kurs**,** den Sam besucht.
+- **Relativsatz** am Ende | immer ein Komma **davor** | Das ist der Kurs**,** den Peter besucht.
 - **Eingeschobener** Relativsatz | **zwei** Kommas (wie eine Klammer) | Der Lehrer**,** der uns hilft**,** heißt Herr Braun.
-- **um / ohne / (an)statt … zu** | Komma ist **immer Pflicht** | Sam übt täglich**,** um klarer zu sprechen.
+- **um / ohne / (an)statt … zu** | Komma ist **immer Pflicht** | Peter übt täglich**,** um klarer zu sprechen.
 - Infinitiv mit **zu** nach Nomen/Hinweiswort | Komma ist **Pflicht** (z. B. *Zeit, Lust, es*) | Er hat Lust**,** einen Artikel zu schreiben.
 
 **Merke: Die häufigste Kommafalle im Relativsatz**
@@ -67,10 +67,10 @@ Vergiss bei einem eingeschobenen Relativsatz nie das **zweite Komma** direkt nac
 - Aufgabe: Welcher Satz setzt die Kommas um den eingeschobenen Relativsatz genau richtig?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ Die Schülerin, die neben Sam sitzt, heißt Nadia. – Richtig! Der Relativsatz *die neben Sam sitzt* wird links und rechts wie in Klammern von zwei Kommas begrenzt.
-  - ✗ Die Schülerin, die neben Sam sitzt heißt Nadia. – Hier fehlt das zweite Komma zwischen den beiden Verben *sitzt* und *heißt*.
-  - ✗ Die Schülerin die neben Sam sitzt, heißt Nadia. – Im Deutschen braucht jeder Relativsatz auch am Anfang ein Komma (anders als restriktive Relativsätze im Englischen).
-- Lösung: Die Schülerin, die neben Sam sitzt, heißt Nadia.
+  - ✓ Die Schülerin, die neben Peter sitzt, heißt Nadia. – Richtig! Der Relativsatz *die neben Peter sitzt* wird links und rechts wie in Klammern von zwei Kommas begrenzt.
+  - ✗ Die Schülerin, die neben Peter sitzt heißt Nadia. – Hier fehlt das zweite Komma zwischen den beiden Verben *sitzt* und *heißt*.
+  - ✗ Die Schülerin die neben Peter sitzt, heißt Nadia. – Im Deutschen braucht jeder Relativsatz auch am Anfang ein Komma (anders als restriktive Relativsätze im Englischen).
+- Lösung: Die Schülerin, die neben Peter sitzt, heißt Nadia.
 - Erklärung: Anders als im Englischen trennt das Deutsche **jeden** Relativsatz mit Kommas ab – steht er in der Satzmitte, braucht er **zwei** Kommas.
 - Link: [../?via=tutor#eingeschobener-relativsatz](../?via=tutor#eingeschobener-relativsatz)
 
@@ -79,10 +79,10 @@ Vergiss bei einem eingeschobenen Relativsatz nie das **zweite Komma** direkt nac
 - Aufgabe: In welchen Sätzen ist an der Stelle [ ] ein Komma **zwingend vorgeschrieben**?
 - Antwortformat: alle richtigen Antworten wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ Sam geht in die Bibliothek [ ] um in Ruhe zu lernen. – Richtig! Infinitivsätze mit *um … zu* stehen immer nach einem Komma.
+  - ✓ Peter geht in die Bibliothek [ ] um in Ruhe zu lernen. – Richtig! Infinitivsätze mit *um … zu* stehen immer nach einem Komma.
   - ✓ Lukas ging los [ ] ohne seine Jacke mitzunehmen. – Richtig! Auch *ohne … zu* und *(an)statt … zu* verlangen immer ein Komma.
   - ✓ Mina hat keine Zeit [ ] heute länger zu bleiben. – Richtig! Die Infinitivgruppe hängt vom Nomen *Zeit* ab → Komma ist Pflicht.
-  - ✗ Sam lernt [ ] Deutsch. – Das ist ein einfacher Hauptsatz ohne Nebensatz oder Infinitivgruppe – hier steht kein Komma.
-- Lösung: Sam geht in die Bibliothek [ ] um in Ruhe zu lernen.; Lukas ging los [ ] ohne seine Jacke mitzunehmen.; Mina hat keine Zeit [ ] heute länger zu bleiben.
+  - ✗ Peter lernt [ ] Deutsch. – Das ist ein einfacher Hauptsatz ohne Nebensatz oder Infinitivgruppe – hier steht kein Komma.
+- Lösung: Peter geht in die Bibliothek [ ] um in Ruhe zu lernen.; Lukas ging los [ ] ohne seine Jacke mitzunehmen.; Mina hat keine Zeit [ ] heute länger zu bleiben.
 - Erklärung: Ein Komma steht immer bei **um / ohne / (an)statt … zu** sowie bei Infinitivgruppen, die von einem Nomen (*Zeit, Lust, Plan*) oder einem Hinweiswort (*es, daran*) abhängen.
 - Link: [../?via=tutor#infinitiv-komma-pflicht](../?via=tutor#infinitiv-komma-pflicht)

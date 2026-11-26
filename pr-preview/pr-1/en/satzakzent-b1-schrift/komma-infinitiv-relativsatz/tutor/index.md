@@ -43,13 +43,13 @@ Set commas accurately around relative clauses (including embedded ones) and infi
 
 ### Proofreading for the Lindenberg School Blog
 
-Sam is drafting an article for the school blog. At B1, his sentences grow richer: he adds details with **relative clauses** and states goals with **um … zu**. The **Sound-Spelling Board** now adds the B1 comma rules!
+Peter is drafting an article for the school blog. At B1, his sentences grow richer: he adds details with **relative clauses** and states goals with **um … zu**. The **Sound-Spelling Board** now adds the B1 comma rules!
 
 B1 comma rules for relative and infinitive clauses:
 - Clause type | Comma rule | Example
-- **Relative clause** at end | always a comma **before** it | Das ist der Kurs**,** den Sam besucht.
+- **Relative clause** at end | always a comma **before** it | Das ist der Kurs**,** den Peter besucht.
 - **Embedded** relative clause | **two** commas (like brackets) | Der Lehrer**,** der uns hilft**,** heißt Herr Braun.
-- **um / ohne / (an)statt … zu** | comma is **always mandatory** | Sam übt täglich**,** um klarer zu sprechen.
+- **um / ohne / (an)statt … zu** | comma is **always mandatory** | Peter übt täglich**,** um klarer zu sprechen.
 - Infinitive with **zu** after noun/correlate | comma is **mandatory** (e.g. *Zeit, Lust, es*) | Er hat Lust**,** einen Artikel zu schreiben.
 
 **Remember: The #1 relative-clause comma trap**
@@ -67,10 +67,10 @@ With an embedded relative clause, never forget the **closing comma** right after
 - Task: Which sentence places the commas around the embedded relative clause correctly?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ Die Schülerin, die neben Sam sitzt, heißt Nadia. – Correct! The relative clause *die neben Sam sitzt* is framed by two commas like brackets.
-  - ✗ Die Schülerin, die neben Sam sitzt heißt Nadia. – The closing comma between the two verbs *sitzt* and *heißt* is missing.
-  - ✗ Die Schülerin die neben Sam sitzt, heißt Nadia. – In German, every relative clause needs an opening comma too (unlike restrictive relative clauses in English).
-- Solution: Die Schülerin, die neben Sam sitzt, heißt Nadia.
+  - ✓ Die Schülerin, die neben Peter sitzt, heißt Nadia. – Correct! The relative clause *die neben Peter sitzt* is framed by two commas like brackets.
+  - ✗ Die Schülerin, die neben Peter sitzt heißt Nadia. – The closing comma between the two verbs *sitzt* and *heißt* is missing.
+  - ✗ Die Schülerin die neben Peter sitzt, heißt Nadia. – In German, every relative clause needs an opening comma too (unlike restrictive relative clauses in English).
+- Solution: Die Schülerin, die neben Peter sitzt, heißt Nadia.
 - Explanation: Unlike English, German sets **every** relative clause off with commas — when embedded mid-sentence, it needs **two** commas.
 - Link: [../?via=tutor#eingeschobener-relativsatz](../?via=tutor#eingeschobener-relativsatz)
 
@@ -79,10 +79,10 @@ With an embedded relative clause, never forget the **closing comma** right after
 - Task: In which sentences is a comma **mandatory** at [ ]?
 - Answer format: choose all right answers
 - Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ Sam geht in die Bibliothek [ ] um in Ruhe zu lernen. – Correct! Infinitive clauses with *um … zu* always take a comma.
+  - ✓ Peter geht in die Bibliothek [ ] um in Ruhe zu lernen. – Correct! Infinitive clauses with *um … zu* always take a comma.
   - ✓ Lukas ging los [ ] ohne seine Jacke mitzunehmen. – Correct! *ohne … zu* and *(an)statt … zu* always require a comma.
   - ✓ Mina hat keine Zeit [ ] heute länger zu bleiben. – Correct! The infinitive phrase depends on the noun *Zeit* → comma is mandatory.
-  - ✗ Sam lernt [ ] Deutsch. – This is a simple main clause with no subordinate or infinitive clause — no comma here.
-- Solution: Sam geht in die Bibliothek [ ] um in Ruhe zu lernen.; Lukas ging los [ ] ohne seine Jacke mitzunehmen.; Mina hat keine Zeit [ ] heute länger zu bleiben.
+  - ✗ Peter lernt [ ] Deutsch. – This is a simple main clause with no subordinate or infinitive clause — no comma here.
+- Solution: Peter geht in die Bibliothek [ ] um in Ruhe zu lernen.; Lukas ging los [ ] ohne seine Jacke mitzunehmen.; Mina hat keine Zeit [ ] heute länger zu bleiben.
 - Explanation: Always use a comma before **um / ohne / (an)statt … zu** and before infinitive phrases depending on a noun (*Zeit, Lust, Plan*) or correlate (*es, daran*).
 - Link: [../?via=tutor#infinitiv-komma-pflicht](../?via=tutor#infinitiv-komma-pflicht)

@@ -43,7 +43,7 @@ Pronounce German initial r-sounds, vocalized -er endings, and reduced unstressed
 
 ### Lehrer or Lehra? Two Faces of German R
 
-Sam listens closely when Mina talks about her **Bruder** and her **Lehrer**: the first **r** in *Bruder* is a soft consonant in the back of the throat, while the ending **-er** at the end sounds almost like a short, relaxed **-a**!
+Peter listens closely when Mina talks about her **Bruder** and her **Lehrer**: the first **r** in *Bruder* is a soft consonant in the back of the throat, while the ending **-er** at the end sounds almost like a short, relaxed **-a**!
 
 Sound-Spelling Board: R-sounds and unstressed endings:
 - Position / Ending | Standard German pronunciation | Examples
@@ -75,7 +75,7 @@ In English, the tongue tip curls back (*car*). In German, keep your tongue tip r
 
 ### Exercise endungen-natuerlich
 
-- Task: Match each word to its pronunciation note on Sam's board.
+- Task: Match each word to its pronunciation note on Peter's board.
 - Answer format: match each item on the left with one on the right
 - Solution: Brötchen (Br-) – consonantal r before a vowel; Computer (-er) – vocalized -er (sounds close to -a); lernen (-en) – reduced unstressed ending (brief schwa); Fahrrad (-hr) – first r after long vowel vocalized, second consonantal
 - Explanation: Natural German flows smoothly because unstressed endings (*-er, -en, -el*) stay short and relaxed rather than spelling out every vowel.

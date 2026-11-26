@@ -47,7 +47,7 @@ In diesem Kapitel lernst du, wie man Verbpräfixe richtig betont. Dafür brauchs
 
 **Merke: Kurz-Check im Kopf**
 
-Wie lautet der Hauptsatz mit *aufstehen* und *einkaufen*? — *Sam **steht** um sieben Uhr **auf**. Frau Weber **kauft** im Supermarkt **ein**.* Der Verbteil steht auf Position 2, das Präfix am Satzende.
+Wie lautet der Hauptsatz mit *aufstehen* und *einkaufen*? — *Peter **steht** um sieben Uhr **auf**. Frau Weber **kauft** im Supermarkt **ein**.* Der Verbteil steht auf Position 2, das Präfix am Satzende.
 
 - Aufgabe `recap-trennbare-verben` (unten)
 
@@ -56,8 +56,8 @@ Wie lautet der Hauptsatz mit *aufstehen* und *einkaufen*? — *Sam **steht** um 
 - Aufgabe: Welcher Satz trennt das Verb **anrufen** richtig?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ Sam ruft heute Abend seine Eltern an. – Richtig! Der Stamm *ruft* steht an Position 2, das Präfix *an* am Satzende.
-  - ✗ Sam anruft heute Abend seine Eltern. – *anrufen* ist trennbar – im Hauptsatz wandert *an* ans Ende.
-- Lösung: Sam ruft heute Abend seine Eltern an.
+  - ✓ Peter ruft heute Abend seine Eltern an. – Richtig! Der Stamm *ruft* steht an Position 2, das Präfix *an* am Satzende.
+  - ✗ Peter anruft heute Abend seine Eltern. – *anrufen* ist trennbar – im Hauptsatz wandert *an* ans Ende.
+- Lösung: Peter ruft heute Abend seine Eltern an.
 - Erklärung: Bei trennbaren Verben (*aufstehen, einkaufen, anrufen*) spaltet sich das Präfix im Hauptsatz ab und schließt die Satzklammer.
 - Link: [../?via=tutor#recap-trennbare-verben](../?via=tutor#recap-trennbare-verben)

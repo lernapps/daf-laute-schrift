@@ -43,7 +43,7 @@ Pronounce German umlauts (ä, ö, ü) with proper lip rounding and distinguish d
 
 ### Brötchen at the Lindenberg Bakery
 
-In the morning, Sam and Lukas buy fresh **Brötchen** at the **Bäcker**. Two small dots change both sound and meaning: *Brot* becomes *Brötchen*, *schon* (*already*) becomes *schön* (*nice*). Herr Braun adds a lip-position tip to the **Sound-Spelling Board**.
+In the morning, Peter and Lukas buy fresh **Brötchen** at the **Bäcker**. Two small dots change both sound and meaning: *Brot* becomes *Brötchen*, *schon* (*already*) becomes *schön* (*nice*). Herr Braun adds a lip-position tip to the **Sound-Spelling Board**.
 
 Mouth-position guide for umlauts ä, ö, ü:
 - Umlaut | Mouth tip | Examples
@@ -86,7 +86,7 @@ The **second** letter gives the English letter name: **ei** → English *I* (*ey
 
 ### Exercise diphthong-schreiben
 
-- Task: Choose the matching vowel spelling (ei, ie, eu, äu, or au) for Sam's Lindenberg notes.
+- Task: Choose the matching vowel spelling (ei, ie, eu, äu, or au) for Peter's Lindenberg notes.
 - Answer format: choose a word for each gap
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):

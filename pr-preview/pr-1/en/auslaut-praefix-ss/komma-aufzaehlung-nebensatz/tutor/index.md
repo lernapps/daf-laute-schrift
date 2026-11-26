@@ -41,9 +41,9 @@ If the address of this page names `bedarf=`, each section it names holds, severa
 
 Place commas accurately in lists and before subordinate clauses introduced by weil, dass, wenn, or als.
 
-### Commas as Clause Signposts in Sam's Email
+### Commas as Clause Signposts in Peter's Email
 
-Sam writes an email home about his week in Lindenberg. In German, commas do not simply mark pauses for breath as they often do in English — they mark clear **grammar boundaries**: lists and subordinate clauses.
+Peter writes an email home about his week in Lindenberg. In German, commas do not simply mark pauses for breath as they often do in English — they mark clear **grammar boundaries**: lists and subordinate clauses.
 
 Sound-Spelling Board: The two core A2 comma rules:
 - Rule | Where does the comma go? | Examples
@@ -53,7 +53,7 @@ Sound-Spelling Board: The two core A2 comma rules:
 
 **Remember: No Oxford comma in German!**
 
-In a simple list, German does not put a comma before **und** or **oder**: *Lukas, Mina und Sam* (never *Lukas, Mina, und Sam*). Before **aber** and **sondern**, however, always use a comma!
+In a simple list, German does not put a comma before **und** or **oder**: *Lukas, Mina und Peter* (never *Lukas, Mina, und Peter*). Before **aber** and **sondern**, however, always use a comma!
 
 ### Practice: Placing Commas Correctly
 
@@ -63,7 +63,7 @@ In a simple list, German does not put a comma before **und** or **oder**: *Lukas
 
 ### Exercise komma-weil-und
 
-- Task: Which sentence from Sam's email has every comma placed correctly?
+- Task: Which sentence from Peter's email has every comma placed correctly?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Ich freue mich, dass ich morgen Nadia, Lukas und Mina treffe. – Correct! A comma before the *dass*-clause, a comma between *Nadia* and *Lukas*, and no comma before *und*.
@@ -78,10 +78,10 @@ In a simple list, German does not put a comma before **und** or **oder**: *Lukas
 - Task: In which sentences is a comma **required** at [ ]?
 - Answer format: choose all right answers
 - Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ Sam nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist. – Correct! *weil* introduces a subordinate clause → comma required.
-  - ✓ Als Sam in Lindenberg ankam [ ] regnete es stark. – Correct! After an initial subordinate clause, place a comma before the main-clause verb.
+  - ✓ Peter nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist. – Correct! *weil* introduces a subordinate clause → comma required.
+  - ✓ Als Peter in Lindenberg ankam [ ] regnete es stark. – Correct! After an initial subordinate clause, place a comma before the main-clause verb.
   - ✗ Im Rucksack sind ein Heft [ ] und zwei Stifte. – In a simple list, do not put a comma before *und*.
   - ✓ Ich wollte kommen [ ] aber ich hatte Training. – Correct! Before the contrasting conjunction *aber*, German always requires a comma.
-- Solution: Sam nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.; Als Sam in Lindenberg ankam [ ] regnete es stark.; Ich wollte kommen [ ] aber ich hatte Training.
+- Solution: Peter nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.; Als Peter in Lindenberg ankam [ ] regnete es stark.; Ich wollte kommen [ ] aber ich hatte Training.
 - Explanation: Commas separate subordinate clauses (*weil, dass, wenn, als*) from main clauses and precede *aber* — but not *und* in a list.
 - Link: [../?via=tutor#komma-pflicht-erkennen](../?via=tutor#komma-pflicht-erkennen)

@@ -43,7 +43,7 @@ Capitalize sentence beginnings, all German nouns, and the formal pronoun Sie/Ihr
 
 ### Why Are There So Many Capital Letters?
 
-In Sam's first notebook in Lindenberg, Herr Braun marks three spots with a green dot: *'In German, **capitalization** helps the reader's eye right away: every **noun** wears a capital signal!'*
+In Peter's first notebook in Lindenberg, Herr Braun marks three spots with a green dot: *'In German, **capitalization** helps the reader's eye right away: every **noun** wears a capital signal!'*
 
 - Exercise `ich-klein-regel` (below)
 
@@ -67,7 +67,7 @@ Verbs (*lernen, fahren*), adjectives (*groß, deutsch* in *ein deutsches Buch*),
 
 ### Exercise ich-klein-regel
 
-- Task: Sam writes a message to Nadia. Which sentence uses correct German capitalization?
+- Task: Peter writes a message to Nadia. Which sentence uses correct German capitalization?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Heute lerne ich Deutsch in der Schule. – Correct! *Heute* (sentence start), *Deutsch* (language noun), and *Schule* (noun) are capitalized; *ich* is lowercase mid-sentence.
@@ -79,7 +79,7 @@ Verbs (*lernen, fahren*), adjectives (*groß, deutsch* in *ein deutsches Buch*),
 
 ### Exercise nomen-gross-schreiben
 
-- Task: Choose the correct capitalization for Sam's email to Herr Braun.
+- Task: Choose the correct capitalization for Peter's email to Herr Braun.
 - Answer format: choose a word for each gap
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
@@ -95,7 +95,7 @@ Verbs (*lernen, fahren*), adjectives (*groß, deutsch* in *ein deutsches Buch*),
 - Task: In which sentences must **Sie** be capitalized?
 - Answer format: choose all right answers
 - Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ Entschuldigung, können [Sie] mir den Weg zum Bahnhof zeigen? – Correct! Sam is politely addressing a stranger with formal *Sie*.
+  - ✓ Entschuldigung, können [Sie] mir den Weg zum Bahnhof zeigen? – Correct! Peter is politely addressing a stranger with formal *Sie*.
   - ✗ Das ist Mina. Morgen spielt [sie] im Sportverein. – Here *sie* means *she* (Mina), so it stays lowercase.
   - ✓ Frau Weber, möchten [Sie] noch einen Kaffee? – Correct! Direct formal address to Frau Weber → always capitalized.
   - ✗ Wo sind die Schüler? Ach, dort kommen [sie] schon! – Here *sie* means *they* (the students), so it stays lowercase.

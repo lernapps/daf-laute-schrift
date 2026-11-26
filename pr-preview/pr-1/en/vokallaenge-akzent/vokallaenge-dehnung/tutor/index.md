@@ -43,7 +43,7 @@ Hear, pronounce, and spot spelling signals for long vowels (ie, silent h) and sh
 
 ### Miete or Mitte? Length Changes Meaning
 
-Walking to the Gymnasium in Lindenberg, Sam asks Lukas: *'Wohnen wir in der **Miete** or in der **Mitte**?'* Lukas laughs: vowel length turns similar-looking words into different meanings — and German spelling almost always signals which one you need.
+Walking to the Gymnasium in Lindenberg, Peter asks Lukas: *'Wohnen wir in der **Miete** or in der **Mitte**?'* Lukas laughs: vowel length turns similar-looking words into different meanings — and German spelling almost always signals which one you need.
 
 Sound-Spelling Board: Signals for long and short vowels:
 - Vowel length | Spelling signal | Examples
@@ -76,7 +76,7 @@ In *Fa**h**rrad*, *wo**h**nen*, or *U**h**r*, the **h** is completely silent. It
 
 ### Exercise minimalpaare-laenge
 
-- Task: Match each word from Sam's school day to its vowel-length signal.
+- Task: Match each word from Peter's school day to its vowel-length signal.
 - Answer format: match each item on the left with one on the right
 - Solution: Klasse – short a (double consonant ss); Lehrer – long e (silent h); spielen – long i (spelled ie); Bäcker – short ä (ck acts as double k)
 - Explanation: On the Sound-Spelling Board, the core rule is: **ie / silent h / double vowel = long**, **double consonant / ck / tz = short**.

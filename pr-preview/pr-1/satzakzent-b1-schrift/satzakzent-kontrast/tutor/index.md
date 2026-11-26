@@ -43,13 +43,13 @@ Den Satzakzent gezielt verschieben, um neue Informationen hervorzuheben oder Mis
 
 ### Ein Satz, drei Bedeutungen
 
-Beim Proben für den Lindenberger Schul-Podcast merkt Sam: Derselbe Satz (*„Sam fährt morgen nach Berlin.“*) beantwortet ganz verschiedene Fragen – je nachdem, **welches Wort** den **Satzakzent** trägt!
+Beim Proben für den Lindenberger Schul-Podcast merkt Peter: Derselbe Satz (*„Peter fährt morgen nach Berlin.“*) beantwortet ganz verschiedene Fragen – je nachdem, **welches Wort** den **Satzakzent** trägt!
 
 Wie der Satzakzent den Fokus verschiebt:
 - Betonung im Satz | Was wird hervorgehoben? | Passender Kontrast
-- **SAM** fährt morgen nach Berlin. | die Person (nicht jemand anderes) | nicht Lukas, sondern Sam
-- Sam fährt **MORGEN** nach Berlin. | der Zeitpunkt | nicht erst am Freitag
-- Sam fährt morgen nach **BERLIN**. | das Ziel (neutraler Fokus / neue Info) | nicht nach Hamburg
+- **SAM** fährt morgen nach Berlin. | die Person (nicht jemand anderes) | nicht Lukas, sondern Peter
+- Peter fährt **MORGEN** nach Berlin. | der Zeitpunkt | nicht erst am Freitag
+- Peter fährt morgen nach **BERLIN**. | das Ziel (neutraler Fokus / neue Info) | nicht nach Hamburg
 
 **Merke: Faustregel für den Satzakzent**
 
@@ -63,7 +63,7 @@ Wie der Satzakzent den Fokus verschiebt:
 
 ### Aufgabe kontrast-korrektur
 
-- Aufgabe: Nadia fragt: *„Hast du das Buch **gekauft**?“* Sam will korrigieren: Er hat es nur **ausgeliehen**. Welches Wort betont Sam?
+- Aufgabe: Nadia fragt: *„Hast du das Buch **gekauft**?“* Peter will korrigieren: Er hat es nur **ausgeliehen**. Welches Wort betont Peter?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Nein, ich habe es **AUS**geliehen. – Richtig! *ausgeliehen* kontrastiert mit *gekauft* – und bei dem trennbaren Verb trägt das Präfix **AUS-** den Hauptakzent.

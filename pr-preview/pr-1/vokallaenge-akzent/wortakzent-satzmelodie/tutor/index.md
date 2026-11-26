@@ -49,7 +49,7 @@ Wortakzent und Satzmelodie auf einen Blick:
 - Bereich | Muster | Beispiele
 - Wortakzent (Grundregel) | Stammsilbe (meist Silbe 1) | **SCHU**-le, **WOH**-nen, **BRÖT**-chen
 - Zusammensetzungen | Erstes Wort betont | **DEUTSCH**-kurs, **BAHN**-hof, **HAUS**-aufgabe
-- Aussagesatz | Stimme fällt am Ende (↘) | Sam wohnt in Lindenberg. ↘
+- Aussagesatz | Stimme fällt am Ende (↘) | Peter wohnt in Lindenberg. ↘
 - W-Frage | Stimme fällt am Ende (↘) | Wo ist der Bahnhof? ↘
 - Ja/Nein-Frage | Stimme steigt am Ende (↗) | Kommst du heute mit? ↗
 

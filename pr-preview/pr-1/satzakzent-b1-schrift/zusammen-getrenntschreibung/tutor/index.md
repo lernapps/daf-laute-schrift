@@ -43,7 +43,7 @@ Zusammengesetzte deutsche Nomen richtig zusammenschreiben und nominalisierte Ver
 
 ### Letzter Schliff für den Blog: Keine Lücken in Komposita!
 
-Im Englischen stehen zusammengesetzte Begriffe oft getrennt (*language course, bike path*). Im Deutschen schreibt man sie **als ein einziges Wort** (*Sprachkurs, Fahrradweg*) – und wenn ein Verb oder Adjektiv wie ein Nomen gebraucht wird, trägt es auf Sams **Laut-Schrift-Tafel** ein großes Signal!
+Im Englischen stehen zusammengesetzte Begriffe oft getrennt (*language course, bike path*). Im Deutschen schreibt man sie **als ein einziges Wort** (*Sprachkurs, Fahrradweg*) – und wenn ein Verb oder Adjektiv wie ein Nomen gebraucht wird, trägt es auf Peters **Laut-Schrift-Tafel** ein großes Signal!
 
 Zusammenschreibung und Nominalisierung auf einen Blick:
 - Bereich | Regel & Signalwörter | Beispiele
@@ -63,7 +63,7 @@ Während Nomen-Komposita zusammengeschrieben werden (*das Fahrradfahren*), bleib
 
 ### Aufgabe nominalisierung-gross
 
-- Aufgabe: Wähle die richtige Schreibweise für Sams Abschlussbeitrag im Lindenberger Schulblog.
+- Aufgabe: Wähle die richtige Schreibweise für Peters Abschlussbeitrag im Lindenberger Schulblog.
 - Antwortformat: für jede Lücke ein Wort wählen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):
@@ -79,9 +79,9 @@ Während Nomen-Komposita zusammengeschrieben werden (*das Fahrradfahren*), bleib
 - Aufgabe: Welche Schreibweise ist im Standarddeutschen richtig?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ Sam bereitet sich auf die B1-Prüfung im Jugendzentrum vor. – Richtig! *Jugendzentrum* wird als normales Kompositum zusammengeschrieben, *B1-Prüfung* bekommt wegen der Ziffer/Abkürzung einen Bindestrich.
-  - ✗ Sam bereitet sich auf die B1 Prüfung im Jugend Zentrum vor. – Im Deutschen werden Nomen-Komposita nicht mit Leerzeichen getrennt (*Jugendzentrum*, *B1-Prüfung*).
-  - ✗ Sam bereitet sich auf die B1Prüfung im jugendzentrum vor. – Nomen (*Jugendzentrum*) sind immer groß, und Zusammensetzungen mit *B1* brauchen einen Bindestrich (*B1-Prüfung*).
-- Lösung: Sam bereitet sich auf die B1-Prüfung im Jugendzentrum vor.
+  - ✓ Peter bereitet sich auf die B1-Prüfung im Jugendzentrum vor. – Richtig! *Jugendzentrum* wird als normales Kompositum zusammengeschrieben, *B1-Prüfung* bekommt wegen der Ziffer/Abkürzung einen Bindestrich.
+  - ✗ Peter bereitet sich auf die B1 Prüfung im Jugend Zentrum vor. – Im Deutschen werden Nomen-Komposita nicht mit Leerzeichen getrennt (*Jugendzentrum*, *B1-Prüfung*).
+  - ✗ Peter bereitet sich auf die B1Prüfung im jugendzentrum vor. – Nomen (*Jugendzentrum*) sind immer groß, und Zusammensetzungen mit *B1* brauchen einen Bindestrich (*B1-Prüfung*).
+- Lösung: Peter bereitet sich auf die B1-Prüfung im Jugendzentrum vor.
 - Erklärung: Zusammengesetzte Nomen stehen ohne Leerzeichen als ein Wort – nur bei einzelnen Buchstaben, Abkürzungen oder Ziffern (*B1-Prüfung, E-Mail*) steht ein Bindestrich.
 - Link: [../?via=tutor#kompositum-richtig](../?via=tutor#kompositum-richtig)

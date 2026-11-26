@@ -43,7 +43,7 @@ Umlaute (ä, ö, ü) mit der richtigen Lippenrundung aussprechen und Diphthonge 
 
 ### Brötchen beim Bäcker in Lindenberg
 
-Morgens holt Sam mit Lukas frische **Brötchen** beim **Bäcker**. Zwei kleine Punkte verändern hier Bedeutung und Klang: *Brot* wird zu *Brötchen*, *schon* (*already*) zu *schön* (*nice*). Herr Braun zeigt den Lippen-Trick für die **Laut-Schrift-Tafel**.
+Morgens holt Peter mit Lukas frische **Brötchen** beim **Bäcker**. Zwei kleine Punkte verändern hier Bedeutung und Klang: *Brot* wird zu *Brötchen*, *schon* (*already*) zu *schön* (*nice*). Herr Braun zeigt den Lippen-Trick für die **Laut-Schrift-Tafel**.
 
 Mundstellung für die Umlaute ä, ö, ü:
 - Umlaut | Mundstellung | Beispiele
@@ -86,7 +86,7 @@ Der **zweite** Buchstabe verrät den Klang auf Englisch: **ei** → englisches *
 
 ### Aufgabe diphthong-schreiben
 
-- Aufgabe: Wähle den passenden Laut (ei, ie, eu, äu oder au) für Sams Notizen aus Lindenberg.
+- Aufgabe: Wähle den passenden Laut (ei, ie, eu, äu oder au) für Peters Notizen aus Lindenberg.
 - Antwortformat: für jede Lücke ein Wort wählen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):

@@ -43,7 +43,7 @@ Pronounce final b, d, and g as voiceless p, t, and k and still spell them accura
 
 ### Why Does Tag Sound Like Tak?
 
-In German class, Sam asks in surprise: *'Lukas says **Tak**, **Kint**, and **gelp** — yet the book writes **Tag**, **Kind**, and **gelb**!'* Herr Braun adds a new tile to the **Sound-Spelling Board**: at the end of a word or syllable, German voiced consonants always turn voiceless.
+In German class, Peter asks in surprise: *'Lukas says **Tak**, **Kint**, and **gelp** — yet the book writes **Tag**, **Kind**, and **gelb**!'* Herr Braun adds a new tile to the **Sound-Spelling Board**: at the end of a word or syllable, German voiced consonants always turn voiceless.
 
 Final devoicing and the extension test:
 - Spelling → Sound | At word end (voiceless) | Extended (voiced audible)

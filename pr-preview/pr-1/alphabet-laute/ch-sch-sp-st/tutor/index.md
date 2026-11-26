@@ -43,7 +43,7 @@ Ich-Laut und Ach-Laut (ch) unterscheiden und sch, sp/st am Wortanfang sowie z/tz
 
 ### Ich-Laut oder Ach-Laut? Zwei Seiten von ch
 
-Nadia liest Sam zwei Sätze vor: *„**Ich** ma**ch**e heute einen Ku**ch**en in der Kü**ch**e.“* Dasselbe **ch** klingt mal weich vorn im Mund (*ich, Küche*) und mal rau hinten (*mache, Kuchen*). Der Buchstabe **davor** entscheidet!
+Nadia liest Peter zwei Sätze vor: *„**Ich** ma**ch**e heute einen Ku**ch**en in der Kü**ch**e.“* Dasselbe **ch** klingt mal weich vorn im Mund (*ich, Küche*) und mal rau hinten (*mache, Kuchen*). Der Buchstabe **davor** entscheidet!
 
 Laut-Schrift-Tafel: ch, sch, sp/st und z:
 - Buchstaben | Wann / Wie? | Beispiele

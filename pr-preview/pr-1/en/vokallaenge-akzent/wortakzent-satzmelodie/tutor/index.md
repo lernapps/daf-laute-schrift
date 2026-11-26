@@ -49,7 +49,7 @@ Word stress and sentence melody at a glance:
 - Area | Pattern | Examples
 - Word stress (default) | Stem syllable (usually syllable 1) | **SCHU**-le, **WOH**-nen, **BRÖT**-chen
 - Compound nouns | First word stressed | **DEUTSCH**-kurs, **BAHN**-hof, **HAUS**-aufgabe
-- Statement | Voice falls at the end (↘) | Sam wohnt in Lindenberg. ↘
+- Statement | Voice falls at the end (↘) | Peter wohnt in Lindenberg. ↘
 - W-question | Voice falls at the end (↘) | Wo ist der Bahnhof? ↘
 - Yes/no question | Voice rises at the end (↗) | Kommst du heute mit? ↗
 
@@ -77,7 +77,7 @@ In a neutral W-question (*Wie heißt du? ↘*), your voice goes **down** at the 
 
 ### Exercise satzmelodie-zuordnen
 
-- Task: Match each sentence from Sam's chat with Nadia to its ending intonation.
+- Task: Match each sentence from Peter's chat with Nadia to its ending intonation.
 - Answer format: match each item on the left with one on the right
 - Solution: Hast du morgen Zeit? – rising (↗) – yes/no question; Wann beginnt der Unterricht? – falling (↘) – neutral W-question; Der Kurs beginnt um acht Uhr. – falling (↘) – statement
 - Explanation: Statements and neutral W-questions end with falling intonation (↘). Yes/no questions end with clear rising intonation (↗).

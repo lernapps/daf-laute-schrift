@@ -41,9 +41,9 @@ Nennt die Adresse dieser Seite `bedarf=`, gilt jeder Abschnitt, den sie nennt, m
 
 Kommas in Aufzählungen und vor Nebensätzen mit weil, dass, wenn oder als richtig setzen.
 
-### Kommas als Satz-Wegweiser in Sams E-Mail
+### Kommas als Satz-Wegweiser in Peters E-Mail
 
-Sam schreibt eine E-Mail an seine Eltern über die Woche in Lindenberg. Im Deutschen folgt das Komma nicht einfach dem Atem wie oft im Englischen, sondern festen **Grammatikgrenzen**: Aufzählungen und Nebensätze.
+Peter schreibt eine E-Mail an seine Eltern über die Woche in Lindenberg. Im Deutschen folgt das Komma nicht einfach dem Atem wie oft im Englischen, sondern festen **Grammatikgrenzen**: Aufzählungen und Nebensätze.
 
 Laut-Schrift-Tafel: Die zwei wichtigsten A2-Kommaregeln:
 - Regel | Wann steht das Komma? | Beispiele
@@ -53,7 +53,7 @@ Laut-Schrift-Tafel: Die zwei wichtigsten A2-Kommaregeln:
 
 **Merke: Kein Oxford-Komma im Deutschen!**
 
-Vor **und** und **oder** in einer einfachen Aufzählung steht im Deutschen kein Komma: *Lukas, Mina und Sam* (nicht: *Lukas, Mina, und Sam*). Vor **aber** und **sondern** dagegen steht immer ein Komma!
+Vor **und** und **oder** in einer einfachen Aufzählung steht im Deutschen kein Komma: *Lukas, Mina und Peter* (nicht: *Lukas, Mina, und Peter*). Vor **aber** und **sondern** dagegen steht immer ein Komma!
 
 ### Übung: Kommas richtig setzen
 
@@ -63,7 +63,7 @@ Vor **und** und **oder** in einer einfachen Aufzählung steht im Deutschen kein 
 
 ### Aufgabe komma-weil-und
 
-- Aufgabe: Welcher Satz aus Sams E-Mail hat alle Kommas genau richtig gesetzt?
+- Aufgabe: Welcher Satz aus Peters E-Mail hat alle Kommas genau richtig gesetzt?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Ich freue mich, dass ich morgen Nadia, Lukas und Mina treffe. – Richtig! Ein Komma vor dem Nebensatz mit *dass*, ein Komma zwischen *Nadia* und *Lukas*, und kein Komma vor *und*.
@@ -78,10 +78,10 @@ Vor **und** und **oder** in einer einfachen Aufzählung steht im Deutschen kein 
 - Aufgabe: In welchen Sätzen **muss** an der Stelle [ ] ein Komma stehen?
 - Antwortformat: alle richtigen Antworten wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ Sam nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist. – Richtig! *weil* leitet einen Nebensatz ein → Komma ist Pflicht.
-  - ✓ Als Sam in Lindenberg ankam [ ] regnete es stark. – Richtig! Nach einem vorangestellten Nebensatz steht das Komma vor dem Verb des Hauptsatzes.
+  - ✓ Peter nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist. – Richtig! *weil* leitet einen Nebensatz ein → Komma ist Pflicht.
+  - ✓ Als Peter in Lindenberg ankam [ ] regnete es stark. – Richtig! Nach einem vorangestellten Nebensatz steht das Komma vor dem Verb des Hauptsatzes.
   - ✗ Im Rucksack sind ein Heft [ ] und zwei Stifte. – In einer einfachen Aufzählung steht vor *und* kein Komma.
   - ✓ Ich wollte kommen [ ] aber ich hatte Training. – Richtig! Vor der entgegenstellenden Konjunktion *aber* steht im Deutschen immer ein Komma.
-- Lösung: Sam nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.; Als Sam in Lindenberg ankam [ ] regnete es stark.; Ich wollte kommen [ ] aber ich hatte Training.
+- Lösung: Peter nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.; Als Peter in Lindenberg ankam [ ] regnete es stark.; Ich wollte kommen [ ] aber ich hatte Training.
 - Erklärung: Kommas trennen Nebensätze (*weil, dass, wenn, als*) vom Hauptsatz und stehen vor *aber* – aber nicht vor *und* in einer Aufzählung.
 - Link: [../?via=tutor#komma-pflicht-erkennen](../?via=tutor#komma-pflicht-erkennen)
