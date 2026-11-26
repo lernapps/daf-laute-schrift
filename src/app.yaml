@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+format: 2
+strand: daf/aussprache
+title:
+  de: Laute und Schrift des Deutschen
+  en: Sounds and Spelling of German
+intro:
+  de: "In Herr Brauns Kurs in Lindenberg baut Sam eine interaktive Laut-Schrift-Tafel auf: von Buchstaben, Umlauten und Konsonanten über Vokallänge und Großschreibung bis zu Auslautverhärtung, Präfixakzent, ss/ß, Fremdwörtern und B1-Kommaregeln."
+  en: "In Herr Braun's class in Lindenberg, Sam builds an interactive Sound-Spelling Board: from letters, umlauts, and consonants through vowel length and capitalization to final devoicing, prefix stress, ss/ß, loanwords, and B1 comma rules."
+languages: [de, en]
+chapters:
+  - alphabet-laute
+  - vokallaenge-akzent
+  - auslaut-praefix-ss
+  - satzakzent-b1-schrift

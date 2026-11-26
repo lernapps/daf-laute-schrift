@@ -1,0 +1,113 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Fremdwörter richtig aussprechen und betonen"
+  en: "Pronouncing Common Loanwords"
+description:
+  de: "Internationale Fremdwörter mit typischen Endungen (-tion, -ie, -ieren, -tät, -ik) auf Deutsch richtig betonen und aussprechen."
+  en: "Pronounce and stress common international loanwords in German (-tion, -ie, -ieren, -tät, -ik) accurately."
+competencies: [fremdwoerter-aussprache]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Vertraute Wörter, neuer Rhythmus"
+      en: "Familiar Words, New Rhythm"
+    blocks:
+      - type: text
+        text:
+          de: "Für den Schulblog schreibt Sam über *Information, Musik, fotografieren* und *Universität*. Die Wörter sehen fast aus wie im Englischen – aber auf Sams **Laut-Schrift-Tafel** gilt eine eigene Regel: **Bei Fremdwörtern wandert der Akzent fast immer ans Wortende!**"
+          en: "For the school blog, Sam writes about *Information, Musik, fotografieren*, and *Universität*. The words look almost like English — yet on Sam's **Sound-Spelling Board**, a different rule applies: **in loanwords, German stress almost always moves to the end!**"
+      - type: table
+        caption:
+          de: "Typische Fremdwort-Endungen im Deutschen"
+          en: "Common loanword endings in German"
+        header:
+          - { de: "Endung", en: "Ending" }
+          - { de: "Betonung & Klang", en: "Stress & sound" }
+          - { de: "Beispiele", en: "Examples" }
+        rows:
+          - - { de: "**-tion**", en: "**-tion**" }
+            - { de: "betontes **-TSIOHN** (nie englisch *-shun*)", en: "stressed **-TSYOHN** (never English *-shun*)" }
+            - {
+                de: "In-for-ma-**TION**, Sta-**TION**, Na-**TION**",
+                en: "In-for-ma-**TION**, Sta-**TION**, Na-**TION**",
+              }
+          - - { de: "**-ieren**", en: "**-ieren**" }
+            - { de: "immer auf **-IE-** (langes *i*)", en: "always on **-IE-** (long *ee*)" }
+            - {
+                de: "stu-**DIE**-ren, fo-to-gra-**FIE**-ren, te-le-fo-**NIE**-ren",
+                en: "stu-**DIE**-ren, fo-to-gra-**FIE**-ren, te-le-fo-**NIE**-ren",
+              }
+          - - { de: "**-tät**", en: "**-tät**" }
+            - { de: "immer auf **-TÄT** (langes *ä*)", en: "always on **-TÄT** (long *ä*)" }
+            - {
+                de: "U-ni-ver-si-**TÄT**, Qua-li-**TÄT**, Ak-ti-vi-**TÄT**",
+                en: "U-ni-ver-si-**TÄT**, Qua-li-**TÄT**, Ak-ti-vi-**TÄT**",
+              }
+          - - { de: "**-ie / -ik**", en: "**-ie / -ik**" }
+            - { de: "meist auf der letzten Silbe", en: "usually on the final syllable" }
+            - {
+                de: "E-ner-**GIE**, Bio-lo-**GIE**, Mu-**SIK**, Po-li-**TIK**",
+                en: "E-ner-**GIE**, Bio-lo-**GIE**, Mu-**SIK**, Po-li-**TIK**",
+              }
+      - type: note
+        title:
+          de: "Achtung bei -ik-Ausnahmen und Englisch-Einfluss"
+          en: "Watch out for a few -ik exceptions"
+        blocks:
+          - type: text
+            text:
+              de: "Fast alle *-ik*-Wörter betonen die letzte Silbe (*Mu**SIK**, Ma-the-ma-**TIK**, Fa-**BRIK**). Nur wenige häufige Wörter tragen den Akzent vorn: **TECH**-nik, **PLAS**-tik, **GRAM**-ma-tik (meist Gram-**MA**-tik)."
+              en: "Almost all *-ik* words stress the last syllable (*Mu**SIK**, Ma-the-ma-**TIK**, Fa-**BRIK**). Only a handful of common words pull stress earlier: **TECH**-nik, **PLAS**-tik, Gram-**MA**-tik."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Fremdwörter sicher betonen"
+      en: "Practice: Stressing Loanwords Accurately"
+    blocks:
+      - type: single-choice
+        id: tion-aussprache
+        text:
+          de: "Wie spricht man das Wort **Information** im Standarddeutschen aus?"
+          en: "How is **Information** pronounced in Standard German?"
+        options:
+          - text:
+              {
+                de: "In-for-ma-**TSIOHN** (Endung *-tion* betont, mit *ts*)",
+                en: "In-for-ma-**TSYOHN** (final *-tion* stressed, with *ts*)",
+              }
+            correct: true
+            info:
+              de: "Richtig! Im Deutschen wird *-tion* immer als betontes **-tsiohn** gesprochen."
+              en: "Correct! In German, *-tion* is always pronounced as stressed **-tsyohn**."
+          - text: { de: "In-for-**MAY**-schən (wie im Englischen)", en: "In-for-**MAY**-shun (as in English)" }
+            correct: false
+            info:
+              de: "Das ist die englische Aussprache – im Deutschen bleibt der Vokal klar (*-tsiohn*) und der Akzent liegt auf der letzten Silbe."
+              en: "That is the English pronunciation — German keeps a clear vowel (*-tsyohn*) and stresses the final syllable."
+          - text: { de: "**IN**-for-ma-tion (auf der ersten Silbe)", en: "**IN**-for-ma-tion (on the first syllable)" }
+            correct: false
+            info:
+              de: "Anders als bei deutschen Erbwörtern liegt der Hauptakzent bei *-tion*-Wörtern immer auf der Endung."
+              en: "Unlike native German words, *-tion* loanwords always put main stress on the ending."
+        explanation:
+          de: "Endungen wie **-tion**, **-tät**, **-ieren** und **-ie** ziehen den Hauptakzent im Deutschen zuverlässig an das Wortende."
+          en: "Endings such as **-tion**, **-tät**, **-ieren**, and **-ie** reliably pull German main stress to the end of the word."
+      - type: matching
+        id: fremdwoerter-akzent-sortieren
+        text:
+          de: "Ordne jedes Fremdwort aus Sams Schulblog seiner betonten Silbe zu."
+          en: "Match each loanword from Sam's school blog to its stressed syllable."
+        pairs:
+          - left: { de: "organisieren", en: "organisieren" }
+            right: { de: "or-ga-ni-**SIE**-ren", en: "or-ga-ni-**SIE**-ren" }
+          - left: { de: "Universität", en: "Universität" }
+            right: { de: "U-ni-ver-si-**TÄT**", en: "U-ni-ver-si-**TÄT**" }
+          - left: { de: "Fotografie", en: "Fotografie" }
+            right: { de: "Fo-to-gra-**FIE**", en: "Fo-to-gra-**FIE**" }
+          - left: { de: "Mathematik", en: "Mathematik" }
+            right: { de: "Ma-the-ma-**TIK**", en: "Ma-the-ma-**TIK**" }
+        explanation:
+          de: "Mit diesen vier Endungen (**-ieren, -tät, -ie, -ik**) triffst du die Betonung von Hunderten internationaler Wörter im Deutschen sofort."
+          en: "Mastering these four endings (**-ieren, -tät, -ie, -ik**) lets you stress hundreds of international German words right on the first try."

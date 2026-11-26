@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Satzakzent, Fremdwörter und B1-Rechtschreibung"
+  en: "Sentence Emphasis, Loanwords and B1 Spelling"
+summary:
+  de: "Sam nutzt die Laut-Schrift-Tafel für ganze Sätze und den Schulblog: Kontrastakzent, Fremdwörter, B1-Kommas sowie Zusammenschreibung und Nominalisierung."
+  en: "Sam applies the Sound-Spelling Board to dialogues and the school blog: contrastive stress, loanwords, B1 commas, and compounds & nominalizations."
+pages:
+  - satzakzent-kontrast
+  - fremdwoerter-aussprache
+  - komma-infinitiv-relativsatz
+  - zusammen-getrenntschreibung

@@ -1,0 +1,140 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Grundregeln für das Komma"
+  en: "Basic Comma Rules"
+description:
+  de: "Kommas in Aufzählungen und vor Nebensätzen mit weil, dass, wenn oder als richtig setzen."
+  en: "Place commas accurately in lists and before subordinate clauses introduced by weil, dass, wenn, or als."
+competencies: [komma-aufzaehlung-nebensatz]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Kommas als Satz-Wegweiser in Sams E-Mail"
+      en: "Commas as Clause Signposts in Sam's Email"
+    blocks:
+      - type: text
+        text:
+          de: "Sam schreibt eine E-Mail an seine Eltern über die Woche in Lindenberg. Im Deutschen folgt das Komma nicht einfach dem Atem wie oft im Englischen, sondern festen **Grammatikgrenzen**: Aufzählungen und Nebensätze."
+          en: "Sam writes an email home about his week in Lindenberg. In German, commas do not simply mark pauses for breath as they often do in English — they mark clear **grammar boundaries**: lists and subordinate clauses."
+      - type: table
+        caption:
+          de: "Laut-Schrift-Tafel: Die zwei wichtigsten A2-Kommaregeln"
+          en: "Sound-Spelling Board: The two core A2 comma rules"
+        header:
+          - { de: "Regel", en: "Rule" }
+          - { de: "Wann steht das Komma?", en: "Where does the comma go?" }
+          - { de: "Beispiele", en: "Examples" }
+        rows:
+          - - { de: "1. Aufzählungen", en: "1. Lists" }
+            - {
+                de: "zwischen gleichen Gliedern – **kein** Komma vor *und / oder*",
+                en: "between list items — **no** comma before *und / oder*",
+              }
+            - { de: "Wir kaufen Brötchen**,** Äpfel **und** Käse.", en: "Wir kaufen Brötchen**,** Äpfel **und** Käse." }
+          - - { de: "2. Nebensätze", en: "2. Subordinate clauses" }
+            - {
+                de: "immer vor (und nach) *weil, dass, wenn, als, ob*",
+                en: "always before (and after) *weil, dass, wenn, als, ob*",
+              }
+            - { de: "Ich bleibe zu Hause**, weil** es regnet.", en: "Ich bleibe zu Hause**, weil** es regnet." }
+          - - { de: "Nebensatz zuerst", en: "Subordinate clause first" }
+            - { de: "Komma direkt zwischen den beiden Verben", en: "comma right between the two verbs" }
+            - { de: "Wenn ich Zeit habe**,** spiele ich Fußball.", en: "Wenn ich Zeit habe**,** spiele ich Fußball." }
+      - type: note
+        title:
+          de: "Kein Oxford-Komma im Deutschen!"
+          en: "No Oxford comma in German!"
+        blocks:
+          - type: text
+            text:
+              de: "Vor **und** und **oder** in einer einfachen Aufzählung steht im Deutschen kein Komma: *Lukas, Mina und Sam* (nicht: *Lukas, Mina, und Sam*). Vor **aber** und **sondern** dagegen steht immer ein Komma!"
+              en: "In a simple list, German does not put a comma before **und** or **oder**: *Lukas, Mina und Sam* (never *Lukas, Mina, und Sam*). Before **aber** and **sondern**, however, always use a comma!"
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Kommas richtig setzen"
+      en: "Practice: Placing Commas Correctly"
+    blocks:
+      - type: single-choice
+        id: komma-weil-und
+        text:
+          de: "Welcher Satz aus Sams E-Mail hat alle Kommas genau richtig gesetzt?"
+          en: "Which sentence from Sam's email has every comma placed correctly?"
+        options:
+          - text:
+              {
+                de: "Ich freue mich, dass ich morgen Nadia, Lukas und Mina treffe.",
+                en: "Ich freue mich, dass ich morgen Nadia, Lukas und Mina treffe.",
+              }
+            correct: true
+            info:
+              de: "Richtig! Ein Komma vor dem Nebensatz mit *dass*, ein Komma zwischen *Nadia* und *Lukas*, und kein Komma vor *und*."
+              en: "Correct! A comma before the *dass*-clause, a comma between *Nadia* and *Lukas*, and no comma before *und*."
+          - text:
+              {
+                de: "Ich freue mich dass ich morgen Nadia, Lukas, und Mina treffe.",
+                en: "Ich freue mich dass ich morgen Nadia, Lukas, und Mina treffe.",
+              }
+            correct: false
+            info:
+              de: "Hier fehlt das Pflichtkomma vor *dass*, und vor *und* in der Aufzählung steht ein Komma zu viel."
+              en: "This misses the mandatory comma before *dass* and adds an unwanted Oxford comma before *und*."
+          - text:
+              {
+                de: "Ich freue mich, dass ich morgen, Nadia Lukas und Mina treffe.",
+                en: "Ich freue mich, dass ich morgen, Nadia Lukas und Mina treffe.",
+              }
+            correct: false
+            info:
+              de: "Zwischen *morgen* und *Nadia* gehört kein Komma, aber zwischen die Aufzählungsglieder *Nadia* und *Lukas*."
+              en: "Do not put a comma after *morgen*; put it between the list items *Nadia* and *Lukas*."
+        explanation:
+          de: "Merke: Vor Nebensätzen (*weil, dass, wenn, als*) steht **immer** ein Komma; in Aufzählungen ersetzt *und / oder* das Komma."
+          en: "Remember: subordinate clauses (*weil, dass, wenn, als*) **always** take a comma; in lists, *und / oder* replaces the comma."
+      - type: multiple-choice
+        id: komma-pflicht-erkennen
+        text:
+          de: "In welchen Sätzen **muss** an der Stelle [ ] ein Komma stehen?"
+          en: "In which sentences is a comma **required** at [ ]?"
+        options:
+          - text:
+              {
+                de: "Sam nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.",
+                en: "Sam nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.",
+              }
+            correct: true
+            info:
+              de: "Richtig! *weil* leitet einen Nebensatz ein → Komma ist Pflicht."
+              en: "Correct! *weil* introduces a subordinate clause → comma required."
+          - text:
+              {
+                de: "Als Sam in Lindenberg ankam [ ] regnete es stark.",
+                en: "Als Sam in Lindenberg ankam [ ] regnete es stark.",
+              }
+            correct: true
+            info:
+              de: "Richtig! Nach einem vorangestellten Nebensatz steht das Komma vor dem Verb des Hauptsatzes."
+              en: "Correct! After an initial subordinate clause, place a comma before the main-clause verb."
+          - text:
+              {
+                de: "Im Rucksack sind ein Heft [ ] und zwei Stifte.",
+                en: "Im Rucksack sind ein Heft [ ] und zwei Stifte.",
+              }
+            correct: false
+            info:
+              de: "In einer einfachen Aufzählung steht vor *und* kein Komma."
+              en: "In a simple list, do not put a comma before *und*."
+          - text:
+              {
+                de: "Ich wollte kommen [ ] aber ich hatte Training.",
+                en: "Ich wollte kommen [ ] aber ich hatte Training.",
+              }
+            correct: true
+            info:
+              de: "Richtig! Vor der entgegenstellenden Konjunktion *aber* steht im Deutschen immer ein Komma."
+              en: "Correct! Before the contrasting conjunction *aber*, German always requires a comma."
+        explanation:
+          de: "Kommas trennen Nebensätze (*weil, dass, wenn, als*) vom Hauptsatz und stehen vor *aber* – aber nicht vor *und* in einer Aufzählung."
+          en: "Commas separate subordinate clauses (*weil, dass, wenn, als*) from main clauses and precede *aber* — but not *und* in a list."

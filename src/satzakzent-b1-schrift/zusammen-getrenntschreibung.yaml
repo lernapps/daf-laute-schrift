@@ -1,0 +1,127 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Zusammenschreibung und Nominalisierung"
+  en: "Compounds and Nominalizations"
+description:
+  de: "Zusammengesetzte deutsche Nomen richtig zusammenschreiben und nominalisierte Verben und Adjektive (beim Lesen, alles Gute) großschreiben."
+  en: "Write German compound nouns as single words and capitalize nominalized verbs and adjectives (beim Lesen, alles Gute)."
+competencies: [zusammen-getrenntschreibung]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Letzter Schliff für den Blog: Keine Lücken in Komposita!"
+      en: "Final Polish for the Blog: No Gaps in Compound Nouns!"
+    blocks:
+      - type: text
+        text:
+          de: "Im Englischen stehen zusammengesetzte Begriffe oft getrennt (*language course, bike path*). Im Deutschen schreibt man sie **als ein einziges Wort** (*Sprachkurs, Fahrradweg*) – und wenn ein Verb oder Adjektiv wie ein Nomen gebraucht wird, trägt es auf Sams **Laut-Schrift-Tafel** ein großes Signal!"
+          en: "In English, compound nouns are often written with spaces (*language course, bike path*). In German, you write them **as one single word** (*Sprachkurs, Fahrradweg*) — and whenever a verb or adjective is used as a noun, it earns a capital letter on Sam's **Sound-Spelling Board**!"
+      - type: table
+        caption:
+          de: "Zusammenschreibung und Nominalisierung auf einen Blick"
+          en: "Compounds and nominalizations at a glance"
+        header:
+          - { de: "Bereich", en: "Area" }
+          - { de: "Regel & Signalwörter", en: "Rule & signal words" }
+          - { de: "Beispiele", en: "Examples" }
+        rows:
+          - - { de: "**Nomen-Komposita**", en: "**Compound nouns**" }
+            - {
+                de: "immer **zusammen** (Bindestrich nur bei Abkürzungen/Ziffern)",
+                en: "always **one word** (hyphen only with abbreviations/digits)",
+              }
+            - {
+                de: "Deutschkurs, Schulblog, Sommerferien, **B1-Prüfung**",
+                en: "Deutschkurs, Schulblog, Sommerferien, **B1-Prüfung**",
+              }
+          - - { de: "**Nominalisierte Verben**", en: "**Nominalized verbs**" }
+            - {
+                de: "groß nach Artikel oder Präposition (*das, beim, zum, vom*)",
+                en: "capitalized after an article or preposition (*das, beim, zum, vom*)",
+              }
+            - {
+                de: "**das Lesen**, **beim Lernen**, **zum Schwimmen**",
+                en: "**das Lesen**, **beim Lernen**, **zum Schwimmen**",
+              }
+          - - { de: "**Nominalisierte Adjektive**", en: "**Nominalized adjectives**" }
+            - {
+                de: "groß nach *etwas, nichts, alles, viel, wenig*",
+                en: "capitalized after *etwas, nichts, alles, viel, wenig*",
+              }
+            - {
+                de: "etwas **Gutes**, alles **Liebe**, nichts **Neues**",
+                en: "etwas **Gutes**, alles **Liebe**, nichts **Neues**",
+              }
+      - type: note
+        title:
+          de: "Verben bleiben meist getrennt"
+          en: "Two verbs or noun + verb stay separate"
+        blocks:
+          - type: text
+            text:
+              de: "Während Nomen-Komposita zusammengeschrieben werden (*das Fahrradfahren*), bleiben Verbverbindungen wie *Rad fahren*, *Fußball spielen* oder *spazieren gehen* im Infinitiv getrennt."
+              en: "While compound nouns are written as one word (*das Fahrradfahren*), verb phrases like *Rad fahren*, *Fußball spielen*, and *spazieren gehen* stay separate."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Zusammenschreibung & Nominalisierung"
+      en: "Practice: Compounds & Nominalizations"
+    blocks:
+      - type: language-task
+        id: nominalisierung-gross
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle die richtige Schreibweise für Sams Abschlussbeitrag im Lindenberger Schulblog."
+          en: "Choose the right spelling for Sam's final post on the Lindenberg school blog."
+        items:
+          - source: "I wish you all the best!"
+            target: "Ich wünsche euch alles [Gute]!"
+            distractors: [["gute"]]
+          - source: "While reading, I learn new words."
+            target: "Beim [Lesen] lerne ich viele [neue] Wörter."
+            distractors: [["lesen"], ["Neue"]]
+          - source: "Did anything exciting happen at the language course?"
+            target: "Ist im [Sprachkurs] etwas [Spannendes] passiert?"
+            distractors: [["Sprach Kurs"], ["spannendes"]]
+        explanation:
+          de: "Nach *alles, etwas* und *beim* werden Adjektive und Verben zu Nomen (*alles Gute, beim Lesen, etwas Spannendes*). Steht ein Adjektiv aber vor einem Nomen (*viele neue Wörter*), bleibt es klein. Komposita wie *Sprachkurs* schreibt man zusammen."
+          en: "After *alles, etwas*, and *beim*, adjectives and verbs turn into nouns (*alles Gute, beim Lesen, etwas Spannendes*). Before a noun (*viele neue Wörter*), an adjective stays lowercase. Compound nouns like *Sprachkurs* are always one word."
+      - type: single-choice
+        id: kompositum-richtig
+        text:
+          de: "Welche Schreibweise ist im Standarddeutschen richtig?"
+          en: "Which spelling is correct in Standard German?"
+        options:
+          - text:
+              {
+                de: "Sam bereitet sich auf die B1-Prüfung im Jugendzentrum vor.",
+                en: "Sam bereitet sich auf die B1-Prüfung im Jugendzentrum vor.",
+              }
+            correct: true
+            info:
+              de: "Richtig! *Jugendzentrum* wird als normales Kompositum zusammengeschrieben, *B1-Prüfung* bekommt wegen der Ziffer/Abkürzung einen Bindestrich."
+              en: "Correct! *Jugendzentrum* is written as one word, while *B1-Prüfung* uses a hyphen because of the code/digit."
+          - text:
+              {
+                de: "Sam bereitet sich auf die B1 Prüfung im Jugend Zentrum vor.",
+                en: "Sam bereitet sich auf die B1 Prüfung im Jugend Zentrum vor.",
+              }
+            correct: false
+            info:
+              de: "Im Deutschen werden Nomen-Komposita nicht mit Leerzeichen getrennt (*Jugendzentrum*, *B1-Prüfung*)."
+              en: "German does not separate compound nouns with spaces (*Jugendzentrum*, *B1-Prüfung*)."
+          - text:
+              {
+                de: "Sam bereitet sich auf die B1Prüfung im jugendzentrum vor.",
+                en: "Sam bereitet sich auf die B1Prüfung im jugendzentrum vor.",
+              }
+            correct: false
+            info:
+              de: "Nomen (*Jugendzentrum*) sind immer groß, und Zusammensetzungen mit *B1* brauchen einen Bindestrich (*B1-Prüfung*)."
+              en: "Nouns (*Jugendzentrum*) are always capitalized, and compounds with *B1* require a hyphen (*B1-Prüfung*)."
+        explanation:
+          de: "Zusammengesetzte Nomen stehen ohne Leerzeichen als ein Wort – nur bei einzelnen Buchstaben, Abkürzungen oder Ziffern (*B1-Prüfung, E-Mail*) steht ein Bindestrich."
+          en: "Compound nouns are written as a single word with no spaces — only single letters, abbreviations, or digits (*B1-Prüfung, E-Mail*) take a hyphen."

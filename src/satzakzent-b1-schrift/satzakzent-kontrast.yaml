@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Satzakzent und Kontrastbetonung"
+  en: "Sentence Stress and Emphasis"
+description:
+  de: "Den Satzakzent gezielt verschieben, um neue Informationen hervorzuheben oder Missverständnisse im Gespräch zu korrigieren."
+  en: "Shift sentence stress purposefully to highlight new information or express contrast in conversation."
+competencies: [satzakzent-kontrast]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Ein Satz, drei Bedeutungen"
+      en: "One Sentence, Three Meanings"
+    blocks:
+      - type: text
+        text:
+          de: "Beim Proben für den Lindenberger Schul-Podcast merkt Sam: Derselbe Satz (*„Sam fährt morgen nach Berlin.“*) beantwortet ganz verschiedene Fragen – je nachdem, **welches Wort** den **Satzakzent** trägt!"
+          en: "While rehearsing for the Lindenberg school podcast, Sam notices: the exact same sentence (*'Sam fährt morgen nach Berlin.'*) answers completely different questions depending on **which word** gets the **sentence stress**!"
+      - type: table
+        caption:
+          de: "Wie der Satzakzent den Fokus verschiebt"
+          en: "How sentence stress shifts focus"
+        header:
+          - { de: "Betonung im Satz", en: "Stressed word in sentence" }
+          - { de: "Was wird hervorgehoben?", en: "What is highlighted?" }
+          - { de: "Passender Kontrast", en: "Matching contrast" }
+        rows:
+          - - { de: "**SAM** fährt morgen nach Berlin.", en: "**SAM** fährt morgen nach Berlin." }
+            - { de: "die Person (nicht jemand anderes)", en: "the person (not someone else)" }
+            - { de: "nicht Lukas, sondern Sam", en: "not Lukas, but Sam" }
+          - - { de: "Sam fährt **MORGEN** nach Berlin.", en: "Sam fährt **MORGEN** nach Berlin." }
+            - { de: "der Zeitpunkt", en: "the time" }
+            - { de: "nicht erst am Freitag", en: "not on Friday" }
+          - - { de: "Sam fährt morgen nach **BERLIN**.", en: "Sam fährt morgen nach **BERLIN**." }
+            - { de: "das Ziel (neutraler Fokus / neue Info)", en: "the destination (neutral focus / new info)" }
+            - { de: "nicht nach Hamburg", en: "not to Hamburg" }
+      - type: note
+        title:
+          de: "Faustregel für den Satzakzent"
+          en: "Rule of thumb for sentence stress"
+        blocks:
+          - type: text
+            text:
+              de: "**Neue** oder **korrigierte** Information wird betont; bereits bekannte Wörter bleiben leiser und schneller. In einem neutralen Satz liegt der Satzakzent meist auf dem letzten neuen Inhaltswort (oft direkt vor dem Verb am Satzende)."
+              en: "**New** or **corrected** information gets the stress; already known words stay softer and faster. In a neutral sentence, main stress usually falls on the last new content word (often right before a clause-final verb)."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Den richtigen Kontrast betonen"
+      en: "Practice: Stressing the Right Contrast"
+    blocks:
+      - type: single-choice
+        id: kontrast-korrektur
+        text:
+          de: "Nadia fragt: *„Hast du das Buch **gekauft**?“* Sam will korrigieren: Er hat es nur **ausgeliehen**. Welches Wort betont Sam?"
+          en: "Nadia asks: *'Hast du das Buch **gekauft**?'* Sam wants to correct her: he only **borrowed** it. Which word should Sam stress?"
+        options:
+          - text: { de: "Nein, ich habe es **AUS**geliehen.", en: "Nein, ich habe es **AUS**geliehen." }
+            correct: true
+            info:
+              de: "Richtig! *ausgeliehen* kontrastiert mit *gekauft* – und bei dem trennbaren Verb trägt das Präfix **AUS-** den Hauptakzent."
+              en: "Correct! *ausgeliehen* contrasts with *gekauft* — and in this separable verb, the prefix **AUS-** carries the main stress."
+          - text: { de: "Nein, **ICH** habe es ausgeliehen.", en: "Nein, **ICH** habe es ausgeliehen." }
+            correct: false
+            info:
+              de: "Wer das Buch hat, ist schon klar – ein Akzent auf *ICH* würde klingen als *ich, nicht jemand anderes*."
+              en: "Who has the book is already known — stressing *ICH* would mean *I did, not someone else*."
+          - text: { de: "Nein, ich **HABE** es ausgeliehen.", en: "Nein, ich **HABE** es ausgeliehen." }
+            correct: false
+            info:
+              de: "Das Hilfsverb *habe* trägt keine neue Information; der Kontrast liegt auf der Handlung (*ausgeliehen*)."
+              en: "The auxiliary *habe* carries no new contrast; the contrast is on the action (*ausgeliehen*)."
+        explanation:
+          de: "Im Gespräch wandert der Satzakzent genau auf das Wort, das die neue Information oder Korrektur liefert."
+          en: "In conversation, sentence stress moves directly onto the word that delivers the new information or correction."
+      - type: matching
+        id: frage-fokus-zuordnen
+        text:
+          de: "Ordne jede Frage der Antwort mit dem passenden Satzakzent zu."
+          en: "Match each question to the answer with the matching sentence stress."
+        pairs:
+          - left: { de: "Wann schreibt ihr den Deutschtest?", en: "Wann schreibt ihr den Deutschtest?" }
+            right: { de: "Wir schreiben den Test am **DIENSTAG**.", en: "Wir schreiben den Test am **DIENSTAG**." }
+          - left: { de: "Wer hat die Kekse mitgebracht?", en: "Wer hat die Kekse mitgebracht?" }
+            right: { de: "**MINA** hat die Kekse mitgebracht.", en: "**MINA** hat die Kekse mitgebracht." }
+          - left: { de: "Fährt Frau Weber mit dem Auto zur Arbeit?", en: "Fährt Frau Weber mit dem Auto zur Arbeit?" }
+            right: { de: "Nein, sie fährt mit dem **FAHRRAD**.", en: "Nein, sie fährt mit dem **FAHRRAD**." }
+        explanation:
+          de: "Das Wort, das direkt auf die Frage antwortet oder eine Annahme korrigiert, trägt den stärksten Akzent im Satz."
+          en: "The word that directly answers the question or corrects an assumption carries the strongest stress in the sentence."

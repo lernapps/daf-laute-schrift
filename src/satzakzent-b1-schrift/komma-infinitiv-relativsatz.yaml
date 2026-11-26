@@ -1,0 +1,139 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Kommas bei Relativ- und Infinitivsätzen"
+  en: "Commas in Complex Sentences"
+description:
+  de: "Relativsätze (auch eingeschoben mit zwei Kommas) und Infinitivsätze mit um/ohne/statt … zu sicher mit Kommas abtrennen."
+  en: "Set commas accurately around relative clauses (including embedded ones) and infinitive clauses with um/ohne/statt … zu."
+competencies: [komma-infinitiv-relativsatz]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Korrekturlesen für den Lindenberger Schulblog"
+      en: "Proofreading for the Lindenberg School Blog"
+    blocks:
+      - type: text
+        text:
+          de: "Sam schreibt einen Artikel für den Schulblog. Auf B1-Niveau werden seine Sätze komplexer: Er beschreibt Personen mit **Relativsätzen** und nennt Ziele mit **um … zu**. Auf der **Laut-Schrift-Tafel** kommen jetzt die B1-Kommaregeln hinzu!"
+          en: "Sam is drafting an article for the school blog. At B1, his sentences grow richer: he adds details with **relative clauses** and states goals with **um … zu**. The **Sound-Spelling Board** now adds the B1 comma rules!"
+      - type: table
+        caption:
+          de: "B1-Kommaregeln für Relativ- und Infinitivsätze"
+          en: "B1 comma rules for relative and infinitive clauses"
+        header:
+          - { de: "Satztyp", en: "Clause type" }
+          - { de: "Kommaregel", en: "Comma rule" }
+          - { de: "Beispiel", en: "Example" }
+        rows:
+          - - { de: "**Relativsatz** am Ende", en: "**Relative clause** at end" }
+            - { de: "immer ein Komma **davor**", en: "always a comma **before** it" }
+            - { de: "Das ist der Kurs**,** den Sam besucht.", en: "Das ist der Kurs**,** den Sam besucht." }
+          - - { de: "**Eingeschobener** Relativsatz", en: "**Embedded** relative clause" }
+            - { de: "**zwei** Kommas (wie eine Klammer)", en: "**two** commas (like brackets)" }
+            - {
+                de: "Der Lehrer**,** der uns hilft**,** heißt Herr Braun.",
+                en: "Der Lehrer**,** der uns hilft**,** heißt Herr Braun.",
+              }
+          - - { de: "**um / ohne / (an)statt … zu**", en: "**um / ohne / (an)statt … zu**" }
+            - { de: "Komma ist **immer Pflicht**", en: "comma is **always mandatory**" }
+            - { de: "Sam übt täglich**,** um klarer zu sprechen.", en: "Sam übt täglich**,** um klarer zu sprechen." }
+          - - { de: "Infinitiv mit **zu** nach Nomen/Hinweiswort", en: "Infinitive with **zu** after noun/correlate" }
+            - {
+                de: "Komma ist **Pflicht** (z. B. *Zeit, Lust, es*)",
+                en: "comma is **mandatory** (e.g. *Zeit, Lust, es*)",
+              }
+            - { de: "Er hat Lust**,** einen Artikel zu schreiben.", en: "Er hat Lust**,** einen Artikel zu schreiben." }
+      - type: note
+        title:
+          de: "Die häufigste Kommafalle im Relativsatz"
+          en: "The #1 relative-clause comma trap"
+        blocks:
+          - type: text
+            text:
+              de: "Vergiss bei einem eingeschobenen Relativsatz nie das **zweite Komma** direkt nach dem Verb des Relativsatzes: *Das Fahrrad**,** das im Hof steht**,** gehört Lukas.*"
+              en: "With an embedded relative clause, never forget the **closing comma** right after the relative clause's verb: *Das Fahrrad**,** das im Hof steht**,** gehört Lukas.*"
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Komma-Check im Schulblog"
+      en: "Practice: School Blog Comma Check"
+    blocks:
+      - type: single-choice
+        id: eingeschobener-relativsatz
+        text:
+          de: "Welcher Satz setzt die Kommas um den eingeschobenen Relativsatz genau richtig?"
+          en: "Which sentence places the commas around the embedded relative clause correctly?"
+        options:
+          - text:
+              {
+                de: "Die Schülerin, die neben Sam sitzt, heißt Nadia.",
+                en: "Die Schülerin, die neben Sam sitzt, heißt Nadia.",
+              }
+            correct: true
+            info:
+              de: "Richtig! Der Relativsatz *die neben Sam sitzt* wird links und rechts wie in Klammern von zwei Kommas begrenzt."
+              en: "Correct! The relative clause *die neben Sam sitzt* is framed by two commas like brackets."
+          - text:
+              {
+                de: "Die Schülerin, die neben Sam sitzt heißt Nadia.",
+                en: "Die Schülerin, die neben Sam sitzt heißt Nadia.",
+              }
+            correct: false
+            info:
+              de: "Hier fehlt das zweite Komma zwischen den beiden Verben *sitzt* und *heißt*."
+              en: "The closing comma between the two verbs *sitzt* and *heißt* is missing."
+          - text:
+              {
+                de: "Die Schülerin die neben Sam sitzt, heißt Nadia.",
+                en: "Die Schülerin die neben Sam sitzt, heißt Nadia.",
+              }
+            correct: false
+            info:
+              de: "Im Deutschen braucht jeder Relativsatz auch am Anfang ein Komma (anders als restriktive Relativsätze im Englischen)."
+              en: "In German, every relative clause needs an opening comma too (unlike restrictive relative clauses in English)."
+        explanation:
+          de: "Anders als im Englischen trennt das Deutsche **jeden** Relativsatz mit Kommas ab – steht er in der Satzmitte, braucht er **zwei** Kommas."
+          en: "Unlike English, German sets **every** relative clause off with commas — when embedded mid-sentence, it needs **two** commas."
+      - type: multiple-choice
+        id: infinitiv-komma-pflicht
+        text:
+          de: "In welchen Sätzen ist an der Stelle [ ] ein Komma **zwingend vorgeschrieben**?"
+          en: "In which sentences is a comma **mandatory** at [ ]?"
+        options:
+          - text:
+              {
+                de: "Sam geht in die Bibliothek [ ] um in Ruhe zu lernen.",
+                en: "Sam geht in die Bibliothek [ ] um in Ruhe zu lernen.",
+              }
+            correct: true
+            info:
+              de: "Richtig! Infinitivsätze mit *um … zu* stehen immer nach einem Komma."
+              en: "Correct! Infinitive clauses with *um … zu* always take a comma."
+          - text:
+              {
+                de: "Lukas ging los [ ] ohne seine Jacke mitzunehmen.",
+                en: "Lukas ging los [ ] ohne seine Jacke mitzunehmen.",
+              }
+            correct: true
+            info:
+              de: "Richtig! Auch *ohne … zu* und *(an)statt … zu* verlangen immer ein Komma."
+              en: "Correct! *ohne … zu* and *(an)statt … zu* always require a comma."
+          - text:
+              {
+                de: "Mina hat keine Zeit [ ] heute länger zu bleiben.",
+                en: "Mina hat keine Zeit [ ] heute länger zu bleiben.",
+              }
+            correct: true
+            info:
+              de: "Richtig! Die Infinitivgruppe hängt vom Nomen *Zeit* ab → Komma ist Pflicht."
+              en: "Correct! The infinitive phrase depends on the noun *Zeit* → comma is mandatory."
+          - text: { de: "Sam lernt [ ] Deutsch.", en: "Sam lernt [ ] Deutsch." }
+            correct: false
+            info:
+              de: "Das ist ein einfacher Hauptsatz ohne Nebensatz oder Infinitivgruppe – hier steht kein Komma."
+              en: "This is a simple main clause with no subordinate or infinitive clause — no comma here."
+        explanation:
+          de: "Ein Komma steht immer bei **um / ohne / (an)statt … zu** sowie bei Infinitivgruppen, die von einem Nomen (*Zeit, Lust, Plan*) oder einem Hinweiswort (*es, daran*) abhängen."
+          en: "Always use a comma before **um / ohne / (an)statt … zu** and before infinitive phrases depending on a noun (*Zeit, Lust, Plan*) or correlate (*es, daran*)."

@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Alphabet, Umlaute und wichtige Konsonanten"
+  en: "Alphabet, Umlauts and Key Consonants"
+summary:
+  de: "Sam richtet in Lindenberg die Laut-Schrift-Tafel ein: Buchstabieren, Umlaute, Diphthonge sowie ch, sch, sp, st und z."
+  en: "Sam sets up the Sound-Spelling Board in Lindenberg: spelling aloud, umlauts, diphthongs, and ch, sch, sp, st, and z."
+pages:
+  - alphabet-buchstabieren
+  - umlaute-diphthonge
+  - ch-sch-sp-st

@@ -1,0 +1,100 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Auslautverhärtung: Tag klingt wie Tak"
+  en: "Final Consonant Devoicing"
+description:
+  de: "b, d und g am Wort- oder Silbenende stimmlos wie p, t und k aussprechen und mit der Verlängerungsprobe richtig schreiben."
+  en: "Pronounce final b, d, and g as voiceless p, t, and k and still spell them accurately using the extension test."
+competencies: [auslautverhaertung]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Warum klingt Tag wie Tak?"
+      en: "Why Does Tag Sound Like Tak?"
+    blocks:
+      - type: text
+        text:
+          de: "Im Deutschkurs fragt Sam verwirrt: *„Lukas sagt **Tak**, **Kint** und **gelp** – aber im Buch steht **Tag**, **Kind** und **gelb**!“* Herr Braun ergänzt ein neues Feld auf der **Laut-Schrift-Tafel**: Am Wort- oder Silbenende werden stimmhafte Konsonanten im Deutschen immer stimmlos gesprochen."
+          en: "In German class, Sam asks in surprise: *'Lukas says **Tak**, **Kint**, and **gelp** — yet the book writes **Tag**, **Kind**, and **gelb**!'* Herr Braun adds a new tile to the **Sound-Spelling Board**: at the end of a word or syllable, German voiced consonants always turn voiceless."
+      - type: table
+        caption:
+          de: "Auslautverhärtung und Verlängerungsprobe"
+          en: "Final devoicing and the extension test"
+        header:
+          - { de: "Schreibung → Klang", en: "Spelling → Sound" }
+          - { de: "Am Wortende (hart)", en: "At word end (voiceless)" }
+          - { de: "Verlängert (weich hörbar)", en: "Extended (voiced audible)" }
+        rows:
+          - - { de: "**b → [p]**", en: "**b → [p]**" }
+            - { de: "gel**b**, hal**b**, Urla**ub**", en: "gel**b**, hal**b**, Urla**ub**" }
+            - { de: "gel**b**e, hal**b**e, Urlau**b**e", en: "gel**b**e, hal**b**e, Urlau**b**e" }
+          - - { de: "**d → [t]**", en: "**d → [t]**" }
+            - { de: "Kin**d**, Freun**d**, Bil**d**", en: "Kin**d**, Freun**d**, Bil**d**" }
+            - { de: "Kin**d**er, Freun**d**e, Bil**d**er", en: "Kin**d**er, Freun**d**e, Bil**d**er" }
+          - - { de: "**g → [k]**", en: "**g → [k]**" }
+            - { de: "Ta**g**, We**g**, Zu**g**", en: "Ta**g**, We**g**, Zu**g**" }
+            - { de: "Ta**g**e, We**g**e, Zü**g**e", en: "Ta**g**e, We**g**e, Zü**g**e" }
+      - type: note
+        title:
+          de: "Verlängerungsprobe beim Schreiben"
+          en: "The extension test for spelling"
+        blocks:
+          - type: text
+            text:
+              de: "Bist du unsicher, ob am Ende *b/p*, *d/t* oder *g/k* steht? Verlängere das Wort (Plural oder *-e*): *Hund → Hun**d**e* (also **d**), *bunt → bun**t**e* (also **t**). In Wörtern auf **-ig** (*fertig, wichtig*) spricht man das **-ig** im Standarddeutschen meist weich wie **-ich**."
+              en: "Unsure whether a word ends in *b/p*, *d/t*, or *g/k*? Extend it (plural or *-e*): *Hund → Hun**d**e* (so **d**), *bunt → bun**t**e* (so **t**). In **-ig** endings (*fertig, wichtig*), Standard German usually pronounces **-ig** softly like **-ich**."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Hören, verlängern, richtig schreiben"
+      en: "Practice: Hear, Extend, Spell Right"
+    blocks:
+      - type: single-choice
+        id: auslaut-klang-erkennen
+        text:
+          de: "Welches Wortpaar klingt im Deutschen am Wortende **gleich**, obwohl es unterschiedlich geschrieben wird?"
+          en: "Which pair of German words ends with the **exact same sound** despite different spelling?"
+        options:
+          - text: { de: "Rad (Fahrrad) und Rat (Tipp)", en: "Rad (bike) and Rat (advice)" }
+            correct: true
+            info:
+              de: "Richtig! Beide klingen wie *Raat* – erst verlängert hört man den Unterschied: *Rä**d**er* vs. *Rä**t**e*."
+              en: "Correct! Both sound like *Raat* — only when extended do you hear *Rä**d**er* vs. *Rä**t**e*."
+          - text: { de: "Tage und Taten", en: "Tage and Taten" }
+            correct: false
+            info:
+              de: "Hier stehen **g** und **t** vor einem Vokal (*-e / -en*) – da gibt es keine Auslautverhärtung."
+              en: "Here **g** and **t** stand before a vowel (*-e / -en*), so final devoicing does not apply."
+          - text: { de: "gelbe und helle", en: "gelbe and helle" }
+            correct: false
+            info:
+              de: "Auch in *gelbe* steht *b* vor einem Vokal und bleibt stimmhaft."
+              en: "In *gelbe*, *b* comes before a vowel and stays voiced."
+        explanation:
+          de: "Auslautverhärtung gilt am Wort- und Silbenende (*Rad = Rat* gesprochen), aber nicht vor einem Vokal (*Räder ≠ Räte*)."
+          en: "Final devoicing happens at the end of a word or syllable (*Rad = Rat* spoken), not before a vowel (*Räder ≠ Räte*)."
+      - type: language-task
+        id: verlaengerungsprobe-schreiben
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Nutze die Verlängerungsprobe und wähle den richtigen Endbuchstaben."
+          en: "Use the extension test and choose the right final letter."
+        items:
+          - source: "friend (plural: Freunde)"
+            target: "Freun[d]"
+            distractors: [["t"]]
+          - source: "train (plural: Züge)"
+            target: "Zu[g]"
+            distractors: [["k"]]
+          - source: "yellow (extended: gelbe)"
+            target: "gel[b]"
+            distractors: [["p"]]
+          - source: "colorful (extended: bunte)"
+            target: "bun[t]"
+            distractors: [["d"]]
+        explanation:
+          de: "Die verlängerte Form verrät die Schreibung: *Freun**d**e → Freund*, *Zü**g**e → Zug*, *gel**b**e → gelb*, *bun**t**e → bunt*."
+          en: "The extended form reveals the spelling: *Freun**d**e → Freund*, *Zü**g**e → Zug*, *gel**b**e → gelb*, *bun**t**e → bunt*."

@@ -1,0 +1,138 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Umlaute und Diphthonge"
+  en: "Umlauts and Diphthongs"
+description:
+  de: "Umlaute (ä, ö, ü) mit der richtigen Lippenrundung aussprechen und Diphthonge (ei, ie, eu/äu, au) sicher unterscheiden."
+  en: "Pronounce German umlauts (ä, ö, ü) with proper lip rounding and distinguish diphthongs (ei, ie, eu/äu, au)."
+competencies: [umlaute-diphthonge]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Brötchen beim Bäcker in Lindenberg"
+      en: "Brötchen at the Lindenberg Bakery"
+    blocks:
+      - type: text
+        text:
+          de: "Morgens holt Sam mit Lukas frische **Brötchen** beim **Bäcker**. Zwei kleine Punkte verändern hier Bedeutung und Klang: *Brot* wird zu *Brötchen*, *schon* (*already*) zu *schön* (*nice*). Herr Braun zeigt den Lippen-Trick für die **Laut-Schrift-Tafel**."
+          en: "In the morning, Sam and Lukas buy fresh **Brötchen** at the **Bäcker**. Two small dots change both sound and meaning: *Brot* becomes *Brötchen*, *schon* (*already*) becomes *schön* (*nice*). Herr Braun adds a lip-position tip to the **Sound-Spelling Board**."
+      - type: table
+        caption:
+          de: "Mundstellung für die Umlaute ä, ö, ü"
+          en: "Mouth-position guide for umlauts ä, ö, ü"
+        header:
+          - { de: "Umlaut", en: "Umlaut" }
+          - { de: "Mundstellung", en: "Mouth tip" }
+          - { de: "Beispiele", en: "Examples" }
+        rows:
+          - - { de: "**ä**", en: "**ä**" }
+            - { de: "offenes *e* (wie in Englisch *bed*)", en: "open *e* (like English *bed*)" }
+            - { de: "B**ä**cker, Sp**ä**t, M**ä**rz", en: "B**ä**cker, sp**ä**t, M**ä**rz" }
+          - - { de: "**ö**", en: "**ö**" }
+            - { de: "*e* sagen, dabei Lippen rund wie beim *o*", en: "say *eh*, round your lips as for *oh*" }
+            - { de: "Br**ö**tchen, sch**ö**n, zw**ö**lf", en: "Br**ö**tchen, sch**ö**n, zw**ö**lf" }
+          - - { de: "**ü**", en: "**ü**" }
+            - { de: "*i* sagen, dabei Lippen rund wie beim *u*", en: "say *ee*, round your lips as for *oo*" }
+            - { de: "**Ü**bung, Sch**ü**ler, f**ü**nf", en: "**Ü**bung, Sch**ü**ler, f**ü**nf" }
+
+  - type: section
+    id: diphthonge
+    title:
+      de: "Diphthonge: Zwei Vokale, ein Gleitlaut"
+      en: "Diphthongs: Two Vowels, One Glide"
+    blocks:
+      - type: text
+        text:
+          de: "Bei einem **Diphthong** gleitet die Stimme in einer Silbe von einem Vokal zum nächsten. Achte besonders auf **ei** (*ai*) gegen **ie** (langes *i*): *Wein* (*wine*) und *Wien* (*Vienna*) klingen völlig verschieden!"
+          en: "In a **diphthong**, your voice glides from one vowel to the next in one syllable. Watch **ei** (*eye*) versus **ie** (long *ee*): *Wein* (*wine*) and *Wien* (*Vienna*) sound completely different!"
+      - type: table
+        caption:
+          de: "Diphthonge und ie im Vergleich"
+          en: "Diphthongs and ie compared"
+        header:
+          - { de: "Schreibung", en: "Spelling" }
+          - { de: "Klang", en: "Sound" }
+          - { de: "Beispiele", en: "Examples" }
+        rows:
+          - - { de: "**ei** (auch **ai**)", en: "**ei** (also **ai**)" }
+            - { de: "wie Englisch *eye*", en: "like English *eye*" }
+            - { de: "**ei**ns, zw**ei**, M**ai**", en: "**ei**ns, zw**ei**, M**ai**" }
+          - - { de: "**ie** (kein Diphthong)", en: "**ie** (not a diphthong)" }
+            - { de: "langes *i* (wie *see*)", en: "long *ee* (like *see*)" }
+            - { de: "v**ie**r, sp**ie**len, W**ie**n", en: "v**ie**r, sp**ie**len, W**ie**n" }
+          - - { de: "**eu / äu**", en: "**eu / äu**" }
+            - { de: "wie Englisch *oy* in *boy*", en: "like English *oy* in *boy*" }
+            - { de: "n**eu**, D**eu**tsch, H**äu**ser", en: "n**eu**, D**eu**tsch, H**äu**ser" }
+          - - { de: "**au**", en: "**au**" }
+            - { de: "wie Englisch *ow* in *house*", en: "like English *ow* in *house*" }
+            - { de: "H**au**s, Br**au**n, **au**ch", en: "H**au**s, Br**au**n, **au**ch" }
+      - type: note
+        title:
+          de: "Merkregel für ei und ie"
+          en: "Memory trick for ei and ie"
+        blocks:
+          - type: text
+            text:
+              de: "Der **zweite** Buchstabe verrät den Klang auf Englisch: **ei** → englisches *I* (*eye*), **ie** → englisches *E* (*ee*)."
+              en: "The **second** letter gives the English letter name: **ei** → English *I* (*eye*), **ie** → English *E* (*ee*)."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Umlaute und Diphthonge erkennen"
+      en: "Practice: Spotting Umlauts and Diphthongs"
+    blocks:
+      - type: single-choice
+        id: umlaut-lippen
+        text:
+          de: "Wie formst du das deutsche **ü** in *fünf* und *Schüler* richtig?"
+          en: "How do you produce German **ü** in *fünf* and *Schüler*?"
+        options:
+          - text:
+              de: "Zunge wie bei *i* (*ee*), Lippen fest gerundet wie bei *u* (*oo*)"
+              en: "Tongue as for *ee*, lips tightly rounded as for *oo*"
+            correct: true
+            info:
+              de: "Richtig! Die Zunge bleibt vorn beim *i*, während die Lippen ein enges *u* formen."
+              en: "Correct! Your tongue stays forward for *ee* while your lips round tightly for *oo*."
+          - text:
+              de: "Genauso wie das normale *u* in *Schule*"
+              en: "Exactly like plain *u* in *Schule*"
+            correct: false
+            info:
+              de: "Dann klingt *fünf* wie *funf* – *u* liegt hinten im Mund, *ü* liegt vorn."
+              en: "Then *fünf* sounds like *funf* — *u* is in the back of the mouth, *ü* is in the front."
+          - text:
+              de: "Wie ein kurzes *a* mit offenen Lippen"
+              en: "Like a short *a* with relaxed lips"
+            correct: false
+            info:
+              de: "Für **ü** müssen die Lippen klar gerundet sein."
+              en: "For **ü**, your lips must be clearly rounded."
+        explanation:
+          de: "Alle Umlaute entstehen vorn im Mund: **ö** kombiniert *e* + runde Lippen, **ü** kombiniert *i* + runde Lippen."
+          en: "All umlauts are articulated at the front: **ö** combines *eh* + rounded lips, **ü** combines *ee* + rounded lips."
+      - type: language-task
+        id: diphthong-schreiben
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle den passenden Laut (**ei**, **ie**, **eu**, **äu** oder **au**) für Sams Notizen aus Lindenberg."
+          en: "Choose the matching vowel spelling (**ei**, **ie**, **eu**, **äu**, or **au**) for Sam's Lindenberg notes."
+        items:
+          - source: "four (long ee sound)"
+            target: "v[ie]r"
+            distractors: [["ei", "eu"]]
+          - source: "two (eye sound)"
+            target: "zw[ei]"
+            distractors: [["ie", "au"]]
+          - source: "German (oy sound)"
+            target: "D[eu]tsch"
+            distractors: [["au", "ie"]]
+          - source: "houses (plural of Haus, oy sound)"
+            target: "H[äu]ser"
+            distractors: [["au", "ei"]]
+        explanation:
+          de: "**ie** klingt wie langes *i* (*vier*), **ei** wie *ai* (*zwei*), **eu/äu** wie *oi* (*Deutsch, Häuser* – mit *äu*, weil es von *Haus* kommt)."
+          en: "**ie** sounds like long *ee* (*vier*), **ei** like *eye* (*zwei*), and **eu/äu** like *oy* (*Deutsch, Häuser* — spelled *äu* because it comes from *Haus*)."

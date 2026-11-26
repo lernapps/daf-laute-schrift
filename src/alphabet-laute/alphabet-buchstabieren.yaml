@@ -1,0 +1,136 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Das deutsche Alphabet und Buchstabieren"
+  en: "German Alphabet and Spelling"
+description:
+  de: "Die Buchstaben des deutschen Alphabets richtig aussprechen und Namen oder Adressen sicher buchstabieren."
+  en: "Pronounce the German alphabet clearly and spell out names and addresses reliably."
+competencies: [alphabet-buchstabieren]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Sams erster Tag im Bürgeramt Lindenberg"
+      en: "Sam's First Day at the Lindenberg Citizens' Office"
+    blocks:
+      - type: text
+        text:
+          de: "Bei der Anmeldung im Bürgeramt Lindenberg fragt die Mitarbeiterin: *„Wie schreibt man Ihren Nachnamen?“* Sam öffnet seine **Laut-Schrift-Tafel** aus Herr Brauns Kurs: Viele deutsche Buchstabennamen klingen anders als im Englischen."
+          en: "While registering at the Lindenberg Bürgeramt, the clerk asks: *'Wie schreibt man Ihren Nachnamen?'* Sam opens the **Sound-Spelling Board** from Herr Braun's class: several German letter names sound quite different from English."
+      - type: single-choice
+        id: buchstaben-e-i
+        text:
+          de: "Sam buchstabiert den Namen **Weber**: *W – E – B – E – R*. Wie klingt der Buchstabe **E** im deutschen Alphabet?"
+          en: "Sam spells **Weber**: *W – E – B – E – R*. How does the letter **E** sound in the German alphabet?"
+        options:
+          - text:
+              de: "wie das deutsche Wort *eh* (langes e)"
+              en: "like a long *eh* (as in *say*, without the glide)"
+            correct: true
+            info:
+              de: "Genau! Deutsches **E** klingt wie *eh* – nicht wie das englische *ee*."
+              en: "Exactly! German **E** sounds like *eh*, not like English *ee*."
+          - text:
+              de: "wie das englische *ee* (wie in *see*)"
+              en: "like English *ee* (as in *see*)"
+            correct: false
+            info:
+              de: "So klingt im Deutschen der Buchstabe **I**, nicht **E**."
+              en: "That is the German letter **I**, not **E**."
+          - text:
+              de: "wie das englische *eye*"
+              en: "like English *eye*"
+            correct: false
+            info:
+              de: "Das wäre englisches **I** – im Deutschen klingt **I** wie *ih*."
+              en: "That is English **I** — in German, **I** sounds like *ee*."
+        explanation:
+          de: "Die häufigste Verwechslung beim Buchstabieren betrifft **A** (*ah*), **E** (*eh*) und **I** (*ih*)."
+          en: "The most common spelling mix-up involves **A** (*ah*), **E** (*eh*), and **I** (*ee*)."
+
+  - type: section
+    id: tafel
+    title:
+      de: "Laut-Schrift-Tafel: Stolpersteine im Alphabet"
+      en: "Sound-Spelling Board: Tricky Letters in the Alphabet"
+    blocks:
+      - type: text
+        text:
+          de: "Das deutsche Alphabet hat 26 Grundbuchstaben plus **ä, ö, ü** und **ß** (*Eszett*). Auf Sams Tafel stehen die Buchstaben, die Englischsprachige am leichtesten verwechseln:"
+          en: "The German alphabet has 26 basic letters plus **ä, ö, ü**, and **ß** (*Eszett*). Sam's board highlights the letters English speakers mix up most easily:"
+      - type: table
+        caption:
+          de: "Wichtige Buchstabennamen auf Deutsch"
+          en: "Key German letter names"
+        header:
+          - { de: "Buchstabe", en: "Letter" }
+          - { de: "Name / Aussprache", en: "Name / Sound" }
+          - { de: "Beispiel in Lindenberg", en: "Lindenberg example" }
+        rows:
+          - - { de: "A / E / I", en: "A / E / I" }
+            - { de: "*ah* / *eh* / *ih*", en: "*ah* / *eh* / *ee*" }
+            - { de: "N**a**di**a**, W**e**b**e**r, M**i**na", en: "N**a**di**a**, W**e**b**e**r, M**i**na" }
+          - - { de: "J / V / W", en: "J / V / W" }
+            - { de: "*jott* (*y*) / *fau* (*f*) / *weh* (*v*)", en: "*yott* (*y*) / *fow* (*f*) / *veh* (*v*)" }
+            - { de: "**J**anuar, **V**ogel, **W**eber", en: "**J**anuar, **V**ogel, **W**eber" }
+          - - { de: "Y / Z / ß", en: "Y / Z / ß" }
+            - { de: "*Ypsilon* / *zett* (*ts*) / *Eszett*", en: "*Ypsilon* / *tsett* (*ts*) / *Eszett*" }
+            - { de: "G**y**mnasium, **Z**ug, Stra**ß**e", en: "G**y**mnasium, **Z**ug, Stra**ß**e" }
+      - type: note
+        title:
+          de: "Tipp für das Telefon"
+          en: "Tip for the phone"
+        blocks:
+          - type: text
+            text:
+              de: "Am Telefon nennt man oft ein Beispielwort: **W wie Weber**, **B wie Berlin**, **S wie Schule**. Bei Großbuchstaben sagt man *großes L*."
+              en: "On the phone, people often add a keyword: **W wie Weber**, **B wie Berlin**, **S wie Schule**. For capitals, say *großes L*."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Buchstabier-Check"
+      en: "Practice: Spelling Check"
+    blocks:
+      - type: matching
+        id: buchstaben-zuordnen
+        text:
+          de: "Ordne jeden deutschen Buchstaben seinem Klang beim Buchstabieren zu."
+          en: "Match each German letter to its sound when spelling aloud."
+        pairs:
+          - left: { de: "V", en: "V" }
+            right:
+              { de: "fau (klingt in deutschen Wörtern meist wie f)", en: "fow (usually sounds like f in German words)" }
+          - left: { de: "W", en: "W" }
+            right: { de: "weh (klingt wie englisches v)", en: "veh (sounds like English v)" }
+          - left: { de: "J", en: "J" }
+            right: { de: "jott (klingt wie englisches y in yes)", en: "yott (sounds like English y in yes)" }
+          - left: { de: "Z", en: "Z" }
+            right: { de: "zett (klingt wie ts in cats)", en: "tsett (sounds like ts in cats)" }
+        explanation:
+          de: "Wer V (*fau*), W (*weh*), J (*jott*) und Z (*zett*) trennt, versteht deutsche Namen und Adressen beim ersten Hören."
+          en: "Keeping V (*fow*), W (*veh*), J (*yott*), and Z (*tsett*) distinct helps you catch German names and addresses on the first try."
+      - type: single-choice
+        id: strasse-buchstabieren
+        text:
+          de: "Frau Weber buchstabiert ihre Adresse: *W – A – L – D – W – E – G*. Welches Wort notiert Sam?"
+          en: "Frau Weber spells her street name: *W – A – L – D – W – E – G* (*weh – ah – ell – deh – weh – eh – geh*). Which word does Sam write down?"
+        options:
+          - text: { de: "Waldweg", en: "Waldweg" }
+            correct: true
+            info:
+              de: "Richtig! *weh* ist **W**, *ah* ist **A**, *eh* ist **E**."
+              en: "Correct! *veh* is **W**, *ah* is **A**, and *eh* is **E**."
+          - text: { de: "Valdvig", en: "Valdvig" }
+            correct: false
+            info:
+              de: "Im Deutschen ist *weh* der Buchstabe **W** (nicht V) und *eh* der Buchstabe **E** (nicht I)."
+              en: "In German, *veh* is **W** (not V) and *eh* is **E** (not I)."
+          - text: { de: "Woldwag", en: "Woldwag" }
+            correct: false
+            info:
+              de: "*ah* steht für **A**, nicht für O; *eh* steht für **E**."
+              en: "*ah* stands for **A**, not O; *eh* stands for **E**."
+        explanation:
+          de: "Mit den deutschen Buchstabennamen (*W = weh, A = ah, E = eh*) kannst du Adressen wie *Waldweg* fehlerfrei mitschreiben."
+          en: "Using the German letter names (*W = veh, A = ah, E = eh*) lets you write down addresses like *Waldweg* accurately."

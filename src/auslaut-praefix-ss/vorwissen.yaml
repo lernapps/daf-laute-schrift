@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Das brauchst du hier"
+  en: "What You Need Here"
+description:
+  de: "Kurze Wiederholung zu trennbaren Verben vor dem Kapitel zu Präfixakzenten."
+  en: "A quick recap of separable prefix verbs before learning verb-prefix stress."
+recap: daf/trennbare-verben
+blocks:
+  - type: text
+    text:
+      de: "In diesem Kapitel lernst du, wie man Verbpräfixe richtig betont. Dafür brauchst du aus der Grammatik die **trennbaren Verben** (*Separable prefix verbs*): *I can use separable verbs like aufstehen, einkaufen, and anrufen with the prefix at the end of a main clause.*"
+      en: "In this chapter you will learn how to stress German verb prefixes. For that, you need one grammar building block: **Separable prefix verbs** — *I can use separable verbs like aufstehen, einkaufen, and anrufen with the prefix at the end of a main clause.*"
+  - type: note
+    title:
+      de: "Kurz-Check im Kopf"
+      en: "Quick mental check"
+    blocks:
+      - type: text
+        text:
+          de: "Wie lautet der Hauptsatz mit *aufstehen* und *einkaufen*? — *Sam **steht** um sieben Uhr **auf**. Frau Weber **kauft** im Supermarkt **ein**.* Der Verbteil steht auf Position 2, das Präfix am Satzende."
+          en: "How do *aufstehen* and *einkaufen* split in a main clause? — *Sam **steht** um sieben Uhr **auf**. Frau Weber **kauft** im Supermarkt **ein**.* The conjugated stem stays in position 2 and the prefix moves to the end."
+  - type: single-choice
+    id: recap-trennbare-verben
+    text:
+      de: "Welcher Satz trennt das Verb **anrufen** richtig?"
+      en: "Which sentence splits the separable verb **anrufen** correctly?"
+    options:
+      - text: { de: "Sam ruft heute Abend seine Eltern an.", en: "Sam ruft heute Abend seine Eltern an." }
+        correct: true
+        info:
+          de: "Richtig! Der Stamm *ruft* steht an Position 2, das Präfix *an* am Satzende."
+          en: "Correct! The stem *ruft* stands in position 2 and the prefix *an* goes to the end."
+      - text: { de: "Sam anruft heute Abend seine Eltern.", en: "Sam anruft heute Abend seine Eltern." }
+        correct: false
+        info:
+          de: "*anrufen* ist trennbar – im Hauptsatz wandert *an* ans Ende."
+          en: "*anrufen* is separable — in a main clause, *an* moves to the end."
+    explanation:
+      de: "Bei trennbaren Verben (*aufstehen, einkaufen, anrufen*) spaltet sich das Präfix im Hauptsatz ab und schließt die Satzklammer."
+      en: "With separable verbs (*aufstehen, einkaufen, anrufen*), the prefix splits off in a main clause and closes the sentence bracket."
