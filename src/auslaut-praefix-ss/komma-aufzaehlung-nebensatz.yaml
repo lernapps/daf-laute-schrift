@@ -10,13 +10,13 @@ blocks:
   - type: section
     id: einstieg
     title:
-      de: "Kommas als Satz-Wegweiser in Sams E-Mail"
-      en: "Commas as Clause Signposts in Sam's Email"
+      de: "Kommas als Satz-Wegweiser in Peters E-Mail"
+      en: "Commas as Clause Signposts in Peter's Email"
     blocks:
       - type: text
         text:
-          de: "Sam schreibt eine E-Mail an seine Eltern über die Woche in Lindenberg. Im Deutschen folgt das Komma nicht einfach dem Atem wie oft im Englischen, sondern festen **Grammatikgrenzen**: Aufzählungen und Nebensätze."
-          en: "Sam writes an email home about his week in Lindenberg. In German, commas do not simply mark pauses for breath as they often do in English — they mark clear **grammar boundaries**: lists and subordinate clauses."
+          de: "Peter schreibt eine E-Mail an seine Eltern über die Woche in Lindenberg. Im Deutschen folgt das Komma nicht einfach dem Atem wie oft im Englischen, sondern festen **Grammatikgrenzen**: Aufzählungen und Nebensätze."
+          en: "Peter writes an email home about his week in Lindenberg. In German, commas do not simply mark pauses for breath as they often do in English — they mark clear **grammar boundaries**: lists and subordinate clauses."
       - type: table
         caption:
           de: "Laut-Schrift-Tafel: Die zwei wichtigsten A2-Kommaregeln"
@@ -48,8 +48,8 @@ blocks:
         blocks:
           - type: text
             text:
-              de: "Vor **und** und **oder** in einer einfachen Aufzählung steht im Deutschen kein Komma: *Lukas, Mina und Sam* (nicht: *Lukas, Mina, und Sam*). Vor **aber** und **sondern** dagegen steht immer ein Komma!"
-              en: "In a simple list, German does not put a comma before **und** or **oder**: *Lukas, Mina und Sam* (never *Lukas, Mina, und Sam*). Before **aber** and **sondern**, however, always use a comma!"
+              de: "Vor **und** und **oder** in einer einfachen Aufzählung steht im Deutschen kein Komma: *Lukas, Mina und Peter* (nicht: *Lukas, Mina, und Peter*). Vor **aber** und **sondern** dagegen steht immer ein Komma!"
+              en: "In a simple list, German does not put a comma before **und** or **oder**: *Lukas, Mina und Peter* (never *Lukas, Mina, und Peter*). Before **aber** and **sondern**, however, always use a comma!"
 
   - type: section
     id: uebung
@@ -60,8 +60,8 @@ blocks:
       - type: single-choice
         id: komma-weil-und
         text:
-          de: "Welcher Satz aus Sams E-Mail hat alle Kommas genau richtig gesetzt?"
-          en: "Which sentence from Sam's email has every comma placed correctly?"
+          de: "Welcher Satz aus Peters E-Mail hat alle Kommas genau richtig gesetzt?"
+          en: "Which sentence from Peter's email has every comma placed correctly?"
         options:
           - text:
               {
@@ -101,8 +101,8 @@ blocks:
         options:
           - text:
               {
-                de: "Sam nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.",
-                en: "Sam nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.",
+                de: "Peter nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.",
+                en: "Peter nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.",
               }
             correct: true
             info:
@@ -110,8 +110,8 @@ blocks:
               en: "Correct! *weil* introduces a subordinate clause → comma required."
           - text:
               {
-                de: "Als Sam in Lindenberg ankam [ ] regnete es stark.",
-                en: "Als Sam in Lindenberg ankam [ ] regnete es stark.",
+                de: "Als Peter in Lindenberg ankam [ ] regnete es stark.",
+                en: "Als Peter in Lindenberg ankam [ ] regnete es stark.",
               }
             correct: true
             info:

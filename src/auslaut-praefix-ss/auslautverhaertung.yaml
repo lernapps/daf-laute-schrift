@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Im Deutschkurs fragt Sam verwirrt: *„Lukas sagt **Tak**, **Kint** und **gelp** – aber im Buch steht **Tag**, **Kind** und **gelb**!“* Herr Braun ergänzt ein neues Feld auf der **Laut-Schrift-Tafel**: Am Wort- oder Silbenende werden stimmhafte Konsonanten im Deutschen immer stimmlos gesprochen."
-          en: "In German class, Sam asks in surprise: *'Lukas says **Tak**, **Kint**, and **gelp** — yet the book writes **Tag**, **Kind**, and **gelb**!'* Herr Braun adds a new tile to the **Sound-Spelling Board**: at the end of a word or syllable, German voiced consonants always turn voiceless."
+          de: "Im Deutschkurs fragt Peter verwirrt: *„Lukas sagt **Tak**, **Kint** und **gelp** – aber im Buch steht **Tag**, **Kind** und **gelb**!“* Herr Braun ergänzt ein neues Feld auf der **Laut-Schrift-Tafel**: Am Wort- oder Silbenende werden stimmhafte Konsonanten im Deutschen immer stimmlos gesprochen."
+          en: "In German class, Peter asks in surprise: *'Lukas says **Tak**, **Kint**, and **gelp** — yet the book writes **Tag**, **Kind**, and **gelb**!'* Herr Braun adds a new tile to the **Sound-Spelling Board**: at the end of a word or syllable, German voiced consonants always turn voiceless."
       - type: table
         caption:
           de: "Auslautverhärtung und Verlängerungsprobe"

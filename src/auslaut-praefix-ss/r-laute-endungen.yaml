@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Sam hört genau hin, wenn Mina von ihrem **Bruder** und ihrem **Lehrer** erzählt: Das erste **r** in *Bruder* klingt wie ein weiches Reiben hinten im Rachen, aber die Endung **-er** am Schluss klingt fast wie ein kurzes, entspanntes **-a**!"
-          en: "Sam listens closely when Mina talks about her **Bruder** and her **Lehrer**: the first **r** in *Bruder* is a soft consonant in the back of the throat, while the ending **-er** at the end sounds almost like a short, relaxed **-a**!"
+          de: "Peter hört genau hin, wenn Mina von ihrem **Bruder** und ihrem **Lehrer** erzählt: Das erste **r** in *Bruder* klingt wie ein weiches Reiben hinten im Rachen, aber die Endung **-er** am Schluss klingt fast wie ein kurzes, entspanntes **-a**!"
+          en: "Peter listens closely when Mina talks about her **Bruder** and her **Lehrer**: the first **r** in *Bruder* is a soft consonant in the back of the throat, while the ending **-er** at the end sounds almost like a short, relaxed **-a**!"
       - type: table
         caption:
           de: "Laut-Schrift-Tafel: R-Laute und unbetonte Endungen"
@@ -87,8 +87,8 @@ blocks:
       - type: matching
         id: endungen-natuerlich
         text:
-          de: "Ordne jedes Wort der passenden Aussprache-Notiz auf Sams Tafel zu."
-          en: "Match each word to its pronunciation note on Sam's board."
+          de: "Ordne jedes Wort der passenden Aussprache-Notiz auf Peters Tafel zu."
+          en: "Match each word to its pronunciation note on Peter's board."
         pairs:
           - left: { de: "Brötchen (Br-)", en: "Brötchen (Br-)" }
             right: { de: "konsonantisches r vor Vokal", en: "consonantal r before a vowel" }

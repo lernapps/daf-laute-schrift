@@ -10,18 +10,18 @@ blocks:
   - type: section
     id: einstieg
     title:
-      de: "Sams erster Tag im Bürgeramt Lindenberg"
-      en: "Sam's First Day at the Lindenberg Citizens' Office"
+      de: "Peters erster Tag im Bürgeramt Lindenberg"
+      en: "Peter's First Day at the Lindenberg Citizens' Office"
     blocks:
       - type: text
         text:
-          de: "Bei der Anmeldung im Bürgeramt Lindenberg fragt die Mitarbeiterin: *„Wie schreibt man Ihren Nachnamen?“* Sam öffnet seine **Laut-Schrift-Tafel** aus Herr Brauns Kurs: Viele deutsche Buchstabennamen klingen anders als im Englischen."
-          en: "While registering at the Lindenberg Bürgeramt, the clerk asks: *'Wie schreibt man Ihren Nachnamen?'* Sam opens the **Sound-Spelling Board** from Herr Braun's class: several German letter names sound quite different from English."
+          de: "Bei der Anmeldung im Bürgeramt Lindenberg fragt die Mitarbeiterin: *„Wie schreibt man Ihren Nachnamen?“* Peter öffnet seine **Laut-Schrift-Tafel** aus Herr Brauns Kurs: Viele deutsche Buchstabennamen klingen anders als im Englischen."
+          en: "While registering at the Lindenberg Bürgeramt, the clerk asks: *'Wie schreibt man Ihren Nachnamen?'* Peter opens the **Sound-Spelling Board** from Herr Braun's class: several German letter names sound quite different from English."
       - type: single-choice
         id: buchstaben-e-i
         text:
-          de: "Sam buchstabiert den Namen **Weber**: *W – E – B – E – R*. Wie klingt der Buchstabe **E** im deutschen Alphabet?"
-          en: "Sam spells **Weber**: *W – E – B – E – R*. How does the letter **E** sound in the German alphabet?"
+          de: "Peter buchstabiert den Namen **Weber**: *W – E – B – E – R*. Wie klingt der Buchstabe **E** im deutschen Alphabet?"
+          en: "Peter spells **Weber**: *W – E – B – E – R*. How does the letter **E** sound in the German alphabet?"
         options:
           - text:
               de: "wie das deutsche Wort *eh* (langes e)"
@@ -56,8 +56,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Das deutsche Alphabet hat 26 Grundbuchstaben plus **ä, ö, ü** und **ß** (*Eszett*). Auf Sams Tafel stehen die Buchstaben, die Englischsprachige am leichtesten verwechseln:"
-          en: "The German alphabet has 26 basic letters plus **ä, ö, ü**, and **ß** (*Eszett*). Sam's board highlights the letters English speakers mix up most easily:"
+          de: "Das deutsche Alphabet hat 26 Grundbuchstaben plus **ä, ö, ü** und **ß** (*Eszett*). Auf Peters Tafel stehen die Buchstaben, die Englischsprachige am leichtesten verwechseln:"
+          en: "The German alphabet has 26 basic letters plus **ä, ö, ü**, and **ß** (*Eszett*). Peter's board highlights the letters English speakers mix up most easily:"
       - type: table
         caption:
           de: "Wichtige Buchstabennamen auf Deutsch"
@@ -113,8 +113,8 @@ blocks:
       - type: single-choice
         id: strasse-buchstabieren
         text:
-          de: "Frau Weber buchstabiert ihre Adresse: *W – A – L – D – W – E – G*. Welches Wort notiert Sam?"
-          en: "Frau Weber spells her street name: *W – A – L – D – W – E – G* (*weh – ah – ell – deh – weh – eh – geh*). Which word does Sam write down?"
+          de: "Frau Weber buchstabiert ihre Adresse: *W – A – L – D – W – E – G*. Welches Wort notiert Peter?"
+          en: "Frau Weber spells her street name: *W – A – L – D – W – E – G* (*weh – ah – ell – deh – weh – eh – geh*). Which word does Peter write down?"
         options:
           - text: { de: "Waldweg", en: "Waldweg" }
             correct: true

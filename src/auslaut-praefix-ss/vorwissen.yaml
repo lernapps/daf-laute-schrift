@@ -18,20 +18,20 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Wie lautet der Hauptsatz mit *aufstehen* und *einkaufen*? — *Sam **steht** um sieben Uhr **auf**. Frau Weber **kauft** im Supermarkt **ein**.* Der Verbteil steht auf Position 2, das Präfix am Satzende."
-          en: "How do *aufstehen* and *einkaufen* split in a main clause? — *Sam **steht** um sieben Uhr **auf**. Frau Weber **kauft** im Supermarkt **ein**.* The conjugated stem stays in position 2 and the prefix moves to the end."
+          de: "Wie lautet der Hauptsatz mit *aufstehen* und *einkaufen*? — *Peter **steht** um sieben Uhr **auf**. Frau Weber **kauft** im Supermarkt **ein**.* Der Verbteil steht auf Position 2, das Präfix am Satzende."
+          en: "How do *aufstehen* and *einkaufen* split in a main clause? — *Peter **steht** um sieben Uhr **auf**. Frau Weber **kauft** im Supermarkt **ein**.* The conjugated stem stays in position 2 and the prefix moves to the end."
   - type: single-choice
     id: recap-trennbare-verben
     text:
       de: "Welcher Satz trennt das Verb **anrufen** richtig?"
       en: "Which sentence splits the separable verb **anrufen** correctly?"
     options:
-      - text: { de: "Sam ruft heute Abend seine Eltern an.", en: "Sam ruft heute Abend seine Eltern an." }
+      - text: { de: "Peter ruft heute Abend seine Eltern an.", en: "Peter ruft heute Abend seine Eltern an." }
         correct: true
         info:
           de: "Richtig! Der Stamm *ruft* steht an Position 2, das Präfix *an* am Satzende."
           en: "Correct! The stem *ruft* stands in position 2 and the prefix *an* goes to the end."
-      - text: { de: "Sam anruft heute Abend seine Eltern.", en: "Sam anruft heute Abend seine Eltern." }
+      - text: { de: "Peter anruft heute Abend seine Eltern.", en: "Peter anruft heute Abend seine Eltern." }
         correct: false
         info:
           de: "*anrufen* ist trennbar – im Hauptsatz wandert *an* ans Ende."

@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Für den Schulblog schreibt Sam über *Information, Musik, fotografieren* und *Universität*. Die Wörter sehen fast aus wie im Englischen – aber auf Sams **Laut-Schrift-Tafel** gilt eine eigene Regel: **Bei Fremdwörtern wandert der Akzent fast immer ans Wortende!**"
-          en: "For the school blog, Sam writes about *Information, Musik, fotografieren*, and *Universität*. The words look almost like English — yet on Sam's **Sound-Spelling Board**, a different rule applies: **in loanwords, German stress almost always moves to the end!**"
+          de: "Für den Schulblog schreibt Peter über *Information, Musik, fotografieren* und *Universität*. Die Wörter sehen fast aus wie im Englischen – aber auf Peters **Laut-Schrift-Tafel** gilt eine eigene Regel: **Bei Fremdwörtern wandert der Akzent fast immer ans Wortende!**"
+          en: "For the school blog, Peter writes about *Information, Musik, fotografieren*, and *Universität*. The words look almost like English — yet on Peter's **Sound-Spelling Board**, a different rule applies: **in loanwords, German stress almost always moves to the end!**"
       - type: table
         caption:
           de: "Typische Fremdwort-Endungen im Deutschen"
@@ -97,8 +97,8 @@ blocks:
       - type: matching
         id: fremdwoerter-akzent-sortieren
         text:
-          de: "Ordne jedes Fremdwort aus Sams Schulblog seiner betonten Silbe zu."
-          en: "Match each loanword from Sam's school blog to its stressed syllable."
+          de: "Ordne jedes Fremdwort aus Peters Schulblog seiner betonten Silbe zu."
+          en: "Match each loanword from Peter's school blog to its stressed syllable."
         pairs:
           - left: { de: "organisieren", en: "organisieren" }
             right: { de: "or-ga-ni-**SIE**-ren", en: "or-ga-ni-**SIE**-ren" }

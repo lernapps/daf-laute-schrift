@@ -37,7 +37,7 @@ blocks:
               }
           - - { de: "Aussagesatz", en: "Statement" }
             - { de: "Stimme fällt am Ende (↘)", en: "Voice falls at the end (↘)" }
-            - { de: "Sam wohnt in Lindenberg. ↘", en: "Sam wohnt in Lindenberg. ↘" }
+            - { de: "Peter wohnt in Lindenberg. ↘", en: "Peter wohnt in Lindenberg. ↘" }
           - - { de: "W-Frage", en: "W-question" }
             - { de: "Stimme fällt am Ende (↘)", en: "Voice falls at the end (↘)" }
             - { de: "Wo ist der Bahnhof? ↘", en: "Wo ist der Bahnhof? ↘" }
@@ -88,7 +88,7 @@ blocks:
         id: satzmelodie-zuordnen
         text:
           de: "Ordne jeden Satz aus dem Gespräch mit Nadia der passenden Satzmelodie am Satzende zu."
-          en: "Match each sentence from Sam's chat with Nadia to its ending intonation."
+          en: "Match each sentence from Peter's chat with Nadia to its ending intonation."
         pairs:
           - left: { de: "Hast du morgen Zeit?", en: "Hast du morgen Zeit?" }
             right: { de: "steigend (↗) – Ja/Nein-Frage", en: "rising (↗) – yes/no question" }

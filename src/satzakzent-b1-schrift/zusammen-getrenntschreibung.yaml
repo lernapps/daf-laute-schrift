@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Im Englischen stehen zusammengesetzte Begriffe oft getrennt (*language course, bike path*). Im Deutschen schreibt man sie **als ein einziges Wort** (*Sprachkurs, Fahrradweg*) – und wenn ein Verb oder Adjektiv wie ein Nomen gebraucht wird, trägt es auf Sams **Laut-Schrift-Tafel** ein großes Signal!"
-          en: "In English, compound nouns are often written with spaces (*language course, bike path*). In German, you write them **as one single word** (*Sprachkurs, Fahrradweg*) — and whenever a verb or adjective is used as a noun, it earns a capital letter on Sam's **Sound-Spelling Board**!"
+          de: "Im Englischen stehen zusammengesetzte Begriffe oft getrennt (*language course, bike path*). Im Deutschen schreibt man sie **als ein einziges Wort** (*Sprachkurs, Fahrradweg*) – und wenn ein Verb oder Adjektiv wie ein Nomen gebraucht wird, trägt es auf Peters **Laut-Schrift-Tafel** ein großes Signal!"
+          en: "In English, compound nouns are often written with spaces (*language course, bike path*). In German, you write them **as one single word** (*Sprachkurs, Fahrradweg*) — and whenever a verb or adjective is used as a noun, it earns a capital letter on Peter's **Sound-Spelling Board**!"
       - type: table
         caption:
           de: "Zusammenschreibung und Nominalisierung auf einen Blick"
@@ -74,8 +74,8 @@ blocks:
         languages: { source: en, target: de }
         mode: choice
         task:
-          de: "Wähle die richtige Schreibweise für Sams Abschlussbeitrag im Lindenberger Schulblog."
-          en: "Choose the right spelling for Sam's final post on the Lindenberg school blog."
+          de: "Wähle die richtige Schreibweise für Peters Abschlussbeitrag im Lindenberger Schulblog."
+          en: "Choose the right spelling for Peter's final post on the Lindenberg school blog."
         items:
           - source: "I wish you all the best!"
             target: "Ich wünsche euch alles [Gute]!"
@@ -97,8 +97,8 @@ blocks:
         options:
           - text:
               {
-                de: "Sam bereitet sich auf die B1-Prüfung im Jugendzentrum vor.",
-                en: "Sam bereitet sich auf die B1-Prüfung im Jugendzentrum vor.",
+                de: "Peter bereitet sich auf die B1-Prüfung im Jugendzentrum vor.",
+                en: "Peter bereitet sich auf die B1-Prüfung im Jugendzentrum vor.",
               }
             correct: true
             info:
@@ -106,8 +106,8 @@ blocks:
               en: "Correct! *Jugendzentrum* is written as one word, while *B1-Prüfung* uses a hyphen because of the code/digit."
           - text:
               {
-                de: "Sam bereitet sich auf die B1 Prüfung im Jugend Zentrum vor.",
-                en: "Sam bereitet sich auf die B1 Prüfung im Jugend Zentrum vor.",
+                de: "Peter bereitet sich auf die B1 Prüfung im Jugend Zentrum vor.",
+                en: "Peter bereitet sich auf die B1 Prüfung im Jugend Zentrum vor.",
               }
             correct: false
             info:
@@ -115,8 +115,8 @@ blocks:
               en: "German does not separate compound nouns with spaces (*Jugendzentrum*, *B1-Prüfung*)."
           - text:
               {
-                de: "Sam bereitet sich auf die B1Prüfung im jugendzentrum vor.",
-                en: "Sam bereitet sich auf die B1Prüfung im jugendzentrum vor.",
+                de: "Peter bereitet sich auf die B1Prüfung im jugendzentrum vor.",
+                en: "Peter bereitet sich auf die B1Prüfung im jugendzentrum vor.",
               }
             correct: false
             info:

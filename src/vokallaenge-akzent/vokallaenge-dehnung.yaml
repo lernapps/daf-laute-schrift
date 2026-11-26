@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Auf dem Weg zum Gymnasium in Lindenberg fragt Sam Lukas: *„Wohnen wir in der **Miete** oder in der **Mitte**?“* Lukas lacht: Ein langer oder kurzer Vokal macht aus zwei ähnlichen Wörtern ganz verschiedene Bedeutungen – und die Schrift zeigt dir fast immer, welcher Vokal gemeint ist."
-          en: "Walking to the Gymnasium in Lindenberg, Sam asks Lukas: *'Wohnen wir in der **Miete** or in der **Mitte**?'* Lukas laughs: vowel length turns similar-looking words into different meanings — and German spelling almost always signals which one you need."
+          de: "Auf dem Weg zum Gymnasium in Lindenberg fragt Peter Lukas: *„Wohnen wir in der **Miete** oder in der **Mitte**?“* Lukas lacht: Ein langer oder kurzer Vokal macht aus zwei ähnlichen Wörtern ganz verschiedene Bedeutungen – und die Schrift zeigt dir fast immer, welcher Vokal gemeint ist."
+          en: "Walking to the Gymnasium in Lindenberg, Peter asks Lukas: *'Wohnen wir in der **Miete** or in der **Mitte**?'* Lukas laughs: vowel length turns similar-looking words into different meanings — and German spelling almost always signals which one you need."
       - type: table
         caption:
           de: "Laut-Schrift-Tafel: Signale für lange und kurze Vokale"
@@ -81,8 +81,8 @@ blocks:
       - type: matching
         id: minimalpaare-laenge
         text:
-          de: "Ordne jedes Wort aus Sams Schultag dem passenden Vokallängen-Signal zu."
-          en: "Match each word from Sam's school day to its vowel-length signal."
+          de: "Ordne jedes Wort aus Peters Schultag dem passenden Vokallängen-Signal zu."
+          en: "Match each word from Peter's school day to its vowel-length signal."
         pairs:
           - left: { de: "Klasse", en: "Klasse" }
             right: { de: "kurzes a (Doppelkonsonant ss)", en: "short a (double consonant ss)" }

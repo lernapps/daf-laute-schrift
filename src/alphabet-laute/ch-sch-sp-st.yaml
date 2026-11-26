@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Nadia liest Sam zwei Sätze vor: *„**Ich** ma**ch**e heute einen Ku**ch**en in der Kü**ch**e.“* Dasselbe **ch** klingt mal weich vorn im Mund (*ich, Küche*) und mal rau hinten (*mache, Kuchen*). Der Buchstabe **davor** entscheidet!"
-          en: "Nadia reads Sam a sentence: *'Ich mache heute einen Kuchen in der Küche.'* The same **ch** sounds soft in the front (*ich, Küche*) and raspy in the back (*mache, Kuchen*). The letter **right before** **ch** decides!"
+          de: "Nadia liest Peter zwei Sätze vor: *„**Ich** ma**ch**e heute einen Ku**ch**en in der Kü**ch**e.“* Dasselbe **ch** klingt mal weich vorn im Mund (*ich, Küche*) und mal rau hinten (*mache, Kuchen*). Der Buchstabe **davor** entscheidet!"
+          en: "Nadia reads Peter a sentence: *'Ich mache heute einen Kuchen in der Küche.'* The same **ch** sounds soft in the front (*ich, Küche*) and raspy in the back (*mache, Kuchen*). The letter **right before** **ch** decides!"
       - type: table
         caption:
           de: "Laut-Schrift-Tafel: ch, sch, sp/st und z"

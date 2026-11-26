@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Auf dem Lindenberger Stadtplan entdeckt Sam **Schlossstraße** und **Wasserplatz** – mal **ss**, mal **ß**! Herr Braun zeigt das klare Entscheidungsschema auf der **Laut-Schrift-Tafel**: Erst hörst du, ob das *s* weich summt oder scharf zischt – und beim scharfen *s* entscheidet die **Vokallänge**."
-          en: "On the Lindenberg town map, Sam spots **Schlossstraße** and **Wasserplatz** — sometimes **ss**, sometimes **ß**! Herr Braun puts the clear decision rule on the **Sound-Spelling Board**: first check whether *s* buzzes (voiced) or hisses (voiceless) — and for the sharp hissing *s*, **vowel length** decides."
+          de: "Auf dem Lindenberger Stadtplan entdeckt Peter **Schlossstraße** und **Wasserplatz** – mal **ss**, mal **ß**! Herr Braun zeigt das klare Entscheidungsschema auf der **Laut-Schrift-Tafel**: Erst hörst du, ob das *s* weich summt oder scharf zischt – und beim scharfen *s* entscheidet die **Vokallänge**."
+          en: "On the Lindenberg town map, Peter spots **Schlossstraße** and **Wasserplatz** — sometimes **ss**, sometimes **ß**! Herr Braun puts the clear decision rule on the **Sound-Spelling Board**: first check whether *s* buzzes (voiced) or hisses (voiceless) — and for the sharp hissing *s*, **vowel length** decides."
       - type: table
         caption:
           de: "Entscheidungstafel für s, ss und ß"

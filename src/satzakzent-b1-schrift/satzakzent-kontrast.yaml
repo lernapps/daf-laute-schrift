@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Beim Proben für den Lindenberger Schul-Podcast merkt Sam: Derselbe Satz (*„Sam fährt morgen nach Berlin.“*) beantwortet ganz verschiedene Fragen – je nachdem, **welches Wort** den **Satzakzent** trägt!"
-          en: "While rehearsing for the Lindenberg school podcast, Sam notices: the exact same sentence (*'Sam fährt morgen nach Berlin.'*) answers completely different questions depending on **which word** gets the **sentence stress**!"
+          de: "Beim Proben für den Lindenberger Schul-Podcast merkt Peter: Derselbe Satz (*„Peter fährt morgen nach Berlin.“*) beantwortet ganz verschiedene Fragen – je nachdem, **welches Wort** den **Satzakzent** trägt!"
+          en: "While rehearsing for the Lindenberg school podcast, Peter notices: the exact same sentence (*'Peter fährt morgen nach Berlin.'*) answers completely different questions depending on **which word** gets the **sentence stress**!"
       - type: table
         caption:
           de: "Wie der Satzakzent den Fokus verschiebt"
@@ -28,11 +28,11 @@ blocks:
         rows:
           - - { de: "**SAM** fährt morgen nach Berlin.", en: "**SAM** fährt morgen nach Berlin." }
             - { de: "die Person (nicht jemand anderes)", en: "the person (not someone else)" }
-            - { de: "nicht Lukas, sondern Sam", en: "not Lukas, but Sam" }
-          - - { de: "Sam fährt **MORGEN** nach Berlin.", en: "Sam fährt **MORGEN** nach Berlin." }
+            - { de: "nicht Lukas, sondern Peter", en: "not Lukas, but Peter" }
+          - - { de: "Peter fährt **MORGEN** nach Berlin.", en: "Peter fährt **MORGEN** nach Berlin." }
             - { de: "der Zeitpunkt", en: "the time" }
             - { de: "nicht erst am Freitag", en: "not on Friday" }
-          - - { de: "Sam fährt morgen nach **BERLIN**.", en: "Sam fährt morgen nach **BERLIN**." }
+          - - { de: "Peter fährt morgen nach **BERLIN**.", en: "Peter fährt morgen nach **BERLIN**." }
             - { de: "das Ziel (neutraler Fokus / neue Info)", en: "the destination (neutral focus / new info)" }
             - { de: "nicht nach Hamburg", en: "not to Hamburg" }
       - type: note
@@ -54,8 +54,8 @@ blocks:
       - type: single-choice
         id: kontrast-korrektur
         text:
-          de: "Nadia fragt: *„Hast du das Buch **gekauft**?“* Sam will korrigieren: Er hat es nur **ausgeliehen**. Welches Wort betont Sam?"
-          en: "Nadia asks: *'Hast du das Buch **gekauft**?'* Sam wants to correct her: he only **borrowed** it. Which word should Sam stress?"
+          de: "Nadia fragt: *„Hast du das Buch **gekauft**?“* Peter will korrigieren: Er hat es nur **ausgeliehen**. Welches Wort betont Peter?"
+          en: "Nadia asks: *'Hast du das Buch **gekauft**?'* Peter wants to correct her: he only **borrowed** it. Which word should Peter stress?"
         options:
           - text: { de: "Nein, ich habe es **AUS**geliehen.", en: "Nein, ich habe es **AUS**geliehen." }
             correct: true
