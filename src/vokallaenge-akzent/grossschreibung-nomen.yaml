@@ -1,0 +1,189 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Großschreibung von Nomen und Sie"
+  en: "Capitalization of Nouns and Formal Sie"
+description:
+  de: "Satzanfänge, alle deutschen Nomen und die höfliche Anrede Sie/Ihr zuverlässig großschreiben."
+  en: "Capitalize sentence beginnings, all German nouns, and the formal pronoun Sie/Ihr reliably."
+competencies: [grossschreibung-nomen]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Warum so viele Großbuchstaben?"
+      en: "Why Are There So Many Capital Letters?"
+    blocks:
+      - type: text
+        text:
+          de: "In Peters erstem Schulheft in Klasse 6 markiert Herr Braun drei Fehler mit einem grünen Punkt: *„Im Deutschen hilft die **Großschreibung** dem Auge sofort beim Lesen: Jedes **Nomen** trägt ein großes Signal!“*"
+          en: "In Peter's first Year 6 notebook in Lindenberg, Herr Braun marks three spots with a green dot: *'In German, **capitalization** helps the reader's eye right away: every **noun** wears a capital signal!'*"
+      - type: single-choice
+        id: ich-klein-regel
+        text:
+          de: "Peter schreibt eine Nachricht an Nadia. Welcher Satz ist im Deutschen richtig groß- und kleingeschrieben?"
+          en: "Peter writes a message to Nadia. Which sentence uses correct German capitalization?"
+        options:
+          - text: { de: "Heute lerne ich Deutsch in der Schule.", en: "Heute lerne ich Deutsch in der Schule." }
+            correct: true
+            info:
+              de: "Richtig! *Heute* (Satzanfang), *Deutsch* (Sprachname/Nomen) und *Schule* (Nomen) sind groß; *ich* ist mitten im Satz klein."
+              en: "Correct! *Heute* (sentence start), *Deutsch* (language noun), and *Schule* (noun) are capitalized; *ich* is lowercase mid-sentence."
+          - text: { de: "Heute lerne Ich deutsch in der schule.", en: "Heute lerne Ich deutsch in der schule." }
+            correct: false
+            info:
+              de: "Achtung: Das deutsche **ich** wird im Satz klein geschrieben (anders als Englisch *I*), und das Nomen *Schule* muss groß sein."
+              en: "Watch out: German **ich** is lowercase mid-sentence (unlike English *I*), and the noun *Schule* must be capitalized."
+          - text: { de: "heute lerne ich Deutsch in der Schule.", en: "heute lerne ich Deutsch in der Schule." }
+            correct: false
+            info:
+              de: "Der Satzanfang (*Heute*) wird immer großgeschrieben."
+              en: "The first word of a sentence (*Heute*) is always capitalized."
+        explanation:
+          de: "Merke besonders den Unterschied zum Englischen: **ich** ist klein (außer am Satzanfang), aber **alle Nomen** sind groß."
+          en: "Notice the key contrast with English: **ich** is lowercase (except at the start of a sentence), whereas **every noun** is capitalized."
+
+  - type: section
+    id: regeln
+    title:
+      de: "Die drei Grundregeln der Großschreibung"
+      en: "The Three Core Capitalization Rules"
+    blocks:
+      - type: table
+        caption:
+          de: "Laut-Schrift-Tafel: Wann schreibe ich groß?"
+          en: "Sound-Spelling Board: When do I capitalize?"
+        header:
+          - { de: "Regel", en: "Rule" }
+          - { de: "Erkennungszeichen", en: "How to spot it" }
+          - { de: "Beispiele", en: "Examples" }
+        rows:
+          - - { de: "1. Satzanfang", en: "1. Sentence start" }
+            - { de: "Erstes Wort nach Punkt, ! oder ?", en: "First word after a period, !, or ?" }
+            - { de: "**M**orgen fahren wir nach Lindenberg.", en: "**M**orgen fahren wir nach Lindenberg." }
+          - - { de: "2. Alle Nomen", en: "2. All nouns" }
+            - {
+                de: "Passt *der / die / das* oder *ein / eine* davor?",
+                en: "Can *der / die / das* or *ein / eine* go before it?",
+              }
+            - {
+                de: "der **T**isch, die **F**reude, das **F**ahrrad",
+                en: "der **T**isch, die **F**reude, das **F**ahrrad",
+              }
+          - - { de: "3. Höfliches **Sie**", en: "3. Formal **Sie**" }
+            - {
+                de: "Anrede an Erwachsene / Fremde (*Sie, Ihnen, Ihr*)",
+                en: "Addressing adults / strangers (*Sie, Ihnen, Ihr*)",
+              }
+            - { de: "Können **S**ie **I**hr Buch kurz öffnen?", en: "Können **S**ie **I**hr Buch kurz öffnen?" }
+      - type: note
+        title:
+          de: "Kleingeschrieben bleiben …"
+          en: "Stay lowercase …"
+        blocks:
+          - type: text
+            text:
+              de: "Verben (*lernen, fahren*), Adjektive (*groß, deutsch* in *ein deutsches Buch*) und die Pronomen **ich**, **du**, **er**, **sie** (*she/they*) bleiben mitten im Satz klein."
+              en: "Verbs (*lernen, fahren*), adjectives (*groß, deutsch* in *ein deutsches Buch*), and pronouns **ich**, **du**, **er**, **sie** (*she/they*) stay lowercase mid-sentence."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Groß oder klein?"
+      en: "Practice: Capital or Lowercase?"
+    blocks:
+      - type: language-task
+        id: nomen-gross-schreiben
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle die richtige Groß- oder Kleinschreibung für Peters Nachricht an Herr Braun."
+          en: "Choose the correct capitalization for Peter's message to Herr Braun."
+        items:
+          - source: "Good morning, Herr Braun, I have a question."
+            target: "Guten Morgen, Herr Braun, [ich] habe eine [Frage]."
+            distractors: [["Ich"], ["frage"]]
+          - source: "Could you (formal) check my notebook?"
+            target: "Können [Sie] bitte mein [Heft] prüfen?"
+            distractors: [["sie"], ["heft"]]
+          - source: "Tomorrow I am bringing my German book."
+            target: "Morgen bringe [ich] mein [deutsches] [Buch] mit."
+            distractors: [["Ich"], ["Deutsches"], ["buch"]]
+        explanation:
+          de: "Nomen (*Frage, Heft, Buch*) und höfliches *Sie* stehen groß; *ich* und das Adjektiv *deutsches* (vor *Buch*) stehen klein."
+          en: "Nouns (*Frage, Heft, Buch*) and formal *Sie* are capitalized; *ich* and the adjective *deutsches* (before *Buch*) are lowercase."
+      - type: multiple-choice
+        id: sie-vs-sie
+        text:
+          de: "In welchen Sätzen muss **Sie** großgeschrieben werden?"
+          en: "In which sentences must **Sie** be capitalized?"
+        options:
+          - text:
+              {
+                de: "Entschuldigung, können [Sie] mir den Weg zum Bahnhof zeigen?",
+                en: "Entschuldigung, können [Sie] mir den Weg zum Bahnhof zeigen?",
+              }
+            correct: true
+            info:
+              de: "Richtig! Peter spricht eine fremde Person höflich mit *Sie* an."
+              en: "Correct! Peter is politely addressing a stranger with formal *Sie*."
+          - text:
+              {
+                de: "Das ist Mina. Morgen spielt [sie] im Sportverein.",
+                en: "Das ist Mina. Morgen spielt [sie] im Sportverein.",
+              }
+            correct: false
+            info:
+              de: "Hier bedeutet *sie* = *she* (Mina), also kleingeschrieben."
+              en: "Here *sie* means *she* (Mina), so it stays lowercase."
+          - text:
+              { de: "Frau Weber, möchten [Sie] noch einen Kaffee?", en: "Frau Weber, möchten [Sie] noch einen Kaffee?" }
+            correct: true
+            info:
+              de: "Richtig! Direkte höfliche Anrede an Frau Weber → immer groß."
+              en: "Correct! Direct formal address to Frau Weber → always capitalized."
+          - text:
+              {
+                de: "Wo sind die Schüler? Ach, dort kommen [sie] schon!",
+                en: "Wo sind die Schüler? Ach, dort kommen [sie] schon!",
+              }
+            correct: false
+            info:
+              de: "Hier bedeutet *sie* = *they* (die Schüler), also kleingeschrieben."
+              en: "Here *sie* means *they* (the students), so it stays lowercase."
+        explanation:
+          de: "Nur die höfliche Anrede **Sie / Ihnen / Ihr** wird mitten im Satz großgeschrieben; *sie* (*she* oder *they*) bleibt klein."
+          en: "Only formal **Sie / Ihnen / Ihr** is capitalized mid-sentence; *sie* (*she* or *they*) stays lowercase."
+      - type: language-task
+        id: nomen-tippen
+        languages: { source: en, target: de }
+        mode: gap
+        form: { case: wrong, punctuation: ok }
+        task:
+          de: "Tippe die fehlenden Wörter mit der richtigen Groß- oder Kleinschreibung ein."
+          en: "Type the missing words with the exact right capitalization."
+        items:
+          - source: "After school I ride my bike (Fahrrad)."
+            target: "Nach der Schule fahre [ich] mit dem [Fahrrad]."
+            mistakes:
+              - answer: "Ich"
+                message:
+                  de: "Mitten im Satz bleibt *ich* im Deutschen klein!"
+                  en: "Mid-sentence, *ich* stays lowercase in German!"
+              - answer: "fahrrad"
+                message:
+                  de: "*das Fahrrad* ist ein Nomen und muss großgeschrieben werden."
+                  en: "*das Fahrrad* is a noun and must be capitalized."
+          - source: "Herr Braun, do you (formal) have time (Zeit)?"
+            target: "Herr Braun, haben [Sie] kurz [Zeit]?"
+            mistakes:
+              - answer: "sie"
+                message:
+                  de: "Die höfliche Anrede *Sie* an Herr Braun schreibt man immer groß."
+                  en: "Formal *Sie* addressing Herr Braun is always capitalized."
+              - answer: "zeit"
+                message:
+                  de: "*die Zeit* ist ein Nomen und wird großgeschrieben."
+                  en: "*die Zeit* is a noun and must be capitalized."
+        explanation:
+          de: "Jedes Nomen (*Fahrrad, Zeit*) und die höfliche Anrede *Sie* sind groß; *ich* mitten im Satz ist klein."
+          en: "Every noun (*Fahrrad, Zeit*) and formal *Sie* are capitalized; *ich* mid-sentence stays lowercase."

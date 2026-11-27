@@ -1,0 +1,171 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Wichtige Konsonanten: ch, sch, sp, st und z"
+  en: "Key Consonant Sounds: ch, sch, sp, st and z"
+description:
+  de: "Ich-Laut und Ach-Laut (ch) unterscheiden und sch, sp/st am Wortanfang sowie z/tz sicher aussprechen."
+  en: "Distinguish the ich-sound and ach-sound (ch), and pronounce sch, initial sp/st, and z/tz reliably."
+competencies: [ch-sch-sp-st]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Ich-Laut oder Ach-Laut? Zwei Seiten von ch"
+      en: "Ich-Sound or Ach-Sound? Two Sides of ch"
+    blocks:
+      - type: text
+        text:
+          de: "In der Pause liest Nadia Peter einen Zungenbrecher vor: *„**Ich** ma**ch**e heute einen Ku**ch**en in der Kü**ch**e.“* Dasselbe **ch** klingt mal weich vorn im Mund (*ich, Küche*) und mal rau hinten (*mache, Kuchen*). Der Buchstabe **davor** entscheidet!"
+          en: "At break time, Nadia reads Peter a tongue twister: *'Ich mache heute einen Kuchen in der Küche.'* The same **ch** sounds soft in the front (*ich, Küche*) and raspy in the back (*mache, Kuchen*). The letter **right before** **ch** decides!"
+      - type: single-choice
+        id: ch-einstieg
+        text:
+          de: "Wie klingt **ch** im Wort **Kuchen** (nach dem Buchstaben **u**)?"
+          en: "How does **ch** sound in **Kuchen** (right after the letter **u**)?"
+        options:
+          - text:
+              de: "hinten im Rachen (Ach-Laut, wie in *mache*)"
+              en: "in the back of the throat (ach-sound, as in *mache*)"
+            correct: true
+            info:
+              de: "Richtig! Nach **a, o, u, au** liegt **ch** hinten im Rachen."
+              en: "Correct! After **a, o, u, au**, **ch** is spoken in the back of the throat."
+          - text:
+              de: "weich vorn im Mund (Ich-Laut, wie in *ich*)"
+              en: "soft in the front of the mouth (ich-sound, as in *ich*)"
+            correct: false
+            info:
+              de: "Der weiche Ich-Laut steht nach *i, e, ä, ö, ü* – in *Küche* (mit *ü*) klingt er vorn, in *Kuchen* (mit *u*) hinten!"
+              en: "The soft ich-sound comes after *i, e, ä, ö, ü* — in *Küche* (with *ü*) it is in front, but in *Kuchen* (with *u*) it is in the back!"
+          - text:
+              de: "wie ein deutsches *k* (wie in *Kaffee*)"
+              en: "like a hard *k* (as in *Kaffee*)"
+            correct: false
+            info:
+              de: "Deutsches **ch** wird nach Vokalen nicht wie *k* gesprochen, sondern als Reibelaut."
+              en: "After vowels, German **ch** is not a hard *k* — it is a breathy sound in the back or front of the mouth."
+        explanation:
+          de: "Schau immer auf den Buchstaben **vor** dem **ch**: *a, o, u, au* → Ach-Laut hinten; alles andere → Ich-Laut vorn."
+          en: "Always look at the letter **before** **ch**: *a, o, u, au* → back ach-sound; everything else → front ich-sound."
+
+  - type: section
+    id: tafel
+    title:
+      de: "Laut-Schrift-Tafel: ch, sch, sp/st und z"
+      en: "Sound-Spelling Board: ch, sch, sp/st, and z"
+    blocks:
+      - type: table
+        caption:
+          de: "Laut-Schrift-Tafel: ch, sch, sp/st und z"
+          en: "Sound-Spelling Board: ch, sch, sp/st, and z"
+        header:
+          - { de: "Buchstaben", en: "Letters" }
+          - { de: "Wann / Wie?", en: "When / How?" }
+          - { de: "Beispiele", en: "Examples" }
+        rows:
+          - - { de: "**ch** (Ach-Laut)", en: "**ch** (ach-sound)" }
+            - { de: "nach **a, o, u, au** (hinten im Rachen)", en: "after **a, o, u, au** (back of throat)" }
+            - { de: "B**uch**, N**ach**t, k**och**en, **auch**", en: "B**uch**, N**ach**t, k**och**en, **auch**" }
+          - - { de: "**ch** (Ich-Laut)", en: "**ch** (ich-sound)" }
+            - {
+                de: "nach **e, i, ä, ö, ü, ei, eu** und Konsonanten (vorn, weich)",
+                en: "after **e, i, ä, ö, ü, ei, eu** and consonants (front, soft)",
+              }
+            - { de: "**ich**, M**ilch**, K**üche**, r**eich**", en: "**ich**, M**ilch**, K**üche**, r**eich**" }
+          - - { de: "**sch**", en: "**sch**" }
+            - { de: "immer wie Englisch *sh* (Lippen rund)", en: "always like English *sh* (lips rounded)" }
+            - { de: "**Sch**ule, Ti**sch**, Deut**sch**", en: "**Sch**ule, Ti**sch**, Deut**sch**" }
+          - - { de: "**sp- / st-**", en: "**sp- / st-**" }
+            - { de: "am Wort- oder Silbenanfang: **schp / scht**", en: "at the start of a word or stem: **shp / sht**" }
+            - { de: "**Sp**ort, **St**raße, auf**st**ehen", en: "**Sp**ort, **St**raße, auf**st**ehen" }
+          - - { de: "**z / tz**", en: "**z / tz**" }
+            - {
+                de: "immer **ts** (wie *cats*), nie weiches englisches *z*",
+                en: "always **ts** (like *cats*), never English *z*",
+              }
+            - { de: "**Z**ug, **Z**eit, Pla**tz**, Ka**tz**e", en: "**Z**ug, **Z**eit, Pla**tz**, Ka**tz**e" }
+      - type: note
+        title:
+          de: "Achtung bei sp und st am Wortende!"
+          en: "Watch out for sp and st at the end!"
+        blocks:
+          - type: text
+            text:
+              de: "In der Mitte oder am Ende eines Wortes bleiben *sp* und *st* einfach **s + p** bzw. **s + t**: *We**st**en*, *du bi**st***, *Fe**st***."
+              en: "In the middle or at the end of a word, *sp* and *st* stay plain **s + p** / **s + t**: *We**st**en*, *du bi**st***, *Fe**st***."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Konsonanten auf der Laut-Schrift-Tafel"
+      en: "Practice: Consonants on the Sound-Spelling Board"
+    blocks:
+      - type: multiple-choice
+        id: ach-laut-finden
+        text:
+          de: "In welchen Wörtern spricht man **ch** als **Ach-Laut** (hinten im Rachen)?"
+          en: "In which words is **ch** pronounced as the **ach-sound** (back of the throat)?"
+        options:
+          - text: { de: "Buch", en: "Buch" }
+            correct: true
+            info:
+              de: "Richtig! Nach **u** folgt immer der Ach-Laut."
+              en: "Correct! After **u**, **ch** is always the ach-sound."
+          - text: { de: "Bücher", en: "Bücher" }
+            correct: false
+            info:
+              de: "Durch den Umlaut **ü** wandert das **ch** nach vorn zum Ich-Laut!"
+              en: "Because of the umlaut **ü**, **ch** moves forward to the ich-sound!"
+          - text: { de: "Woche", en: "Woche" }
+            correct: true
+            info:
+              de: "Richtig! Nach **o** spricht man den Ach-Laut."
+              en: "Correct! After **o**, **ch** is the ach-sound."
+          - text: { de: "Milch", en: "Milch" }
+            correct: false
+            info:
+              de: "Nach einem Konsonanten (*l*) steht immer der weiche Ich-Laut."
+              en: "After a consonant (*l*), **ch** is always the soft ich-sound."
+        explanation:
+          de: "Merkhilfe: Nach **a, o, u, au** klingt **ch** hinten (Ach-Laut). Nach allen anderen Lauten – auch nach *ä, ö, ü* – klingt es vorn (Ich-Laut)."
+          en: "Rule of thumb: after **a, o, u, au**, **ch** is in the back (ach-sound). After every other sound — including *ä, ö, ü* — it is in the front (ich-sound)."
+      - type: matching
+        id: konsonanten-klang
+        text:
+          de: "Ordne jedes Wort aus Lindenberg dem passenden Konsonantenklang zu."
+          en: "Match each Lindenberg word to its consonant sound."
+        pairs:
+          - left: { de: "Stadtzentrum (St-)", en: "Stadtzentrum (St-)" }
+            right: { de: "klingt wie scht- am Wortanfang", en: "sounds like sht- at the start of a word" }
+          - left: { de: "Zug (Z-)", en: "Zug (Z-)" }
+            right: { de: "klingt wie ts- (hart, wie in cats)", en: "sounds like ts- (sharp, like in cats)" }
+          - left: { de: "Fest (-st)", en: "Fest (-st)" }
+            right: { de: "klingt wie -st (kein sch am Wortende)", en: "sounds like -st (no sh at word end)" }
+          - left: { de: "Sportverein (Sp-)", en: "Sportverein (Sp-)" }
+            right: { de: "klingt wie schp- am Wortanfang", en: "sounds like shp- at the start of a word" }
+        explanation:
+          de: "**sp/st** werden nur am Anfang eines Wortes oder Wortstamms zu *schp/scht*; am Wortende (*Fest*) bleibt das einfache *s*. **z** ist immer *ts*."
+          en: "**sp/st** become *shp/sht* only at the start of a word or stem; at the end (*Fest*), plain *s* remains. **z** is always *ts*."
+      - type: language-task
+        id: konsonanten-luecken
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle die richtige Buchstabengruppe für Peters Wörter aus Klasse 6."
+          en: "Choose the right consonant spelling for Peter's Year 6 words."
+        items:
+          - source: "school (sh sound)"
+            target: "[Sch]ule"
+            distractors: [["Ch", "Sh"]]
+          - source: "table (sh sound at end)"
+            target: "Ti[sch]"
+            distractors: [["ch", "st"]]
+          - source: "square / seat (ts sound after short a)"
+            target: "Pla[tz]"
+            distractors: [["ts", "sch"]]
+          - source: "cat (ts sound after short a)"
+            target: "Ka[tz]e"
+            distractors: [["ts", "ss"]]
+        explanation:
+          de: "Im Deutschen schreibt man den *sh*-Laut immer **sch** (nie *sh*) und den *ts*-Laut nach kurzem Vokal **tz** (*Platz, Katze*)."
+          en: "German always spells the *sh* sound as **sch** (never *sh*) and the *ts* sound after a short vowel as **tz** (*Platz, Katze*)."

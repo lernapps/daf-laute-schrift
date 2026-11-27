@@ -1,0 +1,150 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Wortakzent und Satzmelodie"
+  en: "Word Stress and Basic Intonation"
+description:
+  de: "Die betonte Stammsilbe deutscher Wörter treffen und Aussagen, W-Fragen und Ja/Nein-Fragen mit der richtigen Melodie sprechen."
+  en: "Stress the main stem syllable of German words and use natural falling or rising intonation in statements and questions."
+competencies: [wortakzent-satzmelodie]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Punkte und Pfeile auf der Laut-Schrift-Tafel"
+      en: "Dots and Arrows on the Sound-Spelling Board"
+    blocks:
+      - type: text
+        text:
+          de: "Im Unterricht klatscht Herr Braun die Silben: **LIN**-den-berg, **FAHR**-rad, **AR**-bei-ten. Im Deutschen trägt fast immer die **erste Silbe** (die Stammsilbe) den Hauptakzent – sie ist etwas lauter und deutlicher als die anderen."
+          en: "In class, Herr Braun claps out the syllables: **LIN**-den-berg, **FAHR**-rad, **AR**-bei-ten. In native German words, the **first syllable** (the stem) almost always carries the main stress — slightly louder and clearer than the rest."
+      - type: single-choice
+        id: kompositum-akzent
+        text:
+          de: "Wo liegt der Hauptakzent im zusammengesetzten Wort **Fahrradweg** (*bike path*)?"
+          en: "Where does the main stress fall in the compound noun **Fahrradweg** (*bike path*)?"
+        options:
+          - text: { de: "**FAHR**-rad-weg (auf der ersten Silbe)", en: "**FAHR**-rad-weg (on the first syllable)" }
+            correct: true
+            info:
+              de: "Richtig! Bei deutschen Zusammensetzungen trägt das erste Wort (*FAHR-*) den Hauptakzent."
+              en: "Correct! In German compounds, the first word (*FAHR-*) carries the main stress."
+          - text: { de: "Fahr-**RAD**-weg (auf der zweiten Silbe)", en: "Fahr-**RAD**-weg (on the second syllable)" }
+            correct: false
+            info:
+              de: "Das zweite Element trägt höchstens einen Nebenakzent, nicht den Hauptakzent."
+              en: "The second element carries at most secondary stress, not the main stress."
+          - text: { de: "Fahr-rad-**WEG** (auf der letzten Silbe)", en: "Fahr-rad-**WEG** (on the last syllable)" }
+            correct: false
+            info:
+              de: "Im Deutschen wandert der Akzent bei Zusammensetzungen nach vorn auf das erste Wort, nicht nach hinten."
+              en: "In German compounds, main stress pulls to the front word, not the end."
+        explanation:
+          de: "Deutsche Zusammensetzungen betonen das **erste** Wort, weil es die Bedeutung genauer festlegt: *FAHRradweg*, *DEUTSCHlehrer*, *SCHULhof*."
+          en: "German compounds stress the **first** word because it narrows the meaning: *FAHRradweg*, *DEUTSCHlehrer*, *SCHULhof*."
+
+  - type: section
+    id: tafel
+    title:
+      de: "Wortakzent und Satzmelodie auf einen Blick"
+      en: "Word Stress and Sentence Melody at a Glance"
+    blocks:
+      - type: table
+        caption:
+          de: "Wortakzent und Satzmelodie auf einen Blick"
+          en: "Word stress and sentence melody at a glance"
+        header:
+          - { de: "Bereich", en: "Area" }
+          - { de: "Muster", en: "Pattern" }
+          - { de: "Beispiele", en: "Examples" }
+        rows:
+          - - { de: "Wortakzent (Grundregel)", en: "Word stress (default)" }
+            - { de: "Stammsilbe (meist Silbe 1)", en: "Stem syllable (usually syllable 1)" }
+            - { de: "**SCHU**-le, **WOH**-nen, **BRÖT**-chen", en: "**SCHU**-le, **WOH**-nen, **BRÖT**-chen" }
+          - - { de: "Zusammensetzungen", en: "Compound nouns" }
+            - { de: "Erstes Wort betont", en: "First word stressed" }
+            - {
+                de: "**SCHUL**-hof, **BAHN**-hof, **HAUS**-aufgabe",
+                en: "**SCHUL**-hof, **BAHN**-hof, **HAUS**-aufgabe",
+              }
+          - - { de: "Aussagesatz", en: "Statement" }
+            - { de: "Stimme fällt am Ende (↘)", en: "Voice falls at the end (↘)" }
+            - { de: "Peter wohnt in Lindenberg. ↘", en: "Peter wohnt in Lindenberg. ↘" }
+          - - { de: "W-Frage", en: "W-question" }
+            - { de: "Stimme fällt am Ende (↘)", en: "Voice falls at the end (↘)" }
+            - { de: "Wo ist der Bahnhof? ↘", en: "Wo ist der Bahnhof? ↘" }
+          - - { de: "Ja/Nein-Frage", en: "Yes/no question" }
+            - { de: "Stimme steigt am Ende (↗)", en: "Voice rises at the end (↗)" }
+            - { de: "Kommst du heute mit? ↗", en: "Kommst du heute mit? ↗" }
+      - type: note
+        title:
+          de: "Typischer Unterschied bei W-Fragen"
+          en: "Notice W-questions!"
+        blocks:
+          - type: text
+            text:
+              de: "In einer neutralen W-Frage (*Wie heißt du? ↘*) geht die Stimme am Ende **nach unten** – erst wenn man besonders freundlich oder erstaunt nachfragt, steigt sie."
+              en: "In a neutral W-question (*Wie heißt du? ↘*), your voice goes **down** at the end — it rises only if you want to sound extra friendly or surprised."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Akzent und Melodie prüfen"
+      en: "Practice: Stress and Melody Check"
+    blocks:
+      - type: matching
+        id: satzmelodie-zuordnen
+        text:
+          de: "Ordne jeden Satz aus dem Gespräch mit Nadia der passenden Satzmelodie am Satzende zu."
+          en: "Match each sentence from Peter's chat with Nadia to its ending intonation."
+        pairs:
+          - left: { de: "Hast du morgen Zeit?", en: "Hast du morgen Zeit?" }
+            right: { de: "steigend (↗) – Ja/Nein-Frage", en: "rising (↗) – yes/no question" }
+          - left: { de: "Wann beginnt der Unterricht?", en: "Wann beginnt der Unterricht?" }
+            right: { de: "fallend (↘) – neutrale W-Frage", en: "falling (↘) – neutral W-question" }
+          - left: { de: "Die Schule beginnt um acht Uhr.", en: "Die Schule beginnt um acht Uhr." }
+            right: { de: "fallend (↘) – Aussagesatz", en: "falling (↘) – statement" }
+        explanation:
+          de: "Aussagesätze und neutrale W-Fragen enden fallend (↘). Ja/Nein-Fragen enden klar steigend (↗)."
+          en: "Statements and neutral W-questions end with falling intonation (↘). Yes/no questions end with clear rising intonation (↗)."
+      - type: ordering
+        id: melodie-regeln-check
+        text:
+          de: "Bringe die Wörter zu einer Ja/Nein-Frage mit steigender Melodie (↗) in die richtige Reihenfolge."
+          en: "Put the words in order to form a yes/no question with rising intonation (↗)."
+        items:
+          - { de: "Kommst", en: "Kommst" }
+          - { de: "du", en: "du" }
+          - { de: "heute", en: "heute" }
+          - { de: "mit?", en: "mit?" }
+        explanation:
+          de: "Eine Ja/Nein-Frage beginnt mit dem Verb (*Kommst du heute mit?*) und endet mit steigender Stimme (↗)."
+          en: "A yes/no question starts with the verb (*Kommst du heute mit?*) and ends with rising intonation (↗)."
+      - type: multiple-choice
+        id: erste-silbe-betont
+        text:
+          de: "In welchen Wörtern trägt die **erste** Silbe den Hauptakzent?"
+          en: "In which words does the **first** syllable carry the main stress?"
+        options:
+          - text: { de: "Schulhof", en: "Schulhof" }
+            correct: true
+            info:
+              de: "Richtig! **SCHUL**-hof betont das erste Wort der Zusammensetzung."
+              en: "Correct! **SCHUL**-hof stresses the first word of the compound."
+          - text: { de: "Lindenberg", en: "Lindenberg" }
+            correct: true
+            info:
+              de: "Richtig! **LIN**-den-berg trägt den Hauptakzent auf Silbe 1."
+              en: "Correct! **LIN**-den-berg carries main stress on syllable 1."
+          - text: { de: "verstehen", en: "verstehen" }
+            correct: false
+            info:
+              de: "Hier ist *ver-* eine unbetonte Vorsilbe – betont wird der Stamm: ver-**STEH**-en."
+              en: "Here *ver-* is an unstressed prefix — the stem is stressed: ver-**STEH**-en."
+          - text: { de: "Brötchen", en: "Brötchen" }
+            correct: true
+            info:
+              de: "Richtig! **BRÖT**-chen betont die Stammsilbe vorn."
+              en: "Correct! **BRÖT**-chen stresses the stem syllable at the front."
+        explanation:
+          de: "Deutsche Grundwörter und Zusammensetzungen betonen fast immer die erste Silbe – nur unbetonte Vorsilben wie *ver-* lassen den Akzent auf den Stamm wandern."
+          en: "Native German words and compounds almost always stress the first syllable — only unstressed prefixes like *ver-* shift stress onto the stem."

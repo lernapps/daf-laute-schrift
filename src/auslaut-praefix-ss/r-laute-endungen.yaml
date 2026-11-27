@@ -1,0 +1,160 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "R-Laute und unbetonte Endungen"
+  en: "R-Sounds and Unstressed Endings"
+description:
+  de: "Deutsches konsonantisches r am Silbenanfang vom vokalisierten r in -er sowie reduzierten Endungen (-en, -el) unterscheiden."
+  en: "Pronounce German initial r-sounds, vocalized -er endings, and reduced unstressed endings (-en, -el) naturally."
+competencies: [r-laute-endungen]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Lehrer oder Lehra? Zwei Gesichter des deutschen R"
+      en: "Lehrer or Lehra? Two Faces of German R"
+    blocks:
+      - type: text
+        text:
+          de: "Peter hört genau hin, wenn Mina von ihrem **Bruder** und ihrem **Lehrer** erzählt: Das erste **r** in *Bruder* klingt wie ein weiches Reiben hinten im Rachen, aber die Endung **-er** am Schluss klingt fast wie ein kurzes, entspanntes **-a**!"
+          en: "Peter listens closely when Mina talks about her **Bruder** and her **Lehrer**: the first **r** in *Bruder* is a soft consonant in the back of the throat, while the ending **-er** at the end sounds almost like a short, relaxed **-a**!"
+      - type: single-choice
+        id: vokalisiertes-r-erkennen
+        text:
+          de: "In welchem Wort klingt das **r** am Wortende wie ein kurzes, entspanntes **-a** (vokalisiertes r)?"
+          en: "In which word does the final **r** sound like a short, relaxed **-a** (vocalized r)?"
+        options:
+          - text: { de: "Fenster", en: "Fenster" }
+            correct: true
+            info:
+              de: "Richtig! Die unbetonte Endung **-er** wird im Standarddeutschen zu einem kurzen a-Laut (*Fensta*)."
+              en: "Correct! The unstressed ending **-er** turns into a short a-like sound (*Fensta*) in Standard German."
+          - text: { de: "Regen", en: "Regen" }
+            correct: false
+            info:
+              de: "In *Regen* steht **R** am Anfang vor einem Vokal – dort spricht man ein konsonantisches r."
+              en: "In *Regen*, **R** comes at the start before a vowel, so it is a consonant r."
+          - text: { de: "fahren", en: "fahren" }
+            correct: false
+            info:
+              de: "In *fahren* folgt direkt der Vokal *e* auf das *r*, deshalb bleibt es konsonantisch."
+              en: "In *fahren*, the vowel *e* follows *r* directly, so *r* stays consonantal."
+        explanation:
+          de: "Vor einem Vokal (*Regen, fahren*) ist **r** ein Konsonant; in der Endung **-er** (*Fenster, Lehrer, Vater*) wird es vokalisiert."
+          en: "Before a vowel (*Regen, fahren*), **r** is a consonant; in the ending **-er** (*Fenster, Lehrer, Vater*), it is vocalized."
+
+  - type: section
+    id: tafel
+    title:
+      de: "Laut-Schrift-Tafel: R-Laute und unbetonte Endungen"
+      en: "Sound-Spelling Board: R-Sounds and Unstressed Endings"
+    blocks:
+      - type: table
+        caption:
+          de: "Laut-Schrift-Tafel: R-Laute und unbetonte Endungen"
+          en: "Sound-Spelling Board: R-sounds and unstressed endings"
+        header:
+          - { de: "Position / Endung", en: "Position / Ending" }
+          - { de: "Aussprache im Standarddeutschen", en: "Standard German pronunciation" }
+          - { de: "Beispiele", en: "Examples" }
+        rows:
+          - - { de: "**r** vor einem Vokal", en: "**r** before a vowel" }
+            - {
+                de: "weiches Reibe-r hinten im Rachen (nicht englisch gerollt)",
+                en: "soft uvular r in the back of the throat (not English r)",
+              }
+            - { de: "**R**egen, **Br**ot, F**r**au, hö**r**en", en: "**R**egen, **Br**ot, F**r**au, hö**r**en" }
+          - - { de: "**-er** am Wortende / nach langem Vokal", en: "**-er** at word end / after long vowel" }
+            - {
+                de: "vokalisiertes r: klingt wie kurzes, offenes **-a**",
+                en: "vocalized r: sounds like a short, relaxed **-a**",
+              }
+            - { de: "Lehr**er**, Brud**er**, Somm**er**, h**ier**", en: "Lehr**er**, Brud**er**, Somm**er**, h**ier**" }
+          - - { de: "**-en / -el** (unbetont)", en: "**-en / -el** (unstressed)" }
+            - { de: "sehr kurzes Schwa (*e* fast verschluckt)", en: "very short schwa (*e* barely heard)" }
+            - { de: "mach**en**, komm**en**, Äpf**el**, Taf**el**", en: "mach**en**, komm**en**, Äpf**el**, Taf**el**" }
+      - type: note
+        title:
+          de: "Kein englisches Retroflex-R"
+          en: "Drop the English tongue curl"
+        blocks:
+          - type: text
+            text:
+              de: "Im Englischen biegt sich die Zungenspitze nach hinten (*car*). Im Deutschen bleibt die Zungenspitze entspannt vorn hinter den unteren Zähnen – besonders bei **-er** (*Wasser, Wetter, super*)."
+              en: "In English, the tongue tip curls back (*car*). In German, keep your tongue tip relaxed behind your lower teeth — especially in **-er** endings (*Wasser, Wetter, super*)."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: R-Laute und Endungen zuordnen"
+      en: "Practice: Sorting R-Sounds and Endings"
+    blocks:
+      - type: matching
+        id: endungen-natuerlich
+        text:
+          de: "Ordne jedes Wort der passenden Aussprache-Notiz auf Peters Tafel zu."
+          en: "Match each word to its pronunciation note on Peter's board."
+        pairs:
+          - left: { de: "Brötchen (Br-)", en: "Brötchen (Br-)" }
+            right: { de: "konsonantisches r vor Vokal", en: "consonantal r before a vowel" }
+          - left: { de: "Computer (-er)", en: "Computer (-er)" }
+            right: { de: "vokalisiertes -er (klingt fast wie -a)", en: "vocalized -er (sounds close to -a)" }
+          - left: { de: "lernen (-en)", en: "lernen (-en)" }
+            right: { de: "reduzierte unbetonte Endung (kurzes Schwa)", en: "reduced unstressed ending (brief schwa)" }
+          - left: { de: "Fahrrad (-hr)", en: "Fahrrad (-hr)" }
+            right:
+              {
+                de: "erstes r nach langem Vokal vokalisiert, zweites konsonantisch",
+                en: "first r after long vowel vocalized, second consonantal",
+              }
+        explanation:
+          de: "Natürliches Deutsch klingt fließend, weil unbetonte Endungen (*-er, -en, -el*) kurz und entspannt bleiben, statt jede Silbe voll auszubuchstabieren."
+          en: "Natural German flows smoothly because unstressed endings (*-er, -en, -el*) stay short and relaxed rather than spelling out every vowel."
+      - type: language-task
+        id: r-regeln-check
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle die passende unbetonte Endung (**-er**, **-en** oder **-el**) für Peters Wörter."
+          en: "Choose the matching unstressed ending (**-er**, **-en**, or **-el**) for Peter's words."
+        items:
+          - source: "teacher (vocalized -er sounding like -a)"
+            target: "Lehr[er]"
+            distractors: [["en", "el"]]
+          - source: "to make (reduced -en)"
+            target: "mach[en]"
+            distractors: [["er", "el"]]
+          - source: "chalkboard / board (reduced -el)"
+            target: "Taf[el]"
+            distractors: [["er", "en"]]
+        explanation:
+          de: "Die Endung **-er** wird vokalisiert (*Lehrer*), während **-en** (*machen*) und **-el** (*Tafel*) kurz und entspannt bleiben."
+          en: "The ending **-er** is vocalized (*Lehrer*), while **-en** (*machen*) and **-el** (*Tafel*) stay short and relaxed."
+      - type: multiple-choice
+        id: vokalisiertes-er-finden
+        text:
+          de: "In welchen Wörtern wird das **r** im Standarddeutschen **vokalisiert** (klingt wie ein kurzes *a*)?"
+          en: "In which words is **r** **vocalized** (sounding like a short *a*) in Standard German?"
+        options:
+          - text: { de: "Wetter", en: "Wetter" }
+            correct: true
+            info:
+              de: "Richtig! Die unbetonte Endung *-er* klingt wie kurzes *-a*."
+              en: "Correct! The unstressed ending *-er* sounds like a short *-a*."
+          - text: { de: "hier", en: "hier" }
+            correct: true
+            info:
+              de: "Richtig! Nach langem *ie* am Silbenende wird **r** vokalisiert (*hia*)."
+              en: "Correct! After long *ie* at syllable end, **r** is vocalized (*hia*)."
+          - text: { de: "Reise", en: "Reise" }
+            correct: false
+            info:
+              de: "Hier steht **R** am Anfang vor einem Vokal – also konsonantisch."
+              en: "Here **R** starts the word before a vowel, so it is consonantal."
+          - text: { de: "Vater", en: "Vater" }
+            correct: true
+            info:
+              de: "Richtig! Auch *-er* in *Vater* wird vokalisiert."
+              en: "Correct! *-er* in *Vater* is vocalized too."
+        explanation:
+          de: "Vokalisiertes **r** hörst du vor allem in der Endung *-er* (*Wetter, Vater*) und nach langem Vokal am Silbenende (*hier, Uhr*)."
+          en: "Vocalized **r** occurs mainly in *-er* endings (*Wetter, Vater*) and after a long vowel at syllable end (*hier, Uhr*)."

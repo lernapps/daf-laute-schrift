@@ -1,0 +1,148 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Lange und kurze Vokale"
+  en: "Long and Short Vowels"
+description:
+  de: "Lange und kurze Vokale hören, aussprechen und an Schreibsignalen wie ie, Dehnungs-h und Doppelkonsonanten erkennen."
+  en: "Hear, pronounce, and spot spelling signals for long vowels (ie, silent h) and short vowels (double consonants)."
+competencies: [vokallaenge-dehnung]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: "Miete oder Mitte? Die Länge ändert die Bedeutung"
+      en: "Miete or Mitte? Length Changes Meaning"
+    blocks:
+      - type: text
+        text:
+          de: "Auf dem Weg zur Schule in Lindenberg fragt Peter Lukas: *„Wohnen wir in der **Miete** oder in der **Mitte**?“* Lukas lacht: Ein langer oder kurzer Vokal macht aus zwei ähnlichen Wörtern ganz verschiedene Bedeutungen – und die Schrift zeigt dir fast immer, welcher Vokal gemeint ist."
+          en: "Walking to school in Lindenberg, Peter asks Lukas: *'Wohnen wir in der **Miete** or in der **Mitte**?'* Lukas laughs: vowel length turns similar-looking words into different meanings — and German spelling almost always signals which one you need."
+      - type: single-choice
+        id: stummes-h-erkennen
+        text:
+          de: "Welches Wort hat einen **langen** Vokal mit einem stummen Dehnungs-**h**?"
+          en: "Which word has a **long** vowel signaled by a silent **h**?"
+        options:
+          - text: { de: "wohnen", en: "wohnen" }
+            correct: true
+            info:
+              de: "Richtig! Das stumme **h** nach **o** zeigt ein langes *o* an."
+              en: "Correct! The silent **h** after **o** signals a long *oh*."
+          - text: { de: "Wonne", en: "Wonne" }
+            correct: false
+            info:
+              de: "Das doppelte **nn** macht das **o** kurz."
+              en: "The double **nn** makes the **o** short."
+          - text: { de: "Sonne", en: "Sonne" }
+            correct: false
+            info:
+              de: "Auch hier zeigt **nn** einen kurzen Vokal an."
+              en: "Here too, **nn** signals a short vowel."
+        explanation:
+          de: "Ein stummes **h** vor *l, m, n, r* dehnt den Vokal (*wohnen, Fahrrad, nehmen*); ein Doppelkonsonant (*nn, tt, mm*) kürzt ihn."
+          en: "A silent **h** before *l, m, n, r* lengthens the vowel (*wohnen, Fahrrad, nehmen*); a double consonant (*nn, tt, mm*) shortens it."
+      - type: figure
+        image: images/vowel-length-signals.svg
+        alt:
+          de: "Peters Laut-Schrift-Tafel: Lange Vokale mit ie (Biene, Miete), stummem h (Fahrrad, Uhr) oder Doppelvokal (Boot, Kaffee) im Vergleich zu kurzen Vokalen vor Doppelkonsonanten (Bett, Mitte), ck (Zucker, Jacke) und tz (Platz, Katze)."
+          en: "Peter's Sound-Spelling Board: long vowels with ie (Biene, Miete), silent h (Fahrrad, Uhr), or double vowel (Boot, Kaffee) compared with short vowels before double consonants (Bett, Mitte), ck (Zucker, Jacke), and tz (Platz, Katze)."
+        caption:
+          de: "Peters Laut-Schrift-Tafel: Daran erkennst du lange und kurze Vokale auf einen Blick."
+          en: "Peter's Sound-Spelling Board: how to spot long and short vowels at a glance."
+        source:
+          de: "Eigene Zeichnung"
+          en: "Own drawing"
+        licence: CC0-1.0
+
+  - type: section
+    id: tafel
+    title:
+      de: "Signale für lange und kurze Vokale"
+      en: "Signals for Long and Short Vowels"
+    blocks:
+      - type: table
+        caption:
+          de: "Laut-Schrift-Tafel: Signale für lange und kurze Vokale"
+          en: "Sound-Spelling Board: Signals for long and short vowels"
+        header:
+          - { de: "Vokallänge", en: "Vowel length" }
+          - { de: "Schreibsignal", en: "Spelling signal" }
+          - { de: "Beispiele", en: "Examples" }
+        rows:
+          - - { de: "**Lang** (gedehnt)", en: "**Long** (stretched)" }
+            - { de: "**ie** (für langes *i*)", en: "**ie** (for long *ee*)" }
+            - { de: "M**ie**te, sp**ie**len, B**ie**ne", en: "M**ie**te, sp**ie**len, B**ie**ne" }
+          - - { de: "**Lang** (gedehnt)", en: "**Long** (stretched)" }
+            - { de: "stummes **h** (Dehnungs-h)", en: "silent **h** (*Dehnungs-h*)" }
+            - { de: "Fa**h**rrad, wo**h**nen, Le**h**rer", en: "Fa**h**rrad, wo**h**nen, Le**h**rer" }
+          - - { de: "**Lang** (gedehnt)", en: "**Long** (stretched)" }
+            - { de: "Doppelvokal oder nur 1 Konsonant", en: "double vowel or single consonant" }
+            - { de: "Kaff**ee**, B**oo**t, T**a**g, L**e**ben", en: "Kaff**ee**, B**oo**t, T**a**g, L**e**ben" }
+          - - { de: "**Kurz** (knapp)", en: "**Short** (snappy)" }
+            - { de: "Doppelkonsonant, **ck** oder **tz**", en: "double consonant, **ck**, or **tz**" }
+            - { de: "M**itt**e, B**ett**, Bä**ck**er, Pla**tz**", en: "M**itt**e, B**ett**, Bä**ck**er, Pla**tz**" }
+      - type: note
+        title:
+          de: "Das Dehnungs-h hörst du nicht!"
+          en: "Never pronounce the silent h!"
+        blocks:
+          - type: text
+            text:
+              de: "In *Fa**h**rrad*, *wo**h**nen* oder *U**h**r* wird das **h** nicht gehaucht. Es dehnt nur den Vokal davor."
+              en: "In *Fa**h**rrad*, *wo**h**nen*, or *U**h**r*, the **h** is completely silent. Its only job is to lengthen the vowel before it."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Lang oder kurz?"
+      en: "Practice: Long or Short?"
+    blocks:
+      - type: matching
+        id: minimalpaare-laenge
+        text:
+          de: "Ordne jedes Wort aus Peters Schultag dem passenden Vokallängen-Signal zu."
+          en: "Match each word from Peter's school day to its vowel-length signal."
+        pairs:
+          - left: { de: "Klasse", en: "Klasse" }
+            right: { de: "kurzes a (Doppelkonsonant ss)", en: "short a (double consonant ss)" }
+          - left: { de: "Lehrer", en: "Lehrer" }
+            right: { de: "langes e (stummes Dehnungs-h)", en: "long e (silent h)" }
+          - left: { de: "spielen", en: "spielen" }
+            right: { de: "langes i (Schreibung ie)", en: "long i (spelled ie)" }
+          - left: { de: "Bäcker", en: "Bäcker" }
+            right: { de: "kurzes ä (ck steht für doppeltes k)", en: "short ä (ck acts as double k)" }
+        explanation:
+          de: "Auf der Laut-Schrift-Tafel gilt die Faustregel: **ie / h / Doppelvokal = lang**, **Doppelkonsonant / ck / tz = kurz**."
+          en: "On the Sound-Spelling Board, the core rule is: **ie / silent h / double vowel = long**, **double consonant / ck / tz = short**."
+      - type: true-false
+        id: vokallaenge-regeln-check
+        text:
+          de: "In *Uhr* und *Lehrer* spricht man das **h** deutlich gehaucht wie am Anfang von *Haus* aus."
+          en: "In *Uhr* and *Lehrer*, you pronounce the **h** clearly like at the start of *Haus*."
+        answer: false
+        explanation:
+          de: "Falsch! Das Dehnungs-**h** ist völlig stumm – es zeigt nur an, dass der Vokal davor lang und gedehnt ist."
+          en: "False! The silent **h** is never pronounced — its only job is to signal that the vowel before it is long and stretched."
+      - type: language-task
+        id: vokallaenge-luecken
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle das passende Schreibsignal für Peters Wörter aus Lindenberg."
+          en: "Choose the matching spelling signal for Peter's Lindenberg words."
+        items:
+          - source: "to live (long o with silent h)"
+            target: "w[oh]nen"
+            distractors: [["on", "onn"]]
+          - source: "center / middle (short i)"
+            target: "M[itt]e"
+            distractors: [["iet", "iht"]]
+          - source: "to play (long ee sound)"
+            target: "sp[ie]len"
+            distractors: [["ill", "ih"]]
+          - source: "teacher (long e with silent h)"
+            target: "L[eh]rer"
+            distractors: [["err", "ie"]]
+        explanation:
+          de: "Langes *o/e* mit stummem **h** (*wohnen, Lehrer*), langes *i* mit **ie** (*spielen*), kurzes *i* mit **tt** (*Mitte*)."
+          en: "Long *o/e* with silent **h** (*wohnen, Lehrer*), long *ee* with **ie** (*spielen*), and short *i* with **tt** (*Mitte*)."

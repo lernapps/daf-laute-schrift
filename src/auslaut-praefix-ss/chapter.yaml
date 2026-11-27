@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Auslautverhärtung, Präfixakzent, ss/ß und erste Kommas"
+  en: "Devoicing, Prefix Stress, ss/ß and Basic Commas"
+summary:
+  de: "Peter verfeinert die Laut-Schrift-Tafel für A2: Auslautverhärtung, r-Laute und Endungen, betonte Verbpräfixe, s/ss/ß und erste Kommaregeln."
+  en: "Peter refines the Sound-Spelling Board for A2: final devoicing, r-sounds and unstressed endings, verb-prefix stress, s/ss/ß, and basic commas."
+pages:
+  - vorwissen
+  - auslautverhaertung
+  - r-laute-endungen
+  - akzent-praefixverben
+  - s-laute-ss-sz
+  - komma-aufzaehlung-nebensatz
+selfAssessment:
+  pages:
+    - exercises:
+        - /auslaut-praefix-ss/auslautverhaertung/#verlaengerungsprobe-schreiben
+        - /auslaut-praefix-ss/r-laute-endungen/#vokalisiertes-er-finden
+        - /auslaut-praefix-ss/akzent-praefixverben/#praefix-typ-zuordnen
+    - exercises:
+        - /auslaut-praefix-ss/s-laute-ss-sz/#ss-oder-sz-waehlen
+        - /auslaut-praefix-ss/s-laute-ss-sz/#ss-sz-tippen
+        - /auslaut-praefix-ss/komma-aufzaehlung-nebensatz/#komma-pflicht-erkennen

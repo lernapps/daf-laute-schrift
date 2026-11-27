@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Vokallänge, Wortakzent und Großschreibung"
+  en: "Vowel Length, Word Stress and Capitalization"
+summary:
+  de: "Peter erweitert seine Laut-Schrift-Tafel um Signale für lange und kurze Vokale, Nomen-Großschreibung sowie Wortakzent und Satzmelodie."
+  en: "Peter extends the Sound-Spelling Board with long/short vowel signals, noun capitalization markers, and word stress and basic intonation."
+pages:
+  - vokallaenge-dehnung
+  - grossschreibung-nomen
+  - wortakzent-satzmelodie
+selfAssessment:
+  pages:
+    - exercises:
+        - /vokallaenge-akzent/vokallaenge-dehnung/#minimalpaare-laenge
+        - /vokallaenge-akzent/vokallaenge-dehnung/#vokallaenge-luecken
+        - /vokallaenge-akzent/grossschreibung-nomen/#nomen-gross-schreiben
+    - exercises:
+        - /vokallaenge-akzent/grossschreibung-nomen/#nomen-tippen
+        - /vokallaenge-akzent/wortakzent-satzmelodie/#satzmelodie-zuordnen
+        - /vokallaenge-akzent/wortakzent-satzmelodie/#erste-silbe-betont
