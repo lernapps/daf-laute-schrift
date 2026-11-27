@@ -43,17 +43,15 @@ Umlaute (ä, ö, ü) mit der richtigen Lippenrundung aussprechen und Diphthonge 
 
 ### Brötchen beim Bäcker in Lindenberg
 
-Morgens holt Peter mit Lukas frische **Brötchen** beim **Bäcker**. Zwei kleine Punkte verändern hier Bedeutung und Klang: *Brot* wird zu *Brötchen*, *schon* (*already*) zu *schön* (*nice*). Herr Braun zeigt den Lippen-Trick für die **Laut-Schrift-Tafel**.
+Morgens vor der Schule holt Peter mit Lukas frische **Brötchen** beim **Bäcker**. Zwei kleine Punkte verändern hier Bedeutung und Klang: *Brot* wird zu *Brötchen*, *schon* (*already*) zu *schön* (*nice*). Herr Braun ergänzt den Lippen-Trick auf der **Laut-Schrift-Tafel**.
 
-Mundstellung für die Umlaute ä, ö, ü:
-- Umlaut | Mundstellung | Beispiele
-- **ä** | offenes *e* (wie in Englisch *bed*) | B**ä**cker, Sp**ä**t, M**ä**rz
-- **ö** | *e* sagen, dabei Lippen rund wie beim *o* | Br**ö**tchen, sch**ö**n, zw**ö**lf
-- **ü** | *i* sagen, dabei Lippen rund wie beim *u* | **Ü**bung, Sch**ü**ler, f**ü**nf
+- Aufgabe `umlaut-lippen` (unten)
 
-### Diphthonge: Zwei Vokale, ein Gleitlaut
+Bild: Peters Laut-Schrift-Tafel mit vier Karten für ä (offenes e wie Bäcker, März), ö (e mit runden Lippen wie Brötchen, schön), ü (i mit runden Lippen wie Übung, Schüler) und ß (Eszett, scharfes s nach langem Vokal wie Straße, Fußball). Bildunterschrift: Peters Laut-Schrift-Tafel: So formst du die Umlaute ä, ö, ü – und erkennst das ß.
 
-Bei einem **Diphthong** gleitet die Stimme in einer Silbe von einem Vokal zum nächsten. Achte besonders auf **ei** (*ai*) gegen **ie** (langes *i*): *Wein* (*wine*) und *Wien* (*Vienna*) klingen völlig verschieden!
+### Diphthonge: Zwei Vokale verschmelzen zu einem Klang
+
+Bei einem **Diphthong** (Doppellaut) gleitet die Stimme in einer Silbe von einem Vokal zum nächsten. Achte besonders auf **ei** (*ai*) gegen **ie** (langes *i*): *Wein* (*wine*) und *Wien* (*Vienna*) klingen völlig verschieden!
 
 Diphthonge und ie im Vergleich:
 - Schreibung | Klang | Beispiele
@@ -68,7 +66,9 @@ Der **zweite** Buchstabe verrät den Klang auf Englisch: **ei** → englisches *
 
 ### Übung: Umlaute und Diphthonge erkennen
 
-- Aufgabe `umlaut-lippen` (unten)
+- Aufgabe `ei-ie-regeln` (unten)
+
+- Aufgabe `diphthong-klang-zuordnen` (unten)
 
 - Aufgabe `diphthong-schreiben` (unten)
 
@@ -84,9 +84,25 @@ Der **zweite** Buchstabe verrät den Klang auf Englisch: **ei** → englisches *
 - Erklärung: Alle Umlaute entstehen vorn im Mund: **ö** kombiniert *e* + runde Lippen, **ü** kombiniert *i* + runde Lippen.
 - Link: [../?via=tutor#umlaut-lippen](../?via=tutor#umlaut-lippen)
 
+### Aufgabe ei-ie-regeln
+
+- Aufgabe: Die Buchstaben **eu** (in *neu*) und **äu** (in *Häuser*) klingen im Deutschen genau gleich – wie Englisch *oy* in *boy*.
+- Antwortformat: „Stimmt“ oder „Stimmt nicht“ wählen
+- Lösung: Die Aussage stimmt.
+- Erklärung: Richtig! Beide klingen wie *oy* (*neu, Deutsch, Häuser*). Man schreibt **äu**, wenn das Wort von einem Wort mit *au* kommt (*Haus → Häuser*).
+- Link: [../?via=tutor#ei-ie-regeln](../?via=tutor#ei-ie-regeln)
+
+### Aufgabe diphthong-klang-zuordnen
+
+- Aufgabe: Ordne jedes Wort aus Peters Alltag in Lindenberg dem passenden Vokalklang zu.
+- Antwortformat: jedem Eintrag links den passenden rechts zuordnen
+- Lösung: Mai – wie Englisch eye (ai / ei); Wien – langes i wie in see (ie); Freund – wie Englisch oy in boy (eu / äu); Braun – wie Englisch ow in house (au)
+- Erklärung: Mit diesen vier Klanggruppen (*ei/ai, ie, eu/äu, au*) liest du deutsche Vokalkombinationen auf einen Blick sicher vor.
+- Link: [../?via=tutor#diphthong-klang-zuordnen](../?via=tutor#diphthong-klang-zuordnen)
+
 ### Aufgabe diphthong-schreiben
 
-- Aufgabe: Wähle den passenden Laut (ei, ie, eu, äu oder au) für Peters Notizen aus Lindenberg.
+- Aufgabe: Wähle den passenden Laut (ei, ie, eu, äu oder au) für Peters Notizen aus Klasse 6.
 - Antwortformat: für jede Lücke ein Wort wählen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):

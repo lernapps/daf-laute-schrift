@@ -45,9 +45,13 @@ Shift sentence stress purposefully to highlight new information or express contr
 
 While rehearsing for the Lindenberg school podcast, Peter notices: the exact same sentence (*'Peter fährt morgen nach Berlin.'*) answers completely different questions depending on **which word** gets the **sentence stress**!
 
+- Exercise `kontrast-korrektur` (below)
+
+### How Sentence Stress Shifts Focus
+
 How sentence stress shifts focus:
 - Stressed word in sentence | What is highlighted? | Matching contrast
-- **SAM** fährt morgen nach Berlin. | the person (not someone else) | not Lukas, but Peter
+- **PETER** fährt morgen nach Berlin. | the person (not someone else) | not Lukas, but Peter
 - Peter fährt **MORGEN** nach Berlin. | the time | not on Friday
 - Peter fährt morgen nach **BERLIN**. | the destination (neutral focus / new info) | not to Hamburg
 
@@ -57,9 +61,11 @@ How sentence stress shifts focus:
 
 ### Practice: Stressing the Right Contrast
 
-- Exercise `kontrast-korrektur` (below)
-
 - Exercise `frage-fokus-zuordnen` (below)
+
+- Exercise `satzakzent-regeln-check` (below)
+
+- Exercise `kontrast-podcast` (below)
 
 ### Exercise kontrast-korrektur
 
@@ -80,3 +86,28 @@ How sentence stress shifts focus:
 - Solution: Wann schreibt ihr den Deutschtest? – Wir schreiben den Test am **DIENSTAG**.; Wer hat die Kekse mitgebracht? – **MINA** hat die Kekse mitgebracht.; Fährt Frau Weber mit dem Auto zur Arbeit? – Nein, sie fährt mit dem **FAHRRAD**.
 - Explanation: The word that directly answers the question or corrects an assumption carries the strongest stress in the sentence.
 - Link: [../?via=tutor#frage-fokus-zuordnen](../?via=tutor#frage-fokus-zuordnen)
+
+### Exercise satzakzent-regeln-check
+
+- Task: Choose the capitalized word that carries the intended contrastive stress.
+- Answer format: choose a word for each gap
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
+- Items (start → solution):
+1. Not Lukas, but PETER is going to Berlin. → PETER fährt morgen nach Berlin.
+2. Not on Friday, but TOMORROW. → Peter fährt MORGEN nach Berlin.
+3. Not to Hamburg, but to BERLIN. → Peter fährt morgen nach BERLIN.
+- Explanation: Sentence stress moves directly onto the word setting the contrast: *PETER* (person), *MORGEN* (time), *BERLIN* (destination).
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#satzakzent-regeln-check](../?via=tutor#satzakzent-regeln-check)
+
+### Exercise kontrast-podcast
+
+- Task: On the podcast, Lukas says: *'Wir treffen uns am **Samstag** im **Park**.'* Which replies correct a detail with matching contrastive stress?
+- Answer format: choose all right answers
+- Choices (✓ right, ✗ wrong, with the app's message):
+  - ✓ Nein, wir treffen uns am **SONNTAG** im Park. (correcting the day) – Correct! *SONNTAG* contrasts directly with *Samstag*.
+  - ✓ Nein, wir treffen uns am Samstag in der **BIBLIOTHEK**. (correcting the place) – Correct! *BIBLIOTHEK* contrasts directly with *Park*.
+  - ✗ Nein, wir **TREFFEN** uns am Sonntag im Park. (correcting the day) – To correct the day, stress **SONNTAG**, not the already-known verb *treffen*.
+- Solution: Nein, wir treffen uns am **SONNTAG** im Park. (correcting the day); Nein, wir treffen uns am Samstag in der **BIBLIOTHEK**. (correcting the place)
+- Explanation: Stress the exact detail you are correcting: *SONNTAG* for the day, *BIBLIOTHEK* for the place.
+- Link: [../?via=tutor#kontrast-podcast](../?via=tutor#kontrast-podcast)

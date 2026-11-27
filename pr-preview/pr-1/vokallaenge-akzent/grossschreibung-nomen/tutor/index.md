@@ -43,7 +43,7 @@ Satzanfänge, alle deutschen Nomen und die höfliche Anrede Sie/Ihr zuverlässig
 
 ### Warum so viele Großbuchstaben?
 
-In Peters erstem Schulheft in Lindenberg markiert Herr Braun drei Fehler mit einem grünen Punkt: *„Im Deutschen hilft die **Großschreibung** dem Auge sofort beim Lesen: Jedes **Nomen** trägt ein großes Signal!“*
+In Peters erstem Schulheft in Klasse 6 markiert Herr Braun drei Fehler mit einem grünen Punkt: *„Im Deutschen hilft die **Großschreibung** dem Auge sofort beim Lesen: Jedes **Nomen** trägt ein großes Signal!“*
 
 - Aufgabe `ich-klein-regel` (unten)
 
@@ -53,7 +53,7 @@ Laut-Schrift-Tafel: Wann schreibe ich groß?:
 - Regel | Erkennungszeichen | Beispiele
 - 1. Satzanfang | Erstes Wort nach Punkt, ! oder ? | **M**orgen fahren wir nach Lindenberg.
 - 2. Alle Nomen | Passt *der / die / das* oder *ein / eine* davor? | der **T**isch, die **F**reude, das **F**ahrrad
-- 3. Höfliches **Sie** | Anrede an Erwachsene / Fremde (*Sie, Ihnen, Ihr*) | Haben **S**ie **I**hren Ausweis dabei?
+- 3. Höfliches **Sie** | Anrede an Erwachsene / Fremde (*Sie, Ihnen, Ihr*) | Können **S**ie **I**hr Buch kurz öffnen?
 
 **Merke: Kleingeschrieben bleiben …**
 
@@ -64,6 +64,8 @@ Verben (*lernen, fahren*), Adjektive (*groß, deutsch* in *ein deutsches Buch*) 
 - Aufgabe `nomen-gross-schreiben` (unten)
 
 - Aufgabe `sie-vs-sie` (unten)
+
+- Aufgabe `nomen-tippen` (unten)
 
 ### Aufgabe ich-klein-regel
 
@@ -79,7 +81,7 @@ Verben (*lernen, fahren*), Adjektive (*groß, deutsch* in *ein deutsches Buch*) 
 
 ### Aufgabe nomen-gross-schreiben
 
-- Aufgabe: Wähle die richtige Groß- oder Kleinschreibung für Peters E-Mail an Herr Braun.
+- Aufgabe: Wähle die richtige Groß- oder Kleinschreibung für Peters Nachricht an Herr Braun.
 - Antwortformat: für jede Lücke ein Wort wählen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):
@@ -102,3 +104,19 @@ Verben (*lernen, fahren*), Adjektive (*groß, deutsch* in *ein deutsches Buch*) 
 - Lösung: Entschuldigung, können [Sie] mir den Weg zum Bahnhof zeigen?; Frau Weber, möchten [Sie] noch einen Kaffee?
 - Erklärung: Nur die höfliche Anrede **Sie / Ihnen / Ihr** wird mitten im Satz großgeschrieben; *sie* (*she* oder *they*) bleibt klein.
 - Link: [../?via=tutor#sie-vs-sie](../?via=tutor#sie-vs-sie)
+
+### Aufgabe nomen-tippen
+
+- Aufgabe: Tippe die fehlenden Wörter mit der richtigen Groß- oder Kleinschreibung ein.
+- Antwortformat: die Lücken auf Deutsch füllen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen egal
+- Einträge (Vorgabe → Lösung):
+1. After school I ride my bike (Fahrrad). → Nach der Schule fahre ich mit dem Fahrrad.
+     - Ich: Mitten im Satz bleibt *ich* im Deutschen klein!
+     - fahrrad: *das Fahrrad* ist ein Nomen und muss großgeschrieben werden.
+2. Herr Braun, do you (formal) have time (Zeit)? → Herr Braun, haben Sie kurz Zeit?
+     - sie: Die höfliche Anrede *Sie* an Herr Braun schreibt man immer groß.
+     - zeit: *die Zeit* ist ein Nomen und wird großgeschrieben.
+- Erklärung: Jedes Nomen (*Fahrrad, Zeit*) und die höfliche Anrede *Sie* sind groß; *ich* mitten im Satz ist klein.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#nomen-tippen](../?via=tutor#nomen-tippen)

@@ -45,9 +45,15 @@ Set commas accurately around relative clauses (including embedded ones) and infi
 
 Peter is drafting an article for the school blog. At B1, his sentences grow richer: he adds details with **relative clauses** and states goals with **um … zu**. The **Sound-Spelling Board** now adds the B1 comma rules!
 
+- Exercise `eingeschobener-relativsatz` (below)
+
+Picture: Peter's Sound-Spelling Board for B1 commas: embedded relative clauses with two commas (Der Lehrer, der uns hilft, heißt Herr Braun.), infinitive clauses with um/ohne/statt zu (Peter übt täglich, um klarer zu sprechen.), and after nouns like Lust (Er hat Lust, einen Blog zu schreiben.). Caption: Peter's Sound-Spelling Board: the three core B1 comma signals at a glance.
+
+### B1 Comma Rules for Relative and Infinitive Clauses
+
 B1 comma rules for relative and infinitive clauses:
 - Clause type | Comma rule | Example
-- **Relative clause** at end | always a comma **before** it | Das ist der Kurs**,** den Peter besucht.
+- **Relative clause** at end | always a comma **before** it | Das ist der Blog**,** den Peter schreibt.
 - **Embedded** relative clause | **two** commas (like brackets) | Der Lehrer**,** der uns hilft**,** heißt Herr Braun.
 - **um / ohne / (an)statt … zu** | comma is **always mandatory** | Peter übt täglich**,** um klarer zu sprechen.
 - Infinitive with **zu** after noun/correlate | comma is **mandatory** (e.g. *Zeit, Lust, es*) | Er hat Lust**,** einen Artikel zu schreiben.
@@ -58,9 +64,11 @@ With an embedded relative clause, never forget the **closing comma** right after
 
 ### Practice: School Blog Comma Check
 
-- Exercise `eingeschobener-relativsatz` (below)
-
 - Exercise `infinitiv-komma-pflicht` (below)
+
+- Exercise `b1-komma-regeln-check` (below)
+
+- Exercise `b1-komma-setzen` (below)
 
 ### Exercise eingeschobener-relativsatz
 
@@ -86,3 +94,24 @@ With an embedded relative clause, never forget the **closing comma** right after
 - Solution: Peter geht in die Bibliothek [ ] um in Ruhe zu lernen.; Lukas ging los [ ] ohne seine Jacke mitzunehmen.; Mina hat keine Zeit [ ] heute länger zu bleiben.
 - Explanation: Always use a comma before **um / ohne / (an)statt … zu** and before infinitive phrases depending on a noun (*Zeit, Lust, Plan*) or correlate (*es, daran*).
 - Link: [../?via=tutor#infinitiv-komma-pflicht](../?via=tutor#infinitiv-komma-pflicht)
+
+### Exercise b1-komma-regeln-check
+
+- Task: Assemble the sentence with an embedded relative clause framed by two commas.
+- Answer format: put the items in the right order (the app shows them shuffled)
+- Solution: 1. Das Fahrrad,, 2. das im Hof steht,, 3. gehört, 4. Lukas.
+- Explanation: The embedded relative clause *das im Hof steht* is framed on both sides by two commas.
+- Link: [../?via=tutor#b1-komma-regeln-check](../?via=tutor#b1-komma-regeln-check)
+
+### Exercise b1-komma-setzen
+
+- Task: Insert the right commas into Peter's sentences for the school blog.
+- Answer format: choose a word for each gap
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
+- Items (start → solution):
+1. The book that I am reading is exciting. → Das Buch, das ich lese, ist spannend.
+2. Lukas runs to catch the bus. → Lukas rennt, um den Bus zu erwischen.
+3. We have a plan to start earlier tomorrow. → Wir haben den Plan, morgen früher zu starten.
+- Explanation: Embedded relative clause → two commas (*, das … , ist*); *um … zu* and infinitive after *Plan* → mandatory comma.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#b1-komma-setzen](../?via=tutor#b1-komma-setzen)

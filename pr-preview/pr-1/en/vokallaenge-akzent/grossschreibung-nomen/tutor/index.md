@@ -43,7 +43,7 @@ Capitalize sentence beginnings, all German nouns, and the formal pronoun Sie/Ihr
 
 ### Why Are There So Many Capital Letters?
 
-In Peter's first notebook in Lindenberg, Herr Braun marks three spots with a green dot: *'In German, **capitalization** helps the reader's eye right away: every **noun** wears a capital signal!'*
+In Peter's first Year 6 notebook in Lindenberg, Herr Braun marks three spots with a green dot: *'In German, **capitalization** helps the reader's eye right away: every **noun** wears a capital signal!'*
 
 - Exercise `ich-klein-regel` (below)
 
@@ -53,7 +53,7 @@ Sound-Spelling Board: When do I capitalize?:
 - Rule | How to spot it | Examples
 - 1. Sentence start | First word after a period, !, or ? | **M**orgen fahren wir nach Lindenberg.
 - 2. All nouns | Can *der / die / das* or *ein / eine* go before it? | der **T**isch, die **F**reude, das **F**ahrrad
-- 3. Formal **Sie** | Addressing adults / strangers (*Sie, Ihnen, Ihr*) | Haben **S**ie **I**hren Ausweis dabei?
+- 3. Formal **Sie** | Addressing adults / strangers (*Sie, Ihnen, Ihr*) | Können **S**ie **I**hr Buch kurz öffnen?
 
 **Remember: Stay lowercase …**
 
@@ -64,6 +64,8 @@ Verbs (*lernen, fahren*), adjectives (*groß, deutsch* in *ein deutsches Buch*),
 - Exercise `nomen-gross-schreiben` (below)
 
 - Exercise `sie-vs-sie` (below)
+
+- Exercise `nomen-tippen` (below)
 
 ### Exercise ich-klein-regel
 
@@ -79,7 +81,7 @@ Verbs (*lernen, fahren*), adjectives (*groß, deutsch* in *ein deutsches Buch*),
 
 ### Exercise nomen-gross-schreiben
 
-- Task: Choose the correct capitalization for Peter's email to Herr Braun.
+- Task: Choose the correct capitalization for Peter's message to Herr Braun.
 - Answer format: choose a word for each gap
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
@@ -102,3 +104,19 @@ Verbs (*lernen, fahren*), adjectives (*groß, deutsch* in *ein deutsches Buch*),
 - Solution: Entschuldigung, können [Sie] mir den Weg zum Bahnhof zeigen?; Frau Weber, möchten [Sie] noch einen Kaffee?
 - Explanation: Only formal **Sie / Ihnen / Ihr** is capitalized mid-sentence; *sie* (*she* or *they*) stays lowercase.
 - Link: [../?via=tutor#sie-vs-sie](../?via=tutor#sie-vs-sie)
+
+### Exercise nomen-tippen
+
+- Task: Type the missing words with the exact right capitalization.
+- Answer format: fill in the gaps in German
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation ignored
+- Items (start → solution):
+1. After school I ride my bike (Fahrrad). → Nach der Schule fahre ich mit dem Fahrrad.
+     - Ich: Mid-sentence, *ich* stays lowercase in German!
+     - fahrrad: *das Fahrrad* is a noun and must be capitalized.
+2. Herr Braun, do you (formal) have time (Zeit)? → Herr Braun, haben Sie kurz Zeit?
+     - sie: Formal *Sie* addressing Herr Braun is always capitalized.
+     - zeit: *die Zeit* is a noun and must be capitalized.
+- Explanation: Every noun (*Fahrrad, Zeit*) and formal *Sie* are capitalized; *ich* mid-sentence stays lowercase.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#nomen-tippen](../?via=tutor#nomen-tippen)

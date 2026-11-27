@@ -45,6 +45,12 @@ Pronounce final b, d, and g as voiceless p, t, and k and still spell them accura
 
 In German class, Peter asks in surprise: *'Lukas says **Tak**, **Kint**, and **gelp** — yet the book writes **Tag**, **Kind**, and **gelb**!'* Herr Braun adds a new tile to the **Sound-Spelling Board**: at the end of a word or syllable, German voiced consonants always turn voiceless.
 
+- Exercise `auslaut-klang-erkennen` (below)
+
+Picture: Peter's Sound-Spelling Board on final devoicing: b turns to p (halb → halbe), d turns to t (Kind → Kinder), g turns to k (Tag → Tage) using the extension test. Caption: Peter's Sound-Spelling Board: extend the word to hear the true final letter.
+
+### Final Devoicing and the Extension Test
+
 Final devoicing and the extension test:
 - Spelling → Sound | At word end (voiceless) | Extended (voiced audible)
 - **b → [p]** | gel**b**, hal**b**, Urla**ub** | gel**b**e, hal**b**e, Urlau**b**e
@@ -57,9 +63,11 @@ Unsure whether a word ends in *b/p*, *d/t*, or *g/k*? Extend it (plural or *-e*)
 
 ### Practice: Hear, Extend, Spell Right
 
-- Exercise `auslaut-klang-erkennen` (below)
-
 - Exercise `verlaengerungsprobe-schreiben` (below)
+
+- Exercise `auslaut-zuordnen` (below)
+
+- Exercise `auslaut-tippen` (below)
 
 ### Exercise auslaut-klang-erkennen
 
@@ -86,3 +94,27 @@ Unsure whether a word ends in *b/p*, *d/t*, or *g/k*? Extend it (plural or *-e*)
 - Explanation: The extended form reveals the spelling: *Freun**d**e → Freund*, *Zü**g**e → Zug*, *gel**b**e → gelb*, *bun**t**e → bunt*.
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
 - Link: [../?via=tutor#verlaengerungsprobe-schreiben](../?via=tutor#verlaengerungsprobe-schreiben)
+
+### Exercise auslaut-zuordnen
+
+- Task: Match each word to its final-sound rule.
+- Answer format: match each item on the left with one on the right
+- Solution: Urlaub (Urlaube) – spelled b, pronounced [p]; Hund (Hunde) – spelled d, pronounced [t]; Weg (Wege) – spelled g, pronounced [k]; wichtig (-ig) – ending -ig usually sounds like -ich
+- Explanation: At word end, *b, d, g* sound like *[p, t, k]*, and the ending *-ig* usually sounds like *-ich* in Standard German.
+- Link: [../?via=tutor#auslaut-zuordnen](../?via=tutor#auslaut-zuordnen)
+
+### Exercise auslaut-tippen
+
+- Task: Type the singular word using the extended plural as your spelling clue.
+- Answer format: fill in the gaps in German
+- How the app counts mistakes of form: capital letters right with a hint, accents wrong, hyphen wrong, apostrophe wrong, punctuation ignored
+- Items (start → solution):
+1. picture (plural: Bilder) → Bild
+     - Bilt: In *Bil**d**er* you hear a soft **d** — so spell it *Bild*.
+2. forest (plural: Wälder) → Wald
+     - Walt: In *Wäl**d**er* you hear a **d** — so spell it *Wald*.
+3. mountain (plural: Berge) → Berg
+     - Berk: In *Ber**g**e* you hear a soft **g** — so spell it *Berg*.
+- Explanation: With the extension test (*Bilder → Bild, Wälder → Wald, Berge → Berg*), you spell final consonants accurately without guessing.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#auslaut-tippen](../?via=tutor#auslaut-tippen)

@@ -43,14 +43,20 @@ Hear, pronounce, and spot spelling signals for long vowels (ie, silent h) and sh
 
 ### Miete or Mitte? Length Changes Meaning
 
-Walking to the Gymnasium in Lindenberg, Peter asks Lukas: *'Wohnen wir in der **Miete** or in der **Mitte**?'* Lukas laughs: vowel length turns similar-looking words into different meanings — and German spelling almost always signals which one you need.
+Walking to school in Lindenberg, Peter asks Lukas: *'Wohnen wir in der **Miete** or in der **Mitte**?'* Lukas laughs: vowel length turns similar-looking words into different meanings — and German spelling almost always signals which one you need.
+
+- Exercise `stummes-h-erkennen` (below)
+
+Picture: Peter's Sound-Spelling Board: long vowels with ie (Biene, Miete), silent h (Fahrrad, Uhr), or double vowel (Boot, Kaffee) compared with short vowels before double consonants (Bett, Mitte), ck (Zucker, Jacke), and tz (Platz, Katze). Caption: Peter's Sound-Spelling Board: how to spot long and short vowels at a glance.
+
+### Signals for Long and Short Vowels
 
 Sound-Spelling Board: Signals for long and short vowels:
 - Vowel length | Spelling signal | Examples
-- **Long** (tense) | **ie** (for long *ee*) | M**ie**te, sp**ie**len, B**ie**ne
-- **Long** (tense) | silent **h** (*Dehnungs-h*) | Fa**h**rrad, wo**h**nen, Le**h**rer
-- **Long** (tense) | double vowel or single consonant | Kaff**ee**, B**oo**t, T**a**g, L**e**ben
-- **Short** (lax) | double consonant, **ck**, or **tz** | M**itt**e, B**ett**, Bä**ck**er, Pla**tz**
+- **Long** (stretched) | **ie** (for long *ee*) | M**ie**te, sp**ie**len, B**ie**ne
+- **Long** (stretched) | silent **h** (*Dehnungs-h*) | Fa**h**rrad, wo**h**nen, Le**h**rer
+- **Long** (stretched) | double vowel or single consonant | Kaff**ee**, B**oo**t, T**a**g, L**e**ben
+- **Short** (snappy) | double consonant, **ck**, or **tz** | M**itt**e, B**ett**, Bä**ck**er, Pla**tz**
 
 **Remember: Never pronounce the silent h!**
 
@@ -58,9 +64,11 @@ In *Fa**h**rrad*, *wo**h**nen*, or *U**h**r*, the **h** is completely silent. It
 
 ### Practice: Long or Short?
 
-- Exercise `stummes-h-erkennen` (below)
-
 - Exercise `minimalpaare-laenge` (below)
+
+- Exercise `vokallaenge-regeln-check` (below)
+
+- Exercise `vokallaenge-luecken` (below)
 
 ### Exercise stummes-h-erkennen
 
@@ -81,3 +89,25 @@ In *Fa**h**rrad*, *wo**h**nen*, or *U**h**r*, the **h** is completely silent. It
 - Solution: Klasse – short a (double consonant ss); Lehrer – long e (silent h); spielen – long i (spelled ie); Bäcker – short ä (ck acts as double k)
 - Explanation: On the Sound-Spelling Board, the core rule is: **ie / silent h / double vowel = long**, **double consonant / ck / tz = short**.
 - Link: [../?via=tutor#minimalpaare-laenge](../?via=tutor#minimalpaare-laenge)
+
+### Exercise vokallaenge-regeln-check
+
+- Task: In *Uhr* and *Lehrer*, you pronounce the **h** clearly like at the start of *Haus*.
+- Answer format: choose “true” or “false”
+- Solution: The statement is false.
+- Explanation: False! The silent **h** is never pronounced — its only job is to signal that the vowel before it is long and stretched.
+- Link: [../?via=tutor#vokallaenge-regeln-check](../?via=tutor#vokallaenge-regeln-check)
+
+### Exercise vokallaenge-luecken
+
+- Task: Choose the matching spelling signal for Peter's Lindenberg words.
+- Answer format: choose a word for each gap
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
+- Items (start → solution):
+1. to live (long o with silent h) → wohnen
+2. center / middle (short i) → Mitte
+3. to play (long ee sound) → spielen
+4. teacher (long e with silent h) → Lehrer
+- Explanation: Long *o/e* with silent **h** (*wohnen, Lehrer*), long *ee* with **ie** (*spielen*), and short *i* with **tt** (*Mitte*).
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#vokallaenge-luecken](../?via=tutor#vokallaenge-luecken)

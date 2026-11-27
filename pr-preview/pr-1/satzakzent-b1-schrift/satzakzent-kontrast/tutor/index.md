@@ -45,9 +45,13 @@ Den Satzakzent gezielt verschieben, um neue Informationen hervorzuheben oder Mis
 
 Beim Proben für den Lindenberger Schul-Podcast merkt Peter: Derselbe Satz (*„Peter fährt morgen nach Berlin.“*) beantwortet ganz verschiedene Fragen – je nachdem, **welches Wort** den **Satzakzent** trägt!
 
+- Aufgabe `kontrast-korrektur` (unten)
+
+### Wie der Satzakzent den Fokus verschiebt
+
 Wie der Satzakzent den Fokus verschiebt:
 - Betonung im Satz | Was wird hervorgehoben? | Passender Kontrast
-- **SAM** fährt morgen nach Berlin. | die Person (nicht jemand anderes) | nicht Lukas, sondern Peter
+- **PETER** fährt morgen nach Berlin. | die Person (nicht jemand anderes) | nicht Lukas, sondern Peter
 - Peter fährt **MORGEN** nach Berlin. | der Zeitpunkt | nicht erst am Freitag
 - Peter fährt morgen nach **BERLIN**. | das Ziel (neutraler Fokus / neue Info) | nicht nach Hamburg
 
@@ -57,9 +61,11 @@ Wie der Satzakzent den Fokus verschiebt:
 
 ### Übung: Den richtigen Kontrast betonen
 
-- Aufgabe `kontrast-korrektur` (unten)
-
 - Aufgabe `frage-fokus-zuordnen` (unten)
+
+- Aufgabe `satzakzent-regeln-check` (unten)
+
+- Aufgabe `kontrast-podcast` (unten)
 
 ### Aufgabe kontrast-korrektur
 
@@ -80,3 +86,28 @@ Wie der Satzakzent den Fokus verschiebt:
 - Lösung: Wann schreibt ihr den Deutschtest? – Wir schreiben den Test am **DIENSTAG**.; Wer hat die Kekse mitgebracht? – **MINA** hat die Kekse mitgebracht.; Fährt Frau Weber mit dem Auto zur Arbeit? – Nein, sie fährt mit dem **FAHRRAD**.
 - Erklärung: Das Wort, das direkt auf die Frage antwortet oder eine Annahme korrigiert, trägt den stärksten Akzent im Satz.
 - Link: [../?via=tutor#frage-fokus-zuordnen](../?via=tutor#frage-fokus-zuordnen)
+
+### Aufgabe satzakzent-regeln-check
+
+- Aufgabe: Wähle das Wort in Großbuchstaben, das den gesuchten Kontrastakzent richtig trägt.
+- Antwortformat: für jede Lücke ein Wort wählen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
+- Einträge (Vorgabe → Lösung):
+1. Not Lukas, but PETER is going to Berlin. → PETER fährt morgen nach Berlin.
+2. Not on Friday, but TOMORROW. → Peter fährt MORGEN nach Berlin.
+3. Not to Hamburg, but to BERLIN. → Peter fährt morgen nach BERLIN.
+- Erklärung: Der Satzakzent wandert genau auf das Wort, das den Kontrast setzt: *PETER* (Person), *MORGEN* (Zeit), *BERLIN* (Ziel).
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#satzakzent-regeln-check](../?via=tutor#satzakzent-regeln-check)
+
+### Aufgabe kontrast-podcast
+
+- Aufgabe: Lukas sagt im Podcast: *„Wir treffen uns am **Samstag** im **Park**.“* Welche Antworten korrigieren ein Detail mit dem passenden Kontrastakzent?
+- Antwortformat: alle richtigen Antworten wählen
+- Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
+  - ✓ Nein, wir treffen uns am **SONNTAG** im Park. (Tag korrigiert) – Richtig! *SONNTAG* kontrastiert direkt mit *Samstag*.
+  - ✓ Nein, wir treffen uns am Samstag in der **BIBLIOTHEK**. (Ort korrigiert) – Richtig! *BIBLIOTHEK* kontrastiert direkt mit *Park*.
+  - ✗ Nein, wir **TREFFEN** uns am Sonntag im Park. (Tag korrigiert) – Wer den Tag korrigieren will, muss **SONNTAG** betonen, nicht das bekannte Verb *treffen*.
+- Lösung: Nein, wir treffen uns am **SONNTAG** im Park. (Tag korrigiert); Nein, wir treffen uns am Samstag in der **BIBLIOTHEK**. (Ort korrigiert)
+- Erklärung: Betone genau das Element, das du korrigierst: *SONNTAG* für den Tag, *BIBLIOTHEK* für den Ort.
+- Link: [../?via=tutor#kontrast-podcast](../?via=tutor#kontrast-podcast)

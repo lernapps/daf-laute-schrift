@@ -20,11 +20,11 @@ Parents and teachers see here what the tutor gets. [To the page](../)
 
 ## Where the child is
 
-- The child's first message names this page and, for each exercise, the number of the task the child has in front of it, e.g. `?uebung=ss-oder-sz-waehlen`. Look the numbers up below with the exercises. If the child comes with “Help”, `uebung=` names the exercise and `abschnitt=` its section.
+- The child's first message names this page and, for each exercise, the number of the task the child has in front of it, e.g. `?uebung=dass-vs-das`. Look the numbers up below with the exercises. If the child comes with “Help”, `uebung=` names the exercise and `abschnitt=` its section.
 - If the message says “The app says: …”, the app showed that for the child's input. Build on it without repeating it.
 - A line like “…, no. 16: right on try 2.” comes from “Back” in the app: the exercise, the number and how far the child got with it.
 - “I practised on …:” comes from “Back to the tutor”: this page with the numbers, then for each task practised how it went, a wrong one with the input and the app's message. Start with the wrong ones, one after the other.
-- Every task has a link: the address of the page, that is of this tutor page without `tutor/` and without `?…`, with the number and `via=tutor`, e.g. `…/auslaut-praefix-ss/s-laute-ss-sz/?via=tutor#ss-oder-sz-waehlen`. Always send it as a full address, with the scheme and host of this tutor page (e.g. `https://`). For a further task take another number of the exercise and say its text. Add: “Solve it in the app, then press ‘Back’. Paste the line here.”
+- Every task has a link: the address of the page, that is of this tutor page without `tutor/` and without `?…`, with the number and `via=tutor`, e.g. `…/auslaut-praefix-ss/s-laute-ss-sz/?via=tutor#dass-vs-das`. Always send it as a full address, with the scheme and host of this tutor page (e.g. `https://`). For a further task take another number of the exercise and say its text. Add: “Solve it in the app, then press ‘Back’. Paste the line here.”
 
 ## Special requirements
 
@@ -45,9 +45,15 @@ Decide reliably between s, ss, and ß using voicing and the vowel-length test.
 
 On the Lindenberg town map, Peter spots **Schlossstraße** and **Wasserplatz** — sometimes **ss**, sometimes **ß**! Herr Braun puts the clear decision rule on the **Sound-Spelling Board**: first check whether *s* buzzes (voiced) or hisses (voiceless) — and for the sharp hissing *s*, **vowel length** decides.
 
+- Exercise `dass-vs-das` (below)
+
+Picture: Peter's Sound-Spelling Board for s, ss, and ß: s for soft buzzing s (Sonne, lesen, Reise), ss for sharp s after a short vowel (essen, nass, muss), and ß for sharp s after a long vowel or diphthong (Fuß, draußen, Gruß). Caption: Peter's Sound-Spelling Board: check sound first (buzzing vs. sharp), then vowel length.
+
+### Decision Board for s, ss, and ß
+
 Decision board for s, ss, and ß:
 - Spelling | Rule | Examples
-- **s** (voiced / buzzing) | before a vowel at word/syllable start (like English *z* in *zoo*) | **S**onne, **S**am, le**s**en, Rei**s**e
+- **s** (voiced / buzzing) | before a vowel at word/syllable start (like English *z* in *zoo*) | **S**onne, **S**ommer, le**s**en, Rei**s**e
 - **ss** (sharp / hissing) | after a **short** vowel | Wa**ss**er, Kla**ss**e, e**ss**en, Flu**ss**, mu**ss**
 - **ß** (sharp / hissing) | after a **long** vowel or **diphthong** (*ei, au, eu*) | Stra**ß**e, Fu**ß**, gro**ß**, hei**ß**en, drau**ß**en
 
@@ -59,7 +65,21 @@ At the end of a word (*Haus, Eis*), a single **s** also sounds sharp due to fina
 
 - Exercise `ss-oder-sz-waehlen` (below)
 
-- Exercise `dass-vs-das` (below)
+- Exercise `s-regeln-check` (below)
+
+- Exercise `ss-sz-tippen` (below)
+
+### Exercise dass-vs-das
+
+- Task: Why is **groß** spelled with **ß**, while **Klasse** is spelled with **ss**?
+- Answer format: choose one answer
+- Choices (✓ right, ✗ wrong, with the app's message):
+  - ✓ In *groß* the *o* is long; in *Klasse* the *a* is short. – Exactly! A sharp voiceless s is spelled **ß** after a long vowel and **ss** after a short vowel.
+  - ✗ **ß** always goes at the end of a word and **ss** always in the middle. – Counterexample: *Fluss* and *muss* end in **ss** (short vowel), while *Straße* has **ß** in the middle (long *a*).
+  - ✗ Nouns always use **ss**, adjectives always use **ß**. – Part of speech does not matter — *Straße* and *Fuß* are nouns with **ß**, and *nass* is an adjective with **ss**.
+- Solution: In *groß* the *o* is long; in *Klasse* the *a* is short.
+- Explanation: The choice between **ss** and **ß** depends solely on the length of the preceding vowel.
+- Link: [../?via=tutor#dass-vs-das](../?via=tutor#dass-vs-das)
 
 ### Exercise ss-oder-sz-waehlen
 
@@ -75,14 +95,26 @@ At the end of a word (*Haus, Eis*), a single **s** also sounds sharp due to fina
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
 - Link: [../?via=tutor#ss-oder-sz-waehlen](../?via=tutor#ss-oder-sz-waehlen)
 
-### Exercise dass-vs-das
+### Exercise s-regeln-check
 
-- Task: Why is **groß** spelled with **ß**, while **Klasse** is spelled with **ss**?
-- Answer format: choose one answer
-- Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ In *groß* the *o* is long; in *Klasse* the *a* is short. – Exactly! A sharp voiceless s is spelled **ß** after a long vowel and **ss** after a short vowel.
-  - ✗ **ß** always goes at the end of a word and **ss** always in the middle. – Counterexample: *Fluss* and *muss* end in **ss** (short vowel), while *Straße* has **ß** in the middle (long *a*).
-  - ✗ Nouns always use **ss**, adjectives always use **ß**. – Part of speech does not matter — *Straße* and *Fuß* are nouns with **ß**, and *nass* is an adjective with **ss**.
-- Solution: In *groß* the *o* is long; in *Klasse* the *a* is short.
-- Explanation: The choice between **ss** and **ß** depends solely on the length of the preceding vowel.
-- Link: [../?via=tutor#dass-vs-das](../?via=tutor#dass-vs-das)
+- Task: Because *Haus* sounds sharp at the end of the word, German spells it with **ß** (*Hauß*).
+- Answer format: choose “true” or “false”
+- Solution: The statement is false.
+- Explanation: False! When extended, it is *Häu**s**er* with a soft buzzing *s*, so it keeps a single **s** (*Haus*).
+- Link: [../?via=tutor#s-regeln-check](../?via=tutor#s-regeln-check)
+
+### Exercise ss-sz-tippen
+
+- Task: Type the full German word with the right ss or ß spelling.
+- Answer format: fill in the gaps in German
+- How the app counts mistakes of form: capital letters right with a hint, accents wrong, hyphen wrong, apostrophe wrong, punctuation ignored
+- Items (start → solution):
+1. football / soccer (long u) → Fußball
+     - Fussball: The *u* in *Fuß* is long — Standard German in Germany uses **ß** here.
+2. to eat (short e) → essen
+     - eßen: The *e* in *essen* is short → always **ss**.
+3. outside (diphthong au) → draußen
+     - draussen: After the diphthong *au*, a sharp *s* is always spelled **ß**.
+- Explanation: Long *u* (*Fußball*) and diphthong *au* (*draußen*) → **ß**; short *e* (*essen*) → **ss**.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#ss-sz-tippen](../?via=tutor#ss-sz-tippen)

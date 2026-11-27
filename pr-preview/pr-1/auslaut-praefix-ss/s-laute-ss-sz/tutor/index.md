@@ -20,11 +20,11 @@ Eltern und Lehrkräfte sehen hier, was der Tutor bekommt. [Zur Seite](../)
 
 ## Wo das Kind gerade ist
 
-- Die erste Nachricht des Kindes nennt diese Seite und je Aufgabe die Nummer, die das Kind gerade vor sich hat, z. B. `?uebung=ss-oder-sz-waehlen`. Schlag die Nummern unten bei den Aufgaben nach. Kommt das Kind mit „Hilfe“, nennt `uebung=` die Aufgabe und `abschnitt=` ihren Abschnitt.
+- Die erste Nachricht des Kindes nennt diese Seite und je Aufgabe die Nummer, die das Kind gerade vor sich hat, z. B. `?uebung=dass-vs-das`. Schlag die Nummern unten bei den Aufgaben nach. Kommt das Kind mit „Hilfe“, nennt `uebung=` die Aufgabe und `abschnitt=` ihren Abschnitt.
 - Steht in der Nachricht „Die App sagt: …“, hat die App das zur Eingabe des Kindes gemeldet. Setz dort an, ohne es zu wiederholen.
 - Eine Zeile wie „…, Nr. 16: richtig im 2. Versuch.“ kommt von „Zurück“ in der App: Aufgabe, Nummer und wie weit das Kind damit kam.
 - „Ich habe auf … geübt:“ kommt von „Zurück zum Tutor“: diese Seite mit den Nummern, dann je geübter Aufgabe, wie es lief, bei einer falschen mit Eingabe und Meldung der App. Setz bei den falschen an, eine nach der anderen.
-- Jede Nummer hat einen Link: die Adresse der Seite, also dieser Tutor-Seite ohne `tutor/` und ohne `?…`, mit der Nummer und `via=tutor`, z. B. `…/auslaut-praefix-ss/s-laute-ss-sz/?via=tutor#ss-oder-sz-waehlen`. Schick ihn immer als volle Adresse, mit Schema und Host dieser Tutor-Seite (z. B. `https://`). Zum Weiterüben nimm eine andere Nummer der Aufgabe und nenn ihren Text. Sag dazu: „Löse sie in der App und drück dann ‚Zurück‘. Füg die Zeile hier ein.“
+- Jede Nummer hat einen Link: die Adresse der Seite, also dieser Tutor-Seite ohne `tutor/` und ohne `?…`, mit der Nummer und `via=tutor`, z. B. `…/auslaut-praefix-ss/s-laute-ss-sz/?via=tutor#dass-vs-das`. Schick ihn immer als volle Adresse, mit Schema und Host dieser Tutor-Seite (z. B. `https://`). Zum Weiterüben nimm eine andere Nummer der Aufgabe und nenn ihren Text. Sag dazu: „Löse sie in der App und drück dann ‚Zurück‘. Füg die Zeile hier ein.“
 
 ## Besondere Anforderungen
 
@@ -45,9 +45,15 @@ Anhand von Stimmhaftigkeit und Vokallänge sicher entscheiden, ob ein Wort mit s
 
 Auf dem Lindenberger Stadtplan entdeckt Peter **Schlossstraße** und **Wasserplatz** – mal **ss**, mal **ß**! Herr Braun zeigt das klare Entscheidungsschema auf der **Laut-Schrift-Tafel**: Erst hörst du, ob das *s* weich summt oder scharf zischt – und beim scharfen *s* entscheidet die **Vokallänge**.
 
+- Aufgabe `dass-vs-das` (unten)
+
+Bild: Peters Laut-Schrift-Tafel für s, ss und ß: s für weiches summendes s (Sonne, lesen, Reise), ss für scharfes s nach kurzem Vokal (essen, nass, muss), ß für scharfes s nach langem Vokal oder Diphthong (Fuß, draußen, Gruß). Bildunterschrift: Peters Laut-Schrift-Tafel: Erst Klang prüfen (summend vs. scharf), dann Vokallänge.
+
+### Entscheidungstafel für s, ss und ß
+
 Entscheidungstafel für s, ss und ß:
 - Schreibung | Regel | Beispiele
-- **s** (weich / summend) | vor Vokal am Wort- oder Silbenanfang (wie Englisch *z* in *zoo*) | **S**onne, **S**am, le**s**en, Rei**s**e
+- **s** (weich / summend) | vor Vokal am Wort- oder Silbenanfang (wie Englisch *z* in *zoo*) | **S**onne, **S**ommer, le**s**en, Rei**s**e
 - **ss** (scharf / zischend) | nach **kurzem** Vokal | Wa**ss**er, Kla**ss**e, e**ss**en, Flu**ss**, mu**ss**
 - **ß** (scharf / zischend) | nach **langem** Vokal oder **Diphthong** (*ei, au, eu*) | Stra**ß**e, Fu**ß**, gro**ß**, hei**ß**en, drau**ß**en
 
@@ -59,7 +65,21 @@ Am Wortende (*Haus, Eis*) klingt ein einfaches **s** durch die Auslautverhärtun
 
 - Aufgabe `ss-oder-sz-waehlen` (unten)
 
-- Aufgabe `dass-vs-das` (unten)
+- Aufgabe `s-regeln-check` (unten)
+
+- Aufgabe `ss-sz-tippen` (unten)
+
+### Aufgabe dass-vs-das
+
+- Aufgabe: Warum schreibt man **groß** mit **ß**, aber **Klasse** mit **ss**?
+- Antwortformat: eine Antwort wählen
+- Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
+  - ✓ In *groß* ist das *o* lang, in *Klasse* ist das *a* kurz. – Genau! Der scharfe s-Laut folgt bei langem Vokal der Schreibung **ß**, bei kurzem Vokal **ss**.
+  - ✗ Am Wortende steht immer **ß**, in der Wortmitte immer **ss**. – Gegenbeispiel: *Fluss* und *muss* enden auf **ss** (kurzer Vokal), während *Straße* in der Mitte **ß** hat (langes *a*).
+  - ✗ Nomen haben immer **ss**, Adjektive immer **ß**. – Die Wortart spielt keine Rolle – *Straße* und *Fuß* sind Nomen mit **ß**, *nass* ist ein Adjektiv mit **ss**.
+- Lösung: In *groß* ist das *o* lang, in *Klasse* ist das *a* kurz.
+- Erklärung: Die Regel für **ss** gegen **ß** hängt allein von der Länge des Vokals davor ab.
+- Link: [../?via=tutor#dass-vs-das](../?via=tutor#dass-vs-das)
 
 ### Aufgabe ss-oder-sz-waehlen
 
@@ -75,14 +95,26 @@ Am Wortende (*Haus, Eis*) klingt ein einfaches **s** durch die Auslautverhärtun
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
 - Link: [../?via=tutor#ss-oder-sz-waehlen](../?via=tutor#ss-oder-sz-waehlen)
 
-### Aufgabe dass-vs-das
+### Aufgabe s-regeln-check
 
-- Aufgabe: Warum schreibt man **groß** mit **ß**, aber **Klasse** mit **ss**?
-- Antwortformat: eine Antwort wählen
-- Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ In *groß* ist das *o* lang, in *Klasse* ist das *a* kurz. – Genau! Der scharfe s-Laut folgt bei langem Vokal der Schreibung **ß**, bei kurzem Vokal **ss**.
-  - ✗ Am Wortende steht immer **ß**, in der Wortmitte immer **ss**. – Gegenbeispiel: *Fluss* und *muss* enden auf **ss** (kurzer Vokal), während *Straße* in der Mitte **ß** hat (langes *a*).
-  - ✗ Nomen haben immer **ss**, Adjektive immer **ß**. – Die Wortart spielt keine Rolle – *Straße* und *Fuß* sind Nomen mit **ß**, *nass* ist ein Adjektiv mit **ss**.
-- Lösung: In *groß* ist das *o* lang, in *Klasse* ist das *a* kurz.
-- Erklärung: Die Regel für **ss** gegen **ß** hängt allein von der Länge des Vokals davor ab.
-- Link: [../?via=tutor#dass-vs-das](../?via=tutor#dass-vs-das)
+- Aufgabe: Weil *Haus* am Wortende scharf klingt, schreibt man es im Deutschen mit **ß** (*Hauß*).
+- Antwortformat: „Stimmt“ oder „Stimmt nicht“ wählen
+- Lösung: Die Aussage stimmt nicht.
+- Erklärung: Falsch! Verlängert heißt es *Häu**s**er* mit weichem, summendem *s*, deshalb bleibt es ein einfaches **s** (*Haus*).
+- Link: [../?via=tutor#s-regeln-check](../?via=tutor#s-regeln-check)
+
+### Aufgabe ss-sz-tippen
+
+- Aufgabe: Tippe das komplette Wort mit ss oder ß richtig ein.
+- Antwortformat: die Lücken auf Deutsch füllen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung richtig mit Hinweis, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen egal
+- Einträge (Vorgabe → Lösung):
+1. football / soccer (long u) → Fußball
+     - Fussball: Das *u* in *Fuß* ist lang – im Standarddeutschen in Deutschland steht hier **ß**.
+2. to eat (short e) → essen
+     - eßen: Das *e* in *essen* ist kurz → immer **ss**.
+3. outside (diphthong au) → draußen
+     - draussen: Nach dem Diphthong *au* steht beim scharfen *s* immer **ß**.
+- Erklärung: Langes *u* (*Fußball*) und Diphthong *au* (*draußen*) → **ß**; kurzes *e* (*essen*) → **ss**.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#ss-sz-tippen](../?via=tutor#ss-sz-tippen)

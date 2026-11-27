@@ -43,7 +43,7 @@ Diese Seite ist eine Wiederholung: Sie wiederholt etwas, das das Kind schon kön
 
 Kurze Wiederholung zu trennbaren Verben vor dem Kapitel zu Präfixakzenten.
 
-In diesem Kapitel lernst du, wie man Verbpräfixe richtig betont. Dafür brauchst du aus der Grammatik die **trennbaren Verben** (*Separable prefix verbs*): *I can use separable verbs like aufstehen, einkaufen, and anrufen with the prefix at the end of a main clause.*
+In diesem Kapitel lernst du, wie man Verbpräfixe richtig betont. Dafür brauchst du aus der Grammatik die trennbaren Verben (Separable prefix verbs): I can use separable verbs like aufstehen, einkaufen, and anrufen with the prefix at the end of a main clause.
 
 **Merke: Kurz-Check im Kopf**
 
@@ -56,8 +56,8 @@ Wie lautet der Hauptsatz mit *aufstehen* und *einkaufen*? — *Peter **steht** u
 - Aufgabe: Welcher Satz trennt das Verb **anrufen** richtig?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ Peter ruft heute Abend seine Eltern an. – Richtig! Der Stamm *ruft* steht an Position 2, das Präfix *an* am Satzende.
-  - ✗ Peter anruft heute Abend seine Eltern. – *anrufen* ist trennbar – im Hauptsatz wandert *an* ans Ende.
-- Lösung: Peter ruft heute Abend seine Eltern an.
+  - ✓ Peter ruft heute Abend Lukas an. – Richtig! Der Stamm *ruft* steht an Position 2, das Präfix *an* am Satzende.
+  - ✗ Peter anruft heute Abend Lukas. – *anrufen* ist trennbar – im Hauptsatz wandert *an* ans Ende.
+- Lösung: Peter ruft heute Abend Lukas an.
 - Erklärung: Bei trennbaren Verben (*aufstehen, einkaufen, anrufen*) spaltet sich das Präfix im Hauptsatz ab und schließt die Satzklammer.
 - Link: [../?via=tutor#recap-trennbare-verben](../?via=tutor#recap-trennbare-verben)

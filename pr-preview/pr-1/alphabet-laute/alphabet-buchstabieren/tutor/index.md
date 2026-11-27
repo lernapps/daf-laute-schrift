@@ -41,15 +41,15 @@ Nennt die Adresse dieser Seite `bedarf=`, gilt jeder Abschnitt, den sie nennt, m
 
 Die Buchstaben des deutschen Alphabets richtig aussprechen und Namen oder Adressen sicher buchstabieren.
 
-### Peters erster Tag im Bürgeramt Lindenberg
+### Peters neuer Ausweis in der Schulbücherei
 
-Bei der Anmeldung im Bürgeramt Lindenberg fragt die Mitarbeiterin: *„Wie schreibt man Ihren Nachnamen?“* Peter öffnet seine **Laut-Schrift-Tafel** aus Herr Brauns Kurs: Viele deutsche Buchstabennamen klingen anders als im Englischen.
+In seiner ersten Woche in Klasse 6 in Lindenberg holt sich Peter seinen Ausweis in der Schulbücherei. Die Bibliothekarin fragt freundlich: *„Wie schreibt man deinen Namen und deine Straße?“* Peter schaut auf seine **Laut-Schrift-Tafel** aus Herr Brauns Unterricht: Viele deutsche Buchstabennamen klingen anders als im Englischen.
 
 - Aufgabe `buchstaben-e-i` (unten)
 
 ### Laut-Schrift-Tafel: Stolpersteine im Alphabet
 
-Das deutsche Alphabet hat 26 Grundbuchstaben plus **ä, ö, ü** und **ß** (*Eszett*). Auf Peters Tafel stehen die Buchstaben, die Englischsprachige am leichtesten verwechseln:
+Das deutsche Alphabet hat 26 Grundbuchstaben plus **ä, ö, ü** und **ß** (*Eszett*, ein scharfes *s*). Auf Peters Tafel stehen die Buchstaben, die Englischsprachige am leichtesten verwechseln:
 
 Wichtige Buchstabennamen auf Deutsch:
 - Buchstabe | Name / Aussprache | Beispiel in Lindenberg
@@ -65,11 +65,13 @@ Am Telefon nennt man oft ein Beispielwort: **W wie Weber**, **B wie Berlin**, **
 
 - Aufgabe `buchstaben-zuordnen` (unten)
 
-- Aufgabe `strasse-buchstabieren` (unten)
+- Aufgabe `alphabet-regeln-check` (unten)
+
+- Aufgabe `adresse-buchstabieren` (unten)
 
 ### Aufgabe buchstaben-e-i
 
-- Aufgabe: Peter buchstabiert den Namen **Weber**: *W – E – B – E – R*. Wie klingt der Buchstabe **E** im deutschen Alphabet?
+- Aufgabe: Peter buchstabiert den Namen seiner Freunde **Weber**: *W – E – B – E – R*. Wie klingt der Buchstabe **E** im deutschen Alphabet?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ wie das deutsche Wort *eh* (langes e) – Genau! Deutsches **E** klingt wie *eh* – nicht wie das englische *ee*.
@@ -87,14 +89,26 @@ Am Telefon nennt man oft ein Beispielwort: **W wie Weber**, **B wie Berlin**, **
 - Erklärung: Wer V (*fau*), W (*weh*), J (*jott*) und Z (*zett*) trennt, versteht deutsche Namen und Adressen beim ersten Hören.
 - Link: [../?via=tutor#buchstaben-zuordnen](../?via=tutor#buchstaben-zuordnen)
 
-### Aufgabe strasse-buchstabieren
+### Aufgabe alphabet-regeln-check
 
-- Aufgabe: Frau Weber buchstabiert ihre Adresse: *W – A – L – D – W – E – G*. Welches Wort notiert Peter?
-- Antwortformat: eine Antwort wählen
-- Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ Waldweg – Richtig! *weh* ist **W**, *ah* ist **A**, *eh* ist **E**.
-  - ✗ Valdvig – Im Deutschen ist *weh* der Buchstabe **W** (nicht V) und *eh* der Buchstabe **E** (nicht I).
-  - ✗ Woldwag – *ah* steht für **A**, nicht für O; *eh* steht für **E**.
-- Lösung: Waldweg
-- Erklärung: Mit den deutschen Buchstabennamen (*W = weh, A = ah, E = eh*) kannst du Adressen wie *Waldweg* fehlerfrei mitschreiben.
-- Link: [../?via=tutor#strasse-buchstabieren](../?via=tutor#strasse-buchstabieren)
+- Aufgabe: Der deutsche Buchstabe **V** heißt beim Buchstabieren *weh* und klingt wie englisches *v*.
+- Antwortformat: „Stimmt“ oder „Stimmt nicht“ wählen
+- Lösung: Die Aussage stimmt nicht.
+- Erklärung: Falsch! **V** heißt *fau* (klingt in deutschen Wörtern meist wie *f*), während **W** *weh* heißt und wie englisches *v* klingt.
+- Link: [../?via=tutor#alphabet-regeln-check](../?via=tutor#alphabet-regeln-check)
+
+### Aufgabe adresse-buchstabieren
+
+- Aufgabe: Schreibe die Wörter auf, die Lukas Peter am Telefon auf Deutsch buchstabiert.
+- Antwortformat: die Lücken auf Deutsch füllen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung richtig mit Hinweis, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen egal
+- Einträge (Vorgabe → Lösung):
+1. veh – ah – ell – deh – veh – eh – geh (street name) → Waldweg
+     - Valdvig: *weh* ist **W** (nicht V), und *eh* ist **E** (nicht I).
+2. tsett – oo – geh (train) → Zug
+     - Tsug: Der Laut *ts* wird am Wortanfang mit **Z** (*zett*) geschrieben.
+3. yott – ah – enn – oo – ah – er (January) → Januar
+     - Yanuar: Der Buchstabe *jott* ist **J**, nicht Y.
+- Erklärung: Mit den deutschen Buchstabennamen (*W = weh, Z = zett, J = jott, E = eh*) kannst du Namen und Adressen fehlerfrei mitschreiben.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#adresse-buchstabieren](../?via=tutor#adresse-buchstabieren)

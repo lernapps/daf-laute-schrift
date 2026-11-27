@@ -20,11 +20,11 @@ Eltern und Lehrkräfte sehen hier, was der Tutor bekommt. [Zur Seite](../)
 
 ## Wo das Kind gerade ist
 
-- Die erste Nachricht des Kindes nennt diese Seite und je Aufgabe die Nummer, die das Kind gerade vor sich hat, z. B. `?uebung=betonte-praefixe-finden`. Schlag die Nummern unten bei den Aufgaben nach. Kommt das Kind mit „Hilfe“, nennt `uebung=` die Aufgabe und `abschnitt=` ihren Abschnitt.
+- Die erste Nachricht des Kindes nennt diese Seite und je Aufgabe die Nummer, die das Kind gerade vor sich hat, z. B. `?uebung=uebersetzen-akzent`. Schlag die Nummern unten bei den Aufgaben nach. Kommt das Kind mit „Hilfe“, nennt `uebung=` die Aufgabe und `abschnitt=` ihren Abschnitt.
 - Steht in der Nachricht „Die App sagt: …“, hat die App das zur Eingabe des Kindes gemeldet. Setz dort an, ohne es zu wiederholen.
 - Eine Zeile wie „…, Nr. 16: richtig im 2. Versuch.“ kommt von „Zurück“ in der App: Aufgabe, Nummer und wie weit das Kind damit kam.
 - „Ich habe auf … geübt:“ kommt von „Zurück zum Tutor“: diese Seite mit den Nummern, dann je geübter Aufgabe, wie es lief, bei einer falschen mit Eingabe und Meldung der App. Setz bei den falschen an, eine nach der anderen.
-- Jede Nummer hat einen Link: die Adresse der Seite, also dieser Tutor-Seite ohne `tutor/` und ohne `?…`, mit der Nummer und `via=tutor`, z. B. `…/auslaut-praefix-ss/akzent-praefixverben/?via=tutor#betonte-praefixe-finden`. Schick ihn immer als volle Adresse, mit Schema und Host dieser Tutor-Seite (z. B. `https://`). Zum Weiterüben nimm eine andere Nummer der Aufgabe und nenn ihren Text. Sag dazu: „Löse sie in der App und drück dann ‚Zurück‘. Füg die Zeile hier ein.“
+- Jede Nummer hat einen Link: die Adresse der Seite, also dieser Tutor-Seite ohne `tutor/` und ohne `?…`, mit der Nummer und `via=tutor`, z. B. `…/auslaut-praefix-ss/akzent-praefixverben/?via=tutor#uebersetzen-akzent`. Schick ihn immer als volle Adresse, mit Schema und Host dieser Tutor-Seite (z. B. `https://`). Zum Weiterüben nimm eine andere Nummer der Aufgabe und nenn ihren Text. Sag dazu: „Löse sie in der App und drück dann ‚Zurück‘. Füg die Zeile hier ein.“
 
 ## Besondere Anforderungen
 
@@ -45,6 +45,12 @@ Trennbare Verbpräfixe (aufstehen, einkaufen) klar betonen und untrennbare Präf
 
 Peter notiert zwei Verben aus Herr Brauns Unterricht nebeneinander auf der **Laut-Schrift-Tafel**: **AUF**stehen (*get up*) und ver**STEH**en (*understand*). Im Deutschen hängen Aussprache und Grammatik hier direkt zusammen: **Ist das Präfix betont, ist das Verb trennbar!**
 
+- Aufgabe `uebersetzen-akzent` (unten)
+
+Bild: Peters Laut-Schrift-Tafel zur Betonung bei Verbpräfixen: Trennbare Verben betonen das Präfix (AUF-stehen, AN-rufen), untrennbare Verben betonen den Stamm (ver-STEH-en, er-ZÄH-len). Bildunterschrift: Peters Laut-Schrift-Tafel: Betontes Präfix = trennbar, betontes Stammverb = untrennbar.
+
+### Trennbare vs. untrennbare Verbpräfixe
+
 Trennbare vs. untrennbare Verbpräfixe:
 - Präfix-Typ | Wo liegt der Akzent? | Typische Präfixe & Beispiele
 - **Trennbar** (separable) | immer auf dem **Präfix** | *ab-, an-, auf-, aus-, ein-, mit-, vor-, zu-*: **AUF**stehen, **EIN**kaufen, **AN**rufen
@@ -58,7 +64,20 @@ Manche Präfixe (*durch-, über-, um-, unter-*) ändern mit dem Akzent sogar ihr
 
 - Aufgabe `betonte-praefixe-finden` (unten)
 
-- Aufgabe `uebersetzen-akzent` (unten)
+- Aufgabe `praefix-typ-zuordnen` (unten)
+
+- Aufgabe `praefix-satz-wahl` (unten)
+
+### Aufgabe uebersetzen-akzent
+
+- Aufgabe: Nadia hilft Peter, einen Satz ins Deutsche zu **übersetzen** (*to translate*). Welche Silbe wird betont?
+- Antwortformat: eine Antwort wählen
+- Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
+  - ✓ über-**SETZ**-en (auf dem Stamm – untrennbar) – Richtig! *übersetzen* in der Bedeutung *translate* ist untrennbar: *Nadia übersetzt den Satz.*
+  - ✗ **Ü**-ber-setzen (auf dem Präfix – trennbar) – Mit betontem *Ü-ber-* bedeutet es *mit einer Fähre ans andere Ufer fahren* (*to ferry across*).
+- Lösung: über-**SETZ**-en (auf dem Stamm – untrennbar)
+- Erklärung: Wenn du hörst, ob das Präfix betont ist, weißt du sofort, ob das Verb im Hauptsatz getrennt wird.
+- Link: [../?via=tutor#uebersetzen-akzent](../?via=tutor#uebersetzen-akzent)
 
 ### Aufgabe betonte-praefixe-finden
 
@@ -73,13 +92,23 @@ Manche Präfixe (*durch-, über-, um-, unter-*) ändern mit dem Akzent sogar ihr
 - Erklärung: Die acht untrennbaren Präfixe (*be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*) tragen nie den Hauptakzent; Präfixe wie *ein-, auf-, an-, mit-* sind immer betont.
 - Link: [../?via=tutor#betonte-praefixe-finden](../?via=tutor#betonte-praefixe-finden)
 
-### Aufgabe uebersetzen-akzent
+### Aufgabe praefix-typ-zuordnen
 
-- Aufgabe: Nadia hilft Peter, einen Satz ins Deutsche zu **übersetzen** (*to translate*). Welche Silbe wird betont?
-- Antwortformat: eine Antwort wählen
-- Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ über-**SETZ**-en (auf dem Stamm – untrennbar) – Richtig! *übersetzen* in der Bedeutung *translate* ist untrennbar: *Nadia übersetzt den Satz.*
-  - ✗ **Ü**-ber-setzen (auf dem Präfix – trennbar) – Mit betontem *Ü-ber-* bedeutet es *mit einer Fähre ans andere Ufer fahren* (*to ferry across*).
-- Lösung: über-**SETZ**-en (auf dem Stamm – untrennbar)
-- Erklärung: Wenn du hörst, ob das Präfix betont ist, weißt du sofort, ob das Verb im Hauptsatz getrennt wird.
-- Link: [../?via=tutor#uebersetzen-akzent](../?via=tutor#uebersetzen-akzent)
+- Aufgabe: Ordne jedes Verb dem passenden Betonungs- und Grammatikmuster zu.
+- Antwortformat: jedem Eintrag links den passenden rechts zuordnen
+- Lösung: aufmachen – AUF-machen (Präfix betont, trennbar); bekommen – be-KOM-men (Stamm betont, untrennbar); vorlesen – VOR-lesen (Präfix betont, trennbar); vergessen – ver-GES-sen (Stamm betont, untrennbar)
+- Erklärung: Präfixe wie *auf-, vor-* sind betont und trennbar; *be-, ver-* sind immer unbetont und untrennbar.
+- Link: [../?via=tutor#praefix-typ-zuordnen](../?via=tutor#praefix-typ-zuordnen)
+
+### Aufgabe praefix-satz-wahl
+
+- Aufgabe: Wähle die richtige Verbform im Hauptsatz: trennt sich das Verb oder bleibt es zusammen?
+- Antwortformat: für jede Lücke ein Wort wählen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
+- Einträge (Vorgabe → Lösung):
+1. Peter gets up early (AUF-stehen). → Peter steht früh auf.
+2. Nadia understands the question (ver-STEH-en). → Nadia versteht die Frage.
+3. Lukas calls Peter (AN-rufen). → Lukas ruft Peter an.
+- Erklärung: Betontes Präfix → trennbar (*steht … auf, ruft … an*); unbetontes Präfix → untrennbar (*versteht*).
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#praefix-satz-wahl](../?via=tutor#praefix-satz-wahl)

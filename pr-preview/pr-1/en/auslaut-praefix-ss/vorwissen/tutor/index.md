@@ -43,7 +43,7 @@ This page is a recap: it goes over something the child should already know, and 
 
 A quick recap of separable prefix verbs before learning verb-prefix stress.
 
-In this chapter you will learn how to stress German verb prefixes. For that, you need one grammar building block: **Separable prefix verbs** — *I can use separable verbs like aufstehen, einkaufen, and anrufen with the prefix at the end of a main clause.*
+In this chapter you will learn how to stress German verb prefixes. For that, you need one grammar building block: Separable prefix verbs — I can use separable verbs like aufstehen, einkaufen, and anrufen with the prefix at the end of a main clause.
 
 **Remember: Quick mental check**
 
@@ -56,8 +56,8 @@ How do *aufstehen* and *einkaufen* split in a main clause? — *Peter **steht** 
 - Task: Which sentence splits the separable verb **anrufen** correctly?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ Peter ruft heute Abend seine Eltern an. – Correct! The stem *ruft* stands in position 2 and the prefix *an* goes to the end.
-  - ✗ Peter anruft heute Abend seine Eltern. – *anrufen* is separable — in a main clause, *an* moves to the end.
-- Solution: Peter ruft heute Abend seine Eltern an.
+  - ✓ Peter ruft heute Abend Lukas an. – Correct! The stem *ruft* stands in position 2 and the prefix *an* goes to the end.
+  - ✗ Peter anruft heute Abend Lukas. – *anrufen* is separable — in a main clause, *an* moves to the end.
+- Solution: Peter ruft heute Abend Lukas an.
 - Explanation: With separable verbs (*aufstehen, einkaufen, anrufen*), the prefix splits off in a main clause and closes the sentence bracket.
 - Link: [../?via=tutor#recap-trennbare-verben](../?via=tutor#recap-trennbare-verben)

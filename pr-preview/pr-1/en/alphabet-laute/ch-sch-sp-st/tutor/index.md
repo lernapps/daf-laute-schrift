@@ -20,11 +20,11 @@ Parents and teachers see here what the tutor gets. [To the page](../)
 
 ## Where the child is
 
-- The child's first message names this page and, for each exercise, the number of the task the child has in front of it, e.g. `?uebung=ach-laut-finden`. Look the numbers up below with the exercises. If the child comes with “Help”, `uebung=` names the exercise and `abschnitt=` its section.
+- The child's first message names this page and, for each exercise, the number of the task the child has in front of it, e.g. `?uebung=ch-einstieg`. Look the numbers up below with the exercises. If the child comes with “Help”, `uebung=` names the exercise and `abschnitt=` its section.
 - If the message says “The app says: …”, the app showed that for the child's input. Build on it without repeating it.
 - A line like “…, no. 16: right on try 2.” comes from “Back” in the app: the exercise, the number and how far the child got with it.
 - “I practised on …:” comes from “Back to the tutor”: this page with the numbers, then for each task practised how it went, a wrong one with the input and the app's message. Start with the wrong ones, one after the other.
-- Every task has a link: the address of the page, that is of this tutor page without `tutor/` and without `?…`, with the number and `via=tutor`, e.g. `…/alphabet-laute/ch-sch-sp-st/?via=tutor#ach-laut-finden`. Always send it as a full address, with the scheme and host of this tutor page (e.g. `https://`). For a further task take another number of the exercise and say its text. Add: “Solve it in the app, then press ‘Back’. Paste the line here.”
+- Every task has a link: the address of the page, that is of this tutor page without `tutor/` and without `?…`, with the number and `via=tutor`, e.g. `…/alphabet-laute/ch-sch-sp-st/?via=tutor#ch-einstieg`. Always send it as a full address, with the scheme and host of this tutor page (e.g. `https://`). For a further task take another number of the exercise and say its text. Add: “Solve it in the app, then press ‘Back’. Paste the line here.”
 
 ## Special requirements
 
@@ -43,7 +43,11 @@ Distinguish the ich-sound and ach-sound (ch), and pronounce sch, initial sp/st, 
 
 ### Ich-Sound or Ach-Sound? Two Sides of ch
 
-Nadia reads Peter a sentence: *'Ich mache heute einen Kuchen in der Küche.'* The same **ch** sounds soft in the front (*ich, Küche*) and raspy in the back (*mache, Kuchen*). The letter **right before** **ch** decides!
+At break time, Nadia reads Peter a tongue twister: *'Ich mache heute einen Kuchen in der Küche.'* The same **ch** sounds soft in the front (*ich, Küche*) and raspy in the back (*mache, Kuchen*). The letter **right before** **ch** decides!
+
+- Exercise `ch-einstieg` (below)
+
+### Sound-Spelling Board: ch, sch, sp/st, and z
 
 Sound-Spelling Board: ch, sch, sp/st, and z:
 - Letters | When / How? | Examples
@@ -62,6 +66,20 @@ In the middle or at the end of a word, *sp* and *st* stay plain **s + p** / **s 
 - Exercise `ach-laut-finden` (below)
 
 - Exercise `konsonanten-klang` (below)
+
+- Exercise `konsonanten-luecken` (below)
+
+### Exercise ch-einstieg
+
+- Task: How does **ch** sound in **Kuchen** (right after the letter **u**)?
+- Answer format: choose one answer
+- Choices (✓ right, ✗ wrong, with the app's message):
+  - ✓ in the back of the throat (ach-sound, as in *mache*) – Correct! After **a, o, u, au**, **ch** is spoken in the back of the throat.
+  - ✗ soft in the front of the mouth (ich-sound, as in *ich*) – The soft ich-sound comes after *i, e, ä, ö, ü* — in *Küche* (with *ü*) it is in front, but in *Kuchen* (with *u*) it is in the back!
+  - ✗ like a hard *k* (as in *Kaffee*) – After vowels, German **ch** is not a hard *k* — it is a breathy sound in the back or front of the mouth.
+- Solution: in the back of the throat (ach-sound, as in *mache*)
+- Explanation: Always look at the letter **before** **ch**: *a, o, u, au* → back ach-sound; everything else → front ich-sound.
+- Link: [../?via=tutor#ch-einstieg](../?via=tutor#ch-einstieg)
 
 ### Exercise ach-laut-finden
 
@@ -83,3 +101,17 @@ In the middle or at the end of a word, *sp* and *st* stay plain **s + p** / **s 
 - Solution: Stadtzentrum (St-) – sounds like sht- at the start of a word; Zug (Z-) – sounds like ts- (sharp, like in cats); Fest (-st) – sounds like -st (no sh at word end); Sportverein (Sp-) – sounds like shp- at the start of a word
 - Explanation: **sp/st** become *shp/sht* only at the start of a word or stem; at the end (*Fest*), plain *s* remains. **z** is always *ts*.
 - Link: [../?via=tutor#konsonanten-klang](../?via=tutor#konsonanten-klang)
+
+### Exercise konsonanten-luecken
+
+- Task: Choose the right consonant spelling for Peter's Year 6 words.
+- Answer format: choose a word for each gap
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
+- Items (start → solution):
+1. school (sh sound) → Schule
+2. table (sh sound at end) → Tisch
+3. square / seat (ts sound after short a) → Platz
+4. cat (ts sound after short a) → Katze
+- Explanation: German always spells the *sh* sound as **sch** (never *sh*) and the *ts* sound after a short vowel as **tz** (*Platz, Katze*).
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#konsonanten-luecken](../?via=tutor#konsonanten-luecken)

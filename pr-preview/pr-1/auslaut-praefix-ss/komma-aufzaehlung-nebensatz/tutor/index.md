@@ -43,7 +43,11 @@ Kommas in Aufzählungen und vor Nebensätzen mit weil, dass, wenn oder als richt
 
 ### Kommas als Satz-Wegweiser in Peters E-Mail
 
-Peter schreibt eine E-Mail an seine Eltern über die Woche in Lindenberg. Im Deutschen folgt das Komma nicht einfach dem Atem wie oft im Englischen, sondern festen **Grammatikgrenzen**: Aufzählungen und Nebensätze.
+Peter schreibt eine E-Mail an seine Großeltern über die Woche in Lindenberg. Im Deutschen folgt das Komma nicht einfach dem Atem wie oft im Englischen, sondern festen **Grammatikgrenzen**: Aufzählungen und Nebensätze.
+
+- Aufgabe `komma-weil-und` (unten)
+
+### Laut-Schrift-Tafel: Die zwei wichtigsten A2-Kommaregeln
 
 Laut-Schrift-Tafel: Die zwei wichtigsten A2-Kommaregeln:
 - Regel | Wann steht das Komma? | Beispiele
@@ -57,9 +61,11 @@ Vor **und** und **oder** in einer einfachen Aufzählung steht im Deutschen kein 
 
 ### Übung: Kommas richtig setzen
 
-- Aufgabe `komma-weil-und` (unten)
-
 - Aufgabe `komma-pflicht-erkennen` (unten)
+
+- Aufgabe `komma-regeln-a2-check` (unten)
+
+- Aufgabe `komma-setzen-a2` (unten)
 
 ### Aufgabe komma-weil-und
 
@@ -85,3 +91,24 @@ Vor **und** und **oder** in einer einfachen Aufzählung steht im Deutschen kein 
 - Lösung: Peter nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.; Als Peter in Lindenberg ankam [ ] regnete es stark.; Ich wollte kommen [ ] aber ich hatte Training.
 - Erklärung: Kommas trennen Nebensätze (*weil, dass, wenn, als*) vom Hauptsatz und stehen vor *aber* – aber nicht vor *und* in einer Aufzählung.
 - Link: [../?via=tutor#komma-pflicht-erkennen](../?via=tutor#komma-pflicht-erkennen)
+
+### Aufgabe komma-regeln-a2-check
+
+- Aufgabe: Bringe die Satzteile zu einem Satz mit vorangestelltem Nebensatz und richtigem Komma in Ordnung.
+- Antwortformat: die Einträge in die richtige Reihenfolge bringen (die App zeigt sie gemischt)
+- Lösung: 1. Wenn ich Zeit habe,, 2. spiele, 3. ich, 4. Fußball.
+- Erklärung: Nach einem vorangestellten Nebensatz (*Wenn ich Zeit habe,*) steht das Komma direkt vor dem Verb des Hauptsatzes (*spiele*).
+- Link: [../?via=tutor#komma-regeln-a2-check](../?via=tutor#komma-regeln-a2-check)
+
+### Aufgabe komma-setzen-a2
+
+- Aufgabe: Wähle das passende Verbindungsstück (mit oder ohne Komma) für Peters Sätze.
+- Antwortformat: für jede Lücke ein Wort wählen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
+- Einträge (Vorgabe → Lösung):
+1. I am learning German because I live in Lindenberg. → Ich lerne Deutsch, weil ich in Lindenberg wohne.
+2. Lukas, Mina, and Peter ride their bikes. → Lukas, Mina und Peter fahren Fahrrad.
+3. When it rains, we stay inside. → Wenn es regnet, bleiben wir drinnen.
+- Erklärung: Vor *weil* und nach einem vorangestellten *wenn*-Satz steht immer ein Komma; vor *und* in der Aufzählung steht keins.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#komma-setzen-a2](../?via=tutor#komma-setzen-a2)

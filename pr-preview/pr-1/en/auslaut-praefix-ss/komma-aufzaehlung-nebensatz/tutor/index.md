@@ -43,7 +43,11 @@ Place commas accurately in lists and before subordinate clauses introduced by we
 
 ### Commas as Clause Signposts in Peter's Email
 
-Peter writes an email home about his week in Lindenberg. In German, commas do not simply mark pauses for breath as they often do in English — they mark clear **grammar boundaries**: lists and subordinate clauses.
+Peter writes an email to his grandparents about his week in Lindenberg. In German, commas do not simply mark pauses for breath as they often do in English — they mark clear **grammar boundaries**: lists and subordinate clauses.
+
+- Exercise `komma-weil-und` (below)
+
+### Sound-Spelling Board: The Two Core A2 Comma Rules
 
 Sound-Spelling Board: The two core A2 comma rules:
 - Rule | Where does the comma go? | Examples
@@ -57,9 +61,11 @@ In a simple list, German does not put a comma before **und** or **oder**: *Lukas
 
 ### Practice: Placing Commas Correctly
 
-- Exercise `komma-weil-und` (below)
-
 - Exercise `komma-pflicht-erkennen` (below)
+
+- Exercise `komma-regeln-a2-check` (below)
+
+- Exercise `komma-setzen-a2` (below)
 
 ### Exercise komma-weil-und
 
@@ -85,3 +91,24 @@ In a simple list, German does not put a comma before **und** or **oder**: *Lukas
 - Solution: Peter nimmt die Deutsche Bahn [ ] weil sein Fahrrad kaputt ist.; Als Peter in Lindenberg ankam [ ] regnete es stark.; Ich wollte kommen [ ] aber ich hatte Training.
 - Explanation: Commas separate subordinate clauses (*weil, dass, wenn, als*) from main clauses and precede *aber* — but not *und* in a list.
 - Link: [../?via=tutor#komma-pflicht-erkennen](../?via=tutor#komma-pflicht-erkennen)
+
+### Exercise komma-regeln-a2-check
+
+- Task: Order the parts into a sentence starting with a subordinate clause and a comma between the two verbs.
+- Answer format: put the items in the right order (the app shows them shuffled)
+- Solution: 1. Wenn ich Zeit habe,, 2. spiele, 3. ich, 4. Fußball.
+- Explanation: After an initial subordinate clause (*Wenn ich Zeit habe,*), the comma stands right before the main-clause verb (*spiele*).
+- Link: [../?via=tutor#komma-regeln-a2-check](../?via=tutor#komma-regeln-a2-check)
+
+### Exercise komma-setzen-a2
+
+- Task: Choose the right connector (with or without a comma) for Peter's sentences.
+- Answer format: choose a word for each gap
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
+- Items (start → solution):
+1. I am learning German because I live in Lindenberg. → Ich lerne Deutsch, weil ich in Lindenberg wohne.
+2. Lukas, Mina, and Peter ride their bikes. → Lukas, Mina und Peter fahren Fahrrad.
+3. When it rains, we stay inside. → Wenn es regnet, bleiben wir drinnen.
+- Explanation: Always use a comma before *weil* and after an initial *wenn*-clause; omit the comma before *und* in a list.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#komma-setzen-a2](../?via=tutor#komma-setzen-a2)

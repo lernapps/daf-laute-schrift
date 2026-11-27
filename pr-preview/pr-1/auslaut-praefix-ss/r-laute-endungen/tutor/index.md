@@ -45,21 +45,27 @@ Deutsches konsonantisches r am Silbenanfang vom vokalisierten r in -er sowie red
 
 Peter hört genau hin, wenn Mina von ihrem **Bruder** und ihrem **Lehrer** erzählt: Das erste **r** in *Bruder* klingt wie ein weiches Reiben hinten im Rachen, aber die Endung **-er** am Schluss klingt fast wie ein kurzes, entspanntes **-a**!
 
+- Aufgabe `vokalisiertes-r-erkennen` (unten)
+
+### Laut-Schrift-Tafel: R-Laute und unbetonte Endungen
+
 Laut-Schrift-Tafel: R-Laute und unbetonte Endungen:
 - Position / Endung | Aussprache im Standarddeutschen | Beispiele
 - **r** vor einem Vokal | weiches Reibe-r hinten im Rachen (nicht englisch gerollt) | **R**egen, **Br**ot, F**r**au, hö**r**en
 - **-er** am Wortende / nach langem Vokal | vokalisiertes r: klingt wie kurzes, offenes **-a** | Lehr**er**, Brud**er**, Somm**er**, h**ier**
-- **-en / -el** (unbetont) | sehr kurzes Schwa (*e* fast verschluckt) | mach**en**, komm**en**, Äpf**el**, Taff**el**
+- **-en / -el** (unbetont) | sehr kurzes Schwa (*e* fast verschluckt) | mach**en**, komm**en**, Äpf**el**, Taf**el**
 
 **Merke: Kein englisches Retroflex-R**
 
-Im Englischen biegt sich die Zungenspitze nach hinten (*car*). Im Deutschen bleibt die Zungenspitze entspannt vorn hinter den unteren Zähnen – besonders bei **-er** (*Wasser, Wetter, Super*).
+Im Englischen biegt sich die Zungenspitze nach hinten (*car*). Im Deutschen bleibt die Zungenspitze entspannt vorn hinter den unteren Zähnen – besonders bei **-er** (*Wasser, Wetter, super*).
 
 ### Übung: R-Laute und Endungen zuordnen
 
-- Aufgabe `vokalisiertes-r-erkennen` (unten)
-
 - Aufgabe `endungen-natuerlich` (unten)
+
+- Aufgabe `r-regeln-check` (unten)
+
+- Aufgabe `vokalisiertes-er-finden` (unten)
 
 ### Aufgabe vokalisiertes-r-erkennen
 
@@ -80,3 +86,29 @@ Im Englischen biegt sich die Zungenspitze nach hinten (*car*). Im Deutschen blei
 - Lösung: Brötchen (Br-) – konsonantisches r vor Vokal; Computer (-er) – vokalisiertes -er (klingt fast wie -a); lernen (-en) – reduzierte unbetonte Endung (kurzes Schwa); Fahrrad (-hr) – erstes r nach langem Vokal vokalisiert, zweites konsonantisch
 - Erklärung: Natürliches Deutsch klingt fließend, weil unbetonte Endungen (*-er, -en, -el*) kurz und entspannt bleiben, statt jede Silbe voll auszubuchstabieren.
 - Link: [../?via=tutor#endungen-natuerlich](../?via=tutor#endungen-natuerlich)
+
+### Aufgabe r-regeln-check
+
+- Aufgabe: Wähle die passende unbetonte Endung (-er, -en oder -el) für Peters Wörter.
+- Antwortformat: für jede Lücke ein Wort wählen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
+- Einträge (Vorgabe → Lösung):
+1. teacher (vocalized -er sounding like -a) → Lehrer
+2. to make (reduced -en) → machen
+3. chalkboard / board (reduced -el) → Tafel
+- Erklärung: Die Endung **-er** wird vokalisiert (*Lehrer*), während **-en** (*machen*) und **-el** (*Tafel*) kurz und entspannt bleiben.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#r-regeln-check](../?via=tutor#r-regeln-check)
+
+### Aufgabe vokalisiertes-er-finden
+
+- Aufgabe: In welchen Wörtern wird das **r** im Standarddeutschen **vokalisiert** (klingt wie ein kurzes *a*)?
+- Antwortformat: alle richtigen Antworten wählen
+- Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
+  - ✓ Wetter – Richtig! Die unbetonte Endung *-er* klingt wie kurzes *-a*.
+  - ✓ hier – Richtig! Nach langem *ie* am Silbenende wird **r** vokalisiert (*hia*).
+  - ✗ Reise – Hier steht **R** am Anfang vor einem Vokal – also konsonantisch.
+  - ✓ Vater – Richtig! Auch *-er* in *Vater* wird vokalisiert.
+- Lösung: Wetter; hier; Vater
+- Erklärung: Vokalisiertes **r** hörst du vor allem in der Endung *-er* (*Wetter, Vater*) und nach langem Vokal am Silbenende (*hier, Uhr*).
+- Link: [../?via=tutor#vokalisiertes-er-finden](../?via=tutor#vokalisiertes-er-finden)

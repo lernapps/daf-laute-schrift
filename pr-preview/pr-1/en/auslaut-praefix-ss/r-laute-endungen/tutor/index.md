@@ -45,11 +45,15 @@ Pronounce German initial r-sounds, vocalized -er endings, and reduced unstressed
 
 Peter listens closely when Mina talks about her **Bruder** and her **Lehrer**: the first **r** in *Bruder* is a soft consonant in the back of the throat, while the ending **-er** at the end sounds almost like a short, relaxed **-a**!
 
+- Exercise `vokalisiertes-r-erkennen` (below)
+
+### Sound-Spelling Board: R-Sounds and Unstressed Endings
+
 Sound-Spelling Board: R-sounds and unstressed endings:
 - Position / Ending | Standard German pronunciation | Examples
 - **r** before a vowel | soft uvular r in the back of the throat (not English r) | **R**egen, **Br**ot, F**r**au, hö**r**en
 - **-er** at word end / after long vowel | vocalized r: sounds like a short, relaxed **-a** | Lehr**er**, Brud**er**, Somm**er**, h**ier**
-- **-en / -el** (unstressed) | very short schwa (*e* barely heard) | mach**en**, komm**en**, Äpf**el**, Taff**el**
+- **-en / -el** (unstressed) | very short schwa (*e* barely heard) | mach**en**, komm**en**, Äpf**el**, Taf**el**
 
 **Remember: Drop the English tongue curl**
 
@@ -57,9 +61,11 @@ In English, the tongue tip curls back (*car*). In German, keep your tongue tip r
 
 ### Practice: Sorting R-Sounds and Endings
 
-- Exercise `vokalisiertes-r-erkennen` (below)
-
 - Exercise `endungen-natuerlich` (below)
+
+- Exercise `r-regeln-check` (below)
+
+- Exercise `vokalisiertes-er-finden` (below)
 
 ### Exercise vokalisiertes-r-erkennen
 
@@ -80,3 +86,29 @@ In English, the tongue tip curls back (*car*). In German, keep your tongue tip r
 - Solution: Brötchen (Br-) – consonantal r before a vowel; Computer (-er) – vocalized -er (sounds close to -a); lernen (-en) – reduced unstressed ending (brief schwa); Fahrrad (-hr) – first r after long vowel vocalized, second consonantal
 - Explanation: Natural German flows smoothly because unstressed endings (*-er, -en, -el*) stay short and relaxed rather than spelling out every vowel.
 - Link: [../?via=tutor#endungen-natuerlich](../?via=tutor#endungen-natuerlich)
+
+### Exercise r-regeln-check
+
+- Task: Choose the matching unstressed ending (-er, -en, or -el) for Peter's words.
+- Answer format: choose a word for each gap
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
+- Items (start → solution):
+1. teacher (vocalized -er sounding like -a) → Lehrer
+2. to make (reduced -en) → machen
+3. chalkboard / board (reduced -el) → Tafel
+- Explanation: The ending **-er** is vocalized (*Lehrer*), while **-en** (*machen*) and **-el** (*Tafel*) stay short and relaxed.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#r-regeln-check](../?via=tutor#r-regeln-check)
+
+### Exercise vokalisiertes-er-finden
+
+- Task: In which words is **r** **vocalized** (sounding like a short *a*) in Standard German?
+- Answer format: choose all right answers
+- Choices (✓ right, ✗ wrong, with the app's message):
+  - ✓ Wetter – Correct! The unstressed ending *-er* sounds like a short *-a*.
+  - ✓ hier – Correct! After long *ie* at syllable end, **r** is vocalized (*hia*).
+  - ✗ Reise – Here **R** starts the word before a vowel, so it is consonantal.
+  - ✓ Vater – Correct! *-er* in *Vater* is vocalized too.
+- Solution: Wetter; hier; Vater
+- Explanation: Vocalized **r** occurs mainly in *-er* endings (*Wetter, Vater*) and after a long vowel at syllable end (*hier, Uhr*).
+- Link: [../?via=tutor#vokalisiertes-er-finden](../?via=tutor#vokalisiertes-er-finden)

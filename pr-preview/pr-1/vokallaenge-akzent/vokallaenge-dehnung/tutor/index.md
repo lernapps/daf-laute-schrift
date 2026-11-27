@@ -43,24 +43,32 @@ Lange und kurze Vokale hören, aussprechen und an Schreibsignalen wie ie, Dehnun
 
 ### Miete oder Mitte? Die Länge ändert die Bedeutung
 
-Auf dem Weg zum Gymnasium in Lindenberg fragt Peter Lukas: *„Wohnen wir in der **Miete** oder in der **Mitte**?“* Lukas lacht: Ein langer oder kurzer Vokal macht aus zwei ähnlichen Wörtern ganz verschiedene Bedeutungen – und die Schrift zeigt dir fast immer, welcher Vokal gemeint ist.
-
-Laut-Schrift-Tafel: Signale für lange und kurze Vokale:
-- Vokallänge | Schreibsignal | Beispiele
-- **Lang** (gespannt) | **ie** (für langes *i*) | M**ie**te, sp**ie**len, B**ie**ne
-- **Lang** (gespannt) | stummes **h** (Dehnungs-h) | Fa**h**rrad, wo**h**nen, Le**h**rer
-- **Lang** (gespannt) | Doppelvokal oder nur 1 Konsonant | Kaff**ee**, B**oo**t, T**a**g, L**e**ben
-- **Kurz** (locker) | Doppelkonsonant, **ck** oder **tz** | M**itt**e, B**ett**, Bä**ck**er, Pla**tz**
-
-**Merke: Das Dehnungs-h hörst du nicht!**
-
-In *Fa**h**rrad*, *wo**h**nen* oder *u**h**r* wird das **h** nicht gehaucht. Es dehnt nur den Vokal davor.
-
-### Übung: Lang oder kurz?
+Auf dem Weg zur Schule in Lindenberg fragt Peter Lukas: *„Wohnen wir in der **Miete** oder in der **Mitte**?“* Lukas lacht: Ein langer oder kurzer Vokal macht aus zwei ähnlichen Wörtern ganz verschiedene Bedeutungen – und die Schrift zeigt dir fast immer, welcher Vokal gemeint ist.
 
 - Aufgabe `stummes-h-erkennen` (unten)
 
+Bild: Peters Laut-Schrift-Tafel: Lange Vokale mit ie (Biene, Miete), stummem h (Fahrrad, Uhr) oder Doppelvokal (Boot, Kaffee) im Vergleich zu kurzen Vokalen vor Doppelkonsonanten (Bett, Mitte), ck (Zucker, Jacke) und tz (Platz, Katze). Bildunterschrift: Peters Laut-Schrift-Tafel: Daran erkennst du lange und kurze Vokale auf einen Blick.
+
+### Signale für lange und kurze Vokale
+
+Laut-Schrift-Tafel: Signale für lange und kurze Vokale:
+- Vokallänge | Schreibsignal | Beispiele
+- **Lang** (gedehnt) | **ie** (für langes *i*) | M**ie**te, sp**ie**len, B**ie**ne
+- **Lang** (gedehnt) | stummes **h** (Dehnungs-h) | Fa**h**rrad, wo**h**nen, Le**h**rer
+- **Lang** (gedehnt) | Doppelvokal oder nur 1 Konsonant | Kaff**ee**, B**oo**t, T**a**g, L**e**ben
+- **Kurz** (knapp) | Doppelkonsonant, **ck** oder **tz** | M**itt**e, B**ett**, Bä**ck**er, Pla**tz**
+
+**Merke: Das Dehnungs-h hörst du nicht!**
+
+In *Fa**h**rrad*, *wo**h**nen* oder *U**h**r* wird das **h** nicht gehaucht. Es dehnt nur den Vokal davor.
+
+### Übung: Lang oder kurz?
+
 - Aufgabe `minimalpaare-laenge` (unten)
+
+- Aufgabe `vokallaenge-regeln-check` (unten)
+
+- Aufgabe `vokallaenge-luecken` (unten)
 
 ### Aufgabe stummes-h-erkennen
 
@@ -81,3 +89,25 @@ In *Fa**h**rrad*, *wo**h**nen* oder *u**h**r* wird das **h** nicht gehaucht. Es 
 - Lösung: Klasse – kurzes a (Doppelkonsonant ss); Lehrer – langes e (stummes Dehnungs-h); spielen – langes i (Schreibung ie); Bäcker – kurzes ä (ck steht für doppeltes k)
 - Erklärung: Auf der Laut-Schrift-Tafel gilt die Faustregel: **ie / h / Doppelvokal = lang**, **Doppelkonsonant / ck / tz = kurz**.
 - Link: [../?via=tutor#minimalpaare-laenge](../?via=tutor#minimalpaare-laenge)
+
+### Aufgabe vokallaenge-regeln-check
+
+- Aufgabe: In *Uhr* und *Lehrer* spricht man das **h** deutlich gehaucht wie am Anfang von *Haus* aus.
+- Antwortformat: „Stimmt“ oder „Stimmt nicht“ wählen
+- Lösung: Die Aussage stimmt nicht.
+- Erklärung: Falsch! Das Dehnungs-**h** ist völlig stumm – es zeigt nur an, dass der Vokal davor lang und gedehnt ist.
+- Link: [../?via=tutor#vokallaenge-regeln-check](../?via=tutor#vokallaenge-regeln-check)
+
+### Aufgabe vokallaenge-luecken
+
+- Aufgabe: Wähle das passende Schreibsignal für Peters Wörter aus Lindenberg.
+- Antwortformat: für jede Lücke ein Wort wählen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
+- Einträge (Vorgabe → Lösung):
+1. to live (long o with silent h) → wohnen
+2. center / middle (short i) → Mitte
+3. to play (long ee sound) → spielen
+4. teacher (long e with silent h) → Lehrer
+- Erklärung: Langes *o/e* mit stummem **h** (*wohnen, Lehrer*), langes *i* mit **ie** (*spielen*), kurzes *i* mit **tt** (*Mitte*).
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#vokallaenge-luecken](../?via=tutor#vokallaenge-luecken)

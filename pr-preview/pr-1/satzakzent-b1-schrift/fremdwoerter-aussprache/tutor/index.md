@@ -45,6 +45,10 @@ Internationale Fremdwörter mit typischen Endungen (-tion, -ie, -ieren, -tät, -
 
 Für den Schulblog schreibt Peter über *Information, Musik, fotografieren* und *Universität*. Die Wörter sehen fast aus wie im Englischen – aber auf Peters **Laut-Schrift-Tafel** gilt eine eigene Regel: **Bei Fremdwörtern wandert der Akzent fast immer ans Wortende!**
 
+- Aufgabe `tion-aussprache` (unten)
+
+### Typische Fremdwort-Endungen im Deutschen
+
 Typische Fremdwort-Endungen im Deutschen:
 - Endung | Betonung & Klang | Beispiele
 - **-tion** | betontes **-TSIOHN** (nie englisch *-shun*) | In-for-ma-**TION**, Sta-**TION**, Na-**TION**
@@ -52,15 +56,17 @@ Typische Fremdwort-Endungen im Deutschen:
 - **-tät** | immer auf **-TÄT** (langes *ä*) | U-ni-ver-si-**TÄT**, Qua-li-**TÄT**, Ak-ti-vi-**TÄT**
 - **-ie / -ik** | meist auf der letzten Silbe | E-ner-**GIE**, Bio-lo-**GIE**, Mu-**SIK**, Po-li-**TIK**
 
-**Merke: Achtung bei -ik-Ausnahmen und Englisch-Einfluss**
+**Merke: Achtung bei -ik-Ausnahmen**
 
-Fast alle *-ik*-Wörter betonen die letzte Silbe (*Mu**SIK**, Ma-the-ma-**TIK**, Fa-**BRIK**). Nur wenige häufige Wörter tragen den Akzent vorn: **TECH**-nik, **PLAS**-tik, **GRAM**-ma-tik (meist Gram-**MA**-tik).
+Fast alle *-ik*-Wörter betonen die letzte Silbe (*Mu**SIK**, Ma-the-ma-**TIK**, Fa-**BRIK**). Nur wenige häufige Wörter tragen den Akzent vorn: **TECH**-nik, **PLAS**-tik, Gram-**MA**-tik.
 
 ### Übung: Fremdwörter sicher betonen
 
-- Aufgabe `tion-aussprache` (unten)
-
 - Aufgabe `fremdwoerter-akzent-sortieren` (unten)
+
+- Aufgabe `fremdwoerter-regeln-check` (unten)
+
+- Aufgabe `fremdwoerter-endungen` (unten)
 
 ### Aufgabe tion-aussprache
 
@@ -81,3 +87,25 @@ Fast alle *-ik*-Wörter betonen die letzte Silbe (*Mu**SIK**, Ma-the-ma-**TIK**,
 - Lösung: organisieren – or-ga-ni-**SIE**-ren; Universität – U-ni-ver-si-**TÄT**; Fotografie – Fo-to-gra-**FIE**; Mathematik – Ma-the-ma-**TIK**
 - Erklärung: Mit diesen vier Endungen (**-ieren, -tät, -ie, -ik**) triffst du die Betonung von Hunderten internationaler Wörter im Deutschen sofort.
 - Link: [../?via=tutor#fremdwoerter-akzent-sortieren](../?via=tutor#fremdwoerter-akzent-sortieren)
+
+### Aufgabe fremdwoerter-regeln-check
+
+- Aufgabe: In den Fremdwörtern *Technik* und *Plastik* liegt der Hauptakzent wie bei *Musik* auf der letzten Silbe.
+- Antwortformat: „Stimmt“ oder „Stimmt nicht“ wählen
+- Lösung: Die Aussage stimmt nicht.
+- Erklärung: Falsch! *TECH-nik* und *PLAS-tik* sind wichtige Ausnahmen unter den *-ik*-Wörtern: Sie tragen den Hauptakzent auf der ersten Silbe.
+- Link: [../?via=tutor#fremdwoerter-regeln-check](../?via=tutor#fremdwoerter-regeln-check)
+
+### Aufgabe fremdwoerter-endungen
+
+- Aufgabe: Wähle die passende deutsche Fremdwort-Endung für Peters Schulblog.
+- Antwortformat: für jede Lücke ein Wort wählen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
+- Einträge (Vorgabe → Lösung):
+1. to photograph (stressed on -IE-) → fotografieren
+2. quality (stressed on -TÄT) → Qualität
+3. station (stressed -TSIOHN) → Station
+4. energy (stressed -GIE) → Energie
+- Erklärung: Im Deutschen erkennst du diese internationalen Wörter an ihren festen Endungen: **-ieren, -tät, -tion, -ie**.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#fremdwoerter-endungen](../?via=tutor#fremdwoerter-endungen)

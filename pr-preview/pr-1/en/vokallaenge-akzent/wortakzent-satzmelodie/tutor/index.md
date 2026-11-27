@@ -45,10 +45,14 @@ Stress the main stem syllable of German words and use natural falling or rising 
 
 In class, Herr Braun claps out the syllables: **LIN**-den-berg, **FAHR**-rad, **AR**-bei-ten. In native German words, the **first syllable** (the stem) almost always carries the main stress — slightly louder and clearer than the rest.
 
+- Exercise `kompositum-akzent` (below)
+
+### Word Stress and Sentence Melody at a Glance
+
 Word stress and sentence melody at a glance:
 - Area | Pattern | Examples
 - Word stress (default) | Stem syllable (usually syllable 1) | **SCHU**-le, **WOH**-nen, **BRÖT**-chen
-- Compound nouns | First word stressed | **DEUTSCH**-kurs, **BAHN**-hof, **HAUS**-aufgabe
+- Compound nouns | First word stressed | **SCHUL**-hof, **BAHN**-hof, **HAUS**-aufgabe
 - Statement | Voice falls at the end (↘) | Peter wohnt in Lindenberg. ↘
 - W-question | Voice falls at the end (↘) | Wo ist der Bahnhof? ↘
 - Yes/no question | Voice rises at the end (↗) | Kommst du heute mit? ↗
@@ -59,16 +63,18 @@ In a neutral W-question (*Wie heißt du? ↘*), your voice goes **down** at the 
 
 ### Practice: Stress and Melody Check
 
-- Exercise `kompositum-akzent` (below)
-
 - Exercise `satzmelodie-zuordnen` (below)
+
+- Exercise `melodie-regeln-check` (below)
+
+- Exercise `erste-silbe-betont` (below)
 
 ### Exercise kompositum-akzent
 
 - Task: Where does the main stress fall in the compound noun **Fahrradweg** (*bike path*)?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ **FAHR**-rad-weg (on the first syllable) – Correct! In German compounds, the first modifier (*FAHR-*) carries the main stress.
+  - ✓ **FAHR**-rad-weg (on the first syllable) – Correct! In German compounds, the first word (*FAHR-*) carries the main stress.
   - ✗ Fahr-**RAD**-weg (on the second syllable) – The second element carries at most secondary stress, not the main stress.
   - ✗ Fahr-rad-**WEG** (on the last syllable) – In German compounds, main stress pulls to the front word, not the end.
 - Solution: **FAHR**-rad-weg (on the first syllable)
@@ -79,6 +85,27 @@ In a neutral W-question (*Wie heißt du? ↘*), your voice goes **down** at the 
 
 - Task: Match each sentence from Peter's chat with Nadia to its ending intonation.
 - Answer format: match each item on the left with one on the right
-- Solution: Hast du morgen Zeit? – rising (↗) – yes/no question; Wann beginnt der Unterricht? – falling (↘) – neutral W-question; Der Kurs beginnt um acht Uhr. – falling (↘) – statement
+- Solution: Hast du morgen Zeit? – rising (↗) – yes/no question; Wann beginnt der Unterricht? – falling (↘) – neutral W-question; Die Schule beginnt um acht Uhr. – falling (↘) – statement
 - Explanation: Statements and neutral W-questions end with falling intonation (↘). Yes/no questions end with clear rising intonation (↗).
 - Link: [../?via=tutor#satzmelodie-zuordnen](../?via=tutor#satzmelodie-zuordnen)
+
+### Exercise melodie-regeln-check
+
+- Task: Put the words in order to form a yes/no question with rising intonation (↗).
+- Answer format: put the items in the right order (the app shows them shuffled)
+- Solution: 1. Kommst, 2. du, 3. heute, 4. mit?
+- Explanation: A yes/no question starts with the verb (*Kommst du heute mit?*) and ends with rising intonation (↗).
+- Link: [../?via=tutor#melodie-regeln-check](../?via=tutor#melodie-regeln-check)
+
+### Exercise erste-silbe-betont
+
+- Task: In which words does the **first** syllable carry the main stress?
+- Answer format: choose all right answers
+- Choices (✓ right, ✗ wrong, with the app's message):
+  - ✓ Schulhof – Correct! **SCHUL**-hof stresses the first word of the compound.
+  - ✓ Lindenberg – Correct! **LIN**-den-berg carries main stress on syllable 1.
+  - ✗ verstehen – Here *ver-* is an unstressed prefix — the stem is stressed: ver-**STEH**-en.
+  - ✓ Brötchen – Correct! **BRÖT**-chen stresses the stem syllable at the front.
+- Solution: Schulhof; Lindenberg; Brötchen
+- Explanation: Native German words and compounds almost always stress the first syllable — only unstressed prefixes like *ver-* shift stress onto the stem.
+- Link: [../?via=tutor#erste-silbe-betont](../?via=tutor#erste-silbe-betont)

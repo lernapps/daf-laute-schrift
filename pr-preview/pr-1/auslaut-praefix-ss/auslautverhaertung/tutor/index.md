@@ -43,7 +43,13 @@ b, d und g am Wort- oder Silbenende stimmlos wie p, t und k aussprechen und mit 
 
 ### Warum klingt Tag wie Tak?
 
-Im Deutschkurs fragt Peter verwirrt: *„Lukas sagt **Tak**, **Kint** und **gelp** – aber im Buch steht **Tag**, **Kind** und **gelb**!“* Herr Braun ergänzt ein neues Feld auf der **Laut-Schrift-Tafel**: Am Wort- oder Silbenende werden stimmhafte Konsonanten im Deutschen immer stimmlos gesprochen.
+Im Deutschunterricht fragt Peter verwirrt: *„Lukas sagt **Tak**, **Kint** und **gelp** – aber im Buch steht **Tag**, **Kind** und **gelb**!“* Herr Braun ergänzt ein neues Feld auf der **Laut-Schrift-Tafel**: Am Wort- oder Silbenende werden stimmhafte Konsonanten im Deutschen immer stimmlos gesprochen.
+
+- Aufgabe `auslaut-klang-erkennen` (unten)
+
+Bild: Peters Laut-Schrift-Tafel zur Auslautverhärtung: b wird zu p (halb → halbe), d wird zu t (Kind → Kinder), g wird zu k (Tag → Tage) mit der Verlängerungsprobe. Bildunterschrift: Peters Laut-Schrift-Tafel: Verlängere das Wort, um den echten Endbuchstaben zu hören.
+
+### Auslautverhärtung und Verlängerungsprobe
 
 Auslautverhärtung und Verlängerungsprobe:
 - Schreibung → Klang | Am Wortende (hart) | Verlängert (weich hörbar)
@@ -57,9 +63,11 @@ Bist du unsicher, ob am Ende *b/p*, *d/t* oder *g/k* steht? Verlängere das Wort
 
 ### Übung: Hören, verlängern, richtig schreiben
 
-- Aufgabe `auslaut-klang-erkennen` (unten)
-
 - Aufgabe `verlaengerungsprobe-schreiben` (unten)
+
+- Aufgabe `auslaut-zuordnen` (unten)
+
+- Aufgabe `auslaut-tippen` (unten)
 
 ### Aufgabe auslaut-klang-erkennen
 
@@ -86,3 +94,27 @@ Bist du unsicher, ob am Ende *b/p*, *d/t* oder *g/k* steht? Verlängere das Wort
 - Erklärung: Die verlängerte Form verrät die Schreibung: *Freun**d**e → Freund*, *Zü**g**e → Zug*, *gel**b**e → gelb*, *bun**t**e → bunt*.
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
 - Link: [../?via=tutor#verlaengerungsprobe-schreiben](../?via=tutor#verlaengerungsprobe-schreiben)
+
+### Aufgabe auslaut-zuordnen
+
+- Aufgabe: Ordne jedes Wort der passenden Aussprache-Regel am Wortende zu.
+- Antwortformat: jedem Eintrag links den passenden rechts zuordnen
+- Lösung: Urlaub (Urlaube) – geschrieben b, gesprochen [p]; Hund (Hunde) – geschrieben d, gesprochen [t]; Weg (Wege) – geschrieben g, gesprochen [k]; wichtig (-ig) – Endung -ig klingt meist wie -ich
+- Erklärung: Am Wortende werden *b, d, g* zu *[p, t, k]*, und die Endung *-ig* klingt im Standarddeutschen meist wie *-ich*.
+- Link: [../?via=tutor#auslaut-zuordnen](../?via=tutor#auslaut-zuordnen)
+
+### Aufgabe auslaut-tippen
+
+- Aufgabe: Schreibe die Grundform (Singular) – nutze die verlängerte Form als Hinweis.
+- Antwortformat: die Lücken auf Deutsch füllen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung richtig mit Hinweis, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen egal
+- Einträge (Vorgabe → Lösung):
+1. picture (plural: Bilder) → Bild
+     - Bilt: In *Bil**d**er* hörst du ein weiches **d** – also *Bild*.
+2. forest (plural: Wälder) → Wald
+     - Walt: In *Wäl**d**er* steht ein **d** – also *Wald*.
+3. mountain (plural: Berge) → Berg
+     - Berk: In *Ber**g**e* hörst du ein weiches **g** – also *Berg*.
+- Erklärung: Mit der Verlängerungsprobe (*Bilder → Bild, Wälder → Wald, Berge → Berg*) schreibst du Auslaute ohne Raten richtig.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#auslaut-tippen](../?via=tutor#auslaut-tippen)

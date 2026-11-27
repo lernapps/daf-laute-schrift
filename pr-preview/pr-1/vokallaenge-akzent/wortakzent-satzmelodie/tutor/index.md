@@ -45,10 +45,14 @@ Die betonte Stammsilbe deutscher Wörter treffen und Aussagen, W-Fragen und Ja/N
 
 Im Unterricht klatscht Herr Braun die Silben: **LIN**-den-berg, **FAHR**-rad, **AR**-bei-ten. Im Deutschen trägt fast immer die **erste Silbe** (die Stammsilbe) den Hauptakzent – sie ist etwas lauter und deutlicher als die anderen.
 
+- Aufgabe `kompositum-akzent` (unten)
+
+### Wortakzent und Satzmelodie auf einen Blick
+
 Wortakzent und Satzmelodie auf einen Blick:
 - Bereich | Muster | Beispiele
 - Wortakzent (Grundregel) | Stammsilbe (meist Silbe 1) | **SCHU**-le, **WOH**-nen, **BRÖT**-chen
-- Zusammensetzungen | Erstes Wort betont | **DEUTSCH**-kurs, **BAHN**-hof, **HAUS**-aufgabe
+- Zusammensetzungen | Erstes Wort betont | **SCHUL**-hof, **BAHN**-hof, **HAUS**-aufgabe
 - Aussagesatz | Stimme fällt am Ende (↘) | Peter wohnt in Lindenberg. ↘
 - W-Frage | Stimme fällt am Ende (↘) | Wo ist der Bahnhof? ↘
 - Ja/Nein-Frage | Stimme steigt am Ende (↗) | Kommst du heute mit? ↗
@@ -59,18 +63,20 @@ In einer neutralen W-Frage (*Wie heißt du? ↘*) geht die Stimme am Ende **nach
 
 ### Übung: Akzent und Melodie prüfen
 
-- Aufgabe `kompositum-akzent` (unten)
-
 - Aufgabe `satzmelodie-zuordnen` (unten)
+
+- Aufgabe `melodie-regeln-check` (unten)
+
+- Aufgabe `erste-silbe-betont` (unten)
 
 ### Aufgabe kompositum-akzent
 
 - Aufgabe: Wo liegt der Hauptakzent im zusammengesetzten Wort **Fahrradweg** (*bike path*)?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ **FAHR**-rad-weg (auf der ersten Silbe) – Richtig! Bei deutschen Zusammensetzungen trägt das erste Bestimmungswort (*FAHR-*) den Hauptakzent.
+  - ✓ **FAHR**-rad-weg (auf der ersten Silbe) – Richtig! Bei deutschen Zusammensetzungen trägt das erste Wort (*FAHR-*) den Hauptakzent.
   - ✗ Fahr-**RAD**-weg (auf der zweiten Silbe) – Das zweite Element trägt höchstens einen Nebenakzent, nicht den Hauptakzent.
-  - ✗ Fahr-rad-**WEG** (auf der letzten Silbe) – Im Deutschen wandert der Akzent bei Komposita nach vorn auf das erste Wort, nicht nach hinten.
+  - ✗ Fahr-rad-**WEG** (auf der letzten Silbe) – Im Deutschen wandert der Akzent bei Zusammensetzungen nach vorn auf das erste Wort, nicht nach hinten.
 - Lösung: **FAHR**-rad-weg (auf der ersten Silbe)
 - Erklärung: Deutsche Zusammensetzungen betonen das **erste** Wort, weil es die Bedeutung genauer festlegt: *FAHRradweg*, *DEUTSCHlehrer*, *SCHULhof*.
 - Link: [../?via=tutor#kompositum-akzent](../?via=tutor#kompositum-akzent)
@@ -79,6 +85,27 @@ In einer neutralen W-Frage (*Wie heißt du? ↘*) geht die Stimme am Ende **nach
 
 - Aufgabe: Ordne jeden Satz aus dem Gespräch mit Nadia der passenden Satzmelodie am Satzende zu.
 - Antwortformat: jedem Eintrag links den passenden rechts zuordnen
-- Lösung: Hast du morgen Zeit? – steigend (↗) – Ja/Nein-Frage; Wann beginnt der Unterricht? – fallend (↘) – neutrale W-Frage; Der Kurs beginnt um acht Uhr. – fallend (↘) – Aussagesatz
+- Lösung: Hast du morgen Zeit? – steigend (↗) – Ja/Nein-Frage; Wann beginnt der Unterricht? – fallend (↘) – neutrale W-Frage; Die Schule beginnt um acht Uhr. – fallend (↘) – Aussagesatz
 - Erklärung: Aussagesätze und neutrale W-Fragen enden fallend (↘). Ja/Nein-Fragen enden klar steigend (↗).
 - Link: [../?via=tutor#satzmelodie-zuordnen](../?via=tutor#satzmelodie-zuordnen)
+
+### Aufgabe melodie-regeln-check
+
+- Aufgabe: Bringe die Wörter zu einer Ja/Nein-Frage mit steigender Melodie (↗) in die richtige Reihenfolge.
+- Antwortformat: die Einträge in die richtige Reihenfolge bringen (die App zeigt sie gemischt)
+- Lösung: 1. Kommst, 2. du, 3. heute, 4. mit?
+- Erklärung: Eine Ja/Nein-Frage beginnt mit dem Verb (*Kommst du heute mit?*) und endet mit steigender Stimme (↗).
+- Link: [../?via=tutor#melodie-regeln-check](../?via=tutor#melodie-regeln-check)
+
+### Aufgabe erste-silbe-betont
+
+- Aufgabe: In welchen Wörtern trägt die **erste** Silbe den Hauptakzent?
+- Antwortformat: alle richtigen Antworten wählen
+- Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
+  - ✓ Schulhof – Richtig! **SCHUL**-hof betont das erste Wort der Zusammensetzung.
+  - ✓ Lindenberg – Richtig! **LIN**-den-berg trägt den Hauptakzent auf Silbe 1.
+  - ✗ verstehen – Hier ist *ver-* eine unbetonte Vorsilbe – betont wird der Stamm: ver-**STEH**-en.
+  - ✓ Brötchen – Richtig! **BRÖT**-chen betont die Stammsilbe vorn.
+- Lösung: Schulhof; Lindenberg; Brötchen
+- Erklärung: Deutsche Grundwörter und Zusammensetzungen betonen fast immer die erste Silbe – nur unbetonte Vorsilben wie *ver-* lassen den Akzent auf den Stamm wandern.
+- Link: [../?via=tutor#erste-silbe-betont](../?via=tutor#erste-silbe-betont)

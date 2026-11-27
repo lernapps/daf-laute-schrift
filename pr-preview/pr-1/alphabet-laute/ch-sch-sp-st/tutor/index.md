@@ -20,11 +20,11 @@ Eltern und Lehrkräfte sehen hier, was der Tutor bekommt. [Zur Seite](../)
 
 ## Wo das Kind gerade ist
 
-- Die erste Nachricht des Kindes nennt diese Seite und je Aufgabe die Nummer, die das Kind gerade vor sich hat, z. B. `?uebung=ach-laut-finden`. Schlag die Nummern unten bei den Aufgaben nach. Kommt das Kind mit „Hilfe“, nennt `uebung=` die Aufgabe und `abschnitt=` ihren Abschnitt.
+- Die erste Nachricht des Kindes nennt diese Seite und je Aufgabe die Nummer, die das Kind gerade vor sich hat, z. B. `?uebung=ch-einstieg`. Schlag die Nummern unten bei den Aufgaben nach. Kommt das Kind mit „Hilfe“, nennt `uebung=` die Aufgabe und `abschnitt=` ihren Abschnitt.
 - Steht in der Nachricht „Die App sagt: …“, hat die App das zur Eingabe des Kindes gemeldet. Setz dort an, ohne es zu wiederholen.
 - Eine Zeile wie „…, Nr. 16: richtig im 2. Versuch.“ kommt von „Zurück“ in der App: Aufgabe, Nummer und wie weit das Kind damit kam.
 - „Ich habe auf … geübt:“ kommt von „Zurück zum Tutor“: diese Seite mit den Nummern, dann je geübter Aufgabe, wie es lief, bei einer falschen mit Eingabe und Meldung der App. Setz bei den falschen an, eine nach der anderen.
-- Jede Nummer hat einen Link: die Adresse der Seite, also dieser Tutor-Seite ohne `tutor/` und ohne `?…`, mit der Nummer und `via=tutor`, z. B. `…/alphabet-laute/ch-sch-sp-st/?via=tutor#ach-laut-finden`. Schick ihn immer als volle Adresse, mit Schema und Host dieser Tutor-Seite (z. B. `https://`). Zum Weiterüben nimm eine andere Nummer der Aufgabe und nenn ihren Text. Sag dazu: „Löse sie in der App und drück dann ‚Zurück‘. Füg die Zeile hier ein.“
+- Jede Nummer hat einen Link: die Adresse der Seite, also dieser Tutor-Seite ohne `tutor/` und ohne `?…`, mit der Nummer und `via=tutor`, z. B. `…/alphabet-laute/ch-sch-sp-st/?via=tutor#ch-einstieg`. Schick ihn immer als volle Adresse, mit Schema und Host dieser Tutor-Seite (z. B. `https://`). Zum Weiterüben nimm eine andere Nummer der Aufgabe und nenn ihren Text. Sag dazu: „Löse sie in der App und drück dann ‚Zurück‘. Füg die Zeile hier ein.“
 
 ## Besondere Anforderungen
 
@@ -43,7 +43,11 @@ Ich-Laut und Ach-Laut (ch) unterscheiden und sch, sp/st am Wortanfang sowie z/tz
 
 ### Ich-Laut oder Ach-Laut? Zwei Seiten von ch
 
-Nadia liest Peter zwei Sätze vor: *„**Ich** ma**ch**e heute einen Ku**ch**en in der Kü**ch**e.“* Dasselbe **ch** klingt mal weich vorn im Mund (*ich, Küche*) und mal rau hinten (*mache, Kuchen*). Der Buchstabe **davor** entscheidet!
+In der Pause liest Nadia Peter einen Zungenbrecher vor: *„**Ich** ma**ch**e heute einen Ku**ch**en in der Kü**ch**e.“* Dasselbe **ch** klingt mal weich vorn im Mund (*ich, Küche*) und mal rau hinten (*mache, Kuchen*). Der Buchstabe **davor** entscheidet!
+
+- Aufgabe `ch-einstieg` (unten)
+
+### Laut-Schrift-Tafel: ch, sch, sp/st und z
 
 Laut-Schrift-Tafel: ch, sch, sp/st und z:
 - Buchstaben | Wann / Wie? | Beispiele
@@ -62,6 +66,20 @@ In der Mitte oder am Ende eines Wortes bleiben *sp* und *st* einfach **s + p** b
 - Aufgabe `ach-laut-finden` (unten)
 
 - Aufgabe `konsonanten-klang` (unten)
+
+- Aufgabe `konsonanten-luecken` (unten)
+
+### Aufgabe ch-einstieg
+
+- Aufgabe: Wie klingt **ch** im Wort **Kuchen** (nach dem Buchstaben **u**)?
+- Antwortformat: eine Antwort wählen
+- Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
+  - ✓ hinten im Rachen (Ach-Laut, wie in *mache*) – Richtig! Nach **a, o, u, au** liegt **ch** hinten im Rachen.
+  - ✗ weich vorn im Mund (Ich-Laut, wie in *ich*) – Der weiche Ich-Laut steht nach *i, e, ä, ö, ü* – in *Küche* (mit *ü*) klingt er vorn, in *Kuchen* (mit *u*) hinten!
+  - ✗ wie ein deutsches *k* (wie in *Kaffee*) – Deutsches **ch** wird nach Vokalen nicht wie *k* gesprochen, sondern als Reibelaut.
+- Lösung: hinten im Rachen (Ach-Laut, wie in *mache*)
+- Erklärung: Schau immer auf den Buchstaben **vor** dem **ch**: *a, o, u, au* → Ach-Laut hinten; alles andere → Ich-Laut vorn.
+- Link: [../?via=tutor#ch-einstieg](../?via=tutor#ch-einstieg)
 
 ### Aufgabe ach-laut-finden
 
@@ -83,3 +101,17 @@ In der Mitte oder am Ende eines Wortes bleiben *sp* und *st* einfach **s + p** b
 - Lösung: Stadtzentrum (St-) – klingt wie scht- am Wortanfang; Zug (Z-) – klingt wie ts- (hart, wie in cats); Fest (-st) – klingt wie -st (kein sch am Wortende); Sportverein (Sp-) – klingt wie schp- am Wortanfang
 - Erklärung: **sp/st** werden nur am Anfang eines Wortes oder Wortstamms zu *schp/scht*; am Wortende (*Fest*) bleibt das einfache *s*. **z** ist immer *ts*.
 - Link: [../?via=tutor#konsonanten-klang](../?via=tutor#konsonanten-klang)
+
+### Aufgabe konsonanten-luecken
+
+- Aufgabe: Wähle die richtige Buchstabengruppe für Peters Wörter aus Klasse 6.
+- Antwortformat: für jede Lücke ein Wort wählen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
+- Einträge (Vorgabe → Lösung):
+1. school (sh sound) → Schule
+2. table (sh sound at end) → Tisch
+3. square / seat (ts sound after short a) → Platz
+4. cat (ts sound after short a) → Katze
+- Erklärung: Im Deutschen schreibt man den *sh*-Laut immer **sch** (nie *sh*) und den *ts*-Laut nach kurzem Vokal **tz** (*Platz, Katze*).
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#konsonanten-luecken](../?via=tutor#konsonanten-luecken)

@@ -43,17 +43,15 @@ Pronounce German umlauts (ä, ö, ü) with proper lip rounding and distinguish d
 
 ### Brötchen at the Lindenberg Bakery
 
-In the morning, Peter and Lukas buy fresh **Brötchen** at the **Bäcker**. Two small dots change both sound and meaning: *Brot* becomes *Brötchen*, *schon* (*already*) becomes *schön* (*nice*). Herr Braun adds a lip-position tip to the **Sound-Spelling Board**.
+Before school, Peter and Lukas buy fresh **Brötchen** at the **Bäcker**. Two small dots change both sound and meaning: *Brot* becomes *Brötchen*, *schon* (*already*) becomes *schön* (*nice*). Herr Braun adds a lip-position tip to the **Sound-Spelling Board**.
 
-Mouth-position guide for umlauts ä, ö, ü:
-- Umlaut | Mouth tip | Examples
-- **ä** | open *e* (like English *bed*) | B**ä**cker, sp**ä**t, M**ä**rz
-- **ö** | say *eh*, round your lips as for *oh* | Br**ö**tchen, sch**ö**n, zw**ö**lf
-- **ü** | say *ee*, round your lips as for *oo* | **Ü**bung, Sch**ü**ler, f**ü**nf
+- Exercise `umlaut-lippen` (below)
 
-### Diphthongs: Two Vowels, One Glide
+Picture: Peter's Sound-Spelling Board with four cards for ä (open eh: Bäcker, März), ö (eh with rounded lips: Brötchen, schön), ü (ee with rounded lips: Übung, Schüler), and ß (Eszett, sharp s after a long vowel: Straße, Fußball). Caption: Peter's Sound-Spelling Board: how to shape the umlauts ä, ö, ü — and recognize ß.
 
-In a **diphthong**, your voice glides from one vowel to the next in one syllable. Watch **ei** (*eye*) versus **ie** (long *ee*): *Wein* (*wine*) and *Wien* (*Vienna*) sound completely different!
+### Diphthongs: Two Vowels Blending into One Sound
+
+In a **diphthong** (a two-vowel glide), your voice smoothly slides from one vowel to the next in one syllable. Watch **ei** (*eye*) versus **ie** (long *ee*): *Wein* (*wine*) and *Wien* (*Vienna*) sound completely different!
 
 Diphthongs and ie compared:
 - Spelling | Sound | Examples
@@ -68,7 +66,9 @@ The **second** letter gives the English letter name: **ei** → English *I* (*ey
 
 ### Practice: Spotting Umlauts and Diphthongs
 
-- Exercise `umlaut-lippen` (below)
+- Exercise `ei-ie-regeln` (below)
+
+- Exercise `diphthong-klang-zuordnen` (below)
 
 - Exercise `diphthong-schreiben` (below)
 
@@ -81,12 +81,28 @@ The **second** letter gives the English letter name: **ei** → English *I* (*ey
   - ✗ Exactly like plain *u* in *Schule* – Then *fünf* sounds like *funf* — *u* is in the back of the mouth, *ü* is in the front.
   - ✗ Like a short *a* with relaxed lips – For **ü**, your lips must be clearly rounded.
 - Solution: Tongue as for *ee*, lips tightly rounded as for *oo*
-- Explanation: All umlauts are articulated at the front: **ö** combines *eh* + rounded lips, **ü** combines *ee* + rounded lips.
+- Explanation: All umlauts are made at the front of your mouth: **ö** combines *eh* + rounded lips, **ü** combines *ee* + rounded lips.
 - Link: [../?via=tutor#umlaut-lippen](../?via=tutor#umlaut-lippen)
+
+### Exercise ei-ie-regeln
+
+- Task: The spellings **eu** (in *neu*) and **äu** (in *Häuser*) sound exactly the same in German — like English *oy* in *boy*.
+- Answer format: choose “true” or “false”
+- Solution: The statement is true.
+- Explanation: True! Both sound like *oy* (*neu, Deutsch, Häuser*). German uses **äu** when the word comes from an *au* word (*Haus → Häuser*).
+- Link: [../?via=tutor#ei-ie-regeln](../?via=tutor#ei-ie-regeln)
+
+### Exercise diphthong-klang-zuordnen
+
+- Task: Match each word from Peter's day in Lindenberg to its vowel sound.
+- Answer format: match each item on the left with one on the right
+- Solution: Mai – like English eye (ai / ei); Wien – long ee as in see (ie); Freund – like English oy in boy (eu / äu); Braun – like English ow in house (au)
+- Explanation: With these four sound groups (*ei/ai, ie, eu/äu, au*), you can read German vowel pairs aloud accurately at a glance.
+- Link: [../?via=tutor#diphthong-klang-zuordnen](../?via=tutor#diphthong-klang-zuordnen)
 
 ### Exercise diphthong-schreiben
 
-- Task: Choose the matching vowel spelling (ei, ie, eu, äu, or au) for Peter's Lindenberg notes.
+- Task: Choose the matching vowel spelling (ei, ie, eu, äu, or au) for Peter's Year 6 notes.
 - Answer format: choose a word for each gap
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):

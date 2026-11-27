@@ -41,15 +41,15 @@ If the address of this page names `bedarf=`, each section it names holds, severa
 
 Pronounce the German alphabet clearly and spell out names and addresses reliably.
 
-### Peter's First Day at the Lindenberg Citizens' Office
+### Peter's New School Library Card
 
-While registering at the Lindenberg Bürgeramt, the clerk asks: *'Wie schreibt man Ihren Nachnamen?'* Peter opens the **Sound-Spelling Board** from Herr Braun's class: several German letter names sound quite different from English.
+In his first week of Year 6 in Lindenberg, Peter gets his school library card. The librarian asks kindly: *'Wie schreibt man deinen Namen und deine Straße?'* Peter checks the **Sound-Spelling Board** from Herr Braun's class: several German letter names sound quite different from English.
 
 - Exercise `buchstaben-e-i` (below)
 
 ### Sound-Spelling Board: Tricky Letters in the Alphabet
 
-The German alphabet has 26 basic letters plus **ä, ö, ü**, and **ß** (*Eszett*). Peter's board highlights the letters English speakers mix up most easily:
+The German alphabet has 26 basic letters plus **ä, ö, ü**, and **ß** (*Eszett*, a sharp *s*). Peter's board highlights the letters English speakers mix up most easily:
 
 Key German letter names:
 - Letter | Name / Sound | Lindenberg example
@@ -65,11 +65,13 @@ On the phone, people often add a keyword: **W wie Weber**, **B wie Berlin**, **S
 
 - Exercise `buchstaben-zuordnen` (below)
 
-- Exercise `strasse-buchstabieren` (below)
+- Exercise `alphabet-regeln-check` (below)
+
+- Exercise `adresse-buchstabieren` (below)
 
 ### Exercise buchstaben-e-i
 
-- Task: Peter spells **Weber**: *W – E – B – E – R*. How does the letter **E** sound in the German alphabet?
+- Task: Peter spells the family name **Weber**: *W – E – B – E – R*. How does the letter **E** sound in the German alphabet?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ like a long *eh* (as in *say*, without the glide) – Exactly! German **E** sounds like *eh*, not like English *ee*.
@@ -87,14 +89,26 @@ On the phone, people often add a keyword: **W wie Weber**, **B wie Berlin**, **S
 - Explanation: Keeping V (*fow*), W (*veh*), J (*yott*), and Z (*tsett*) distinct helps you catch German names and addresses on the first try.
 - Link: [../?via=tutor#buchstaben-zuordnen](../?via=tutor#buchstaben-zuordnen)
 
-### Exercise strasse-buchstabieren
+### Exercise alphabet-regeln-check
 
-- Task: Frau Weber spells her street name: *W – A – L – D – W – E – G* (*weh – ah – ell – deh – weh – eh – geh*). Which word does Peter write down?
-- Answer format: choose one answer
-- Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ Waldweg – Correct! *veh* is **W**, *ah* is **A**, and *eh* is **E**.
-  - ✗ Valdvig – In German, *veh* is **W** (not V) and *eh* is **E** (not I).
-  - ✗ Woldwag – *ah* stands for **A**, not O; *eh* stands for **E**.
-- Solution: Waldweg
-- Explanation: Using the German letter names (*W = veh, A = ah, E = eh*) lets you write down addresses like *Waldweg* accurately.
-- Link: [../?via=tutor#strasse-buchstabieren](../?via=tutor#strasse-buchstabieren)
+- Task: The German letter **V** is called *veh* when spelling aloud and sounds like English *v*.
+- Answer format: choose “true” or “false”
+- Solution: The statement is false.
+- Explanation: False! **V** is called *fow* (usually sounds like *f* in German words), while **W** is called *veh* and sounds like English *v*.
+- Link: [../?via=tutor#alphabet-regeln-check](../?via=tutor#alphabet-regeln-check)
+
+### Exercise adresse-buchstabieren
+
+- Task: Type the words Lukas spells out to Peter over the phone using German letter names.
+- Answer format: fill in the gaps in German
+- How the app counts mistakes of form: capital letters right with a hint, accents wrong, hyphen wrong, apostrophe wrong, punctuation ignored
+- Items (start → solution):
+1. veh – ah – ell – deh – veh – eh – geh (street name) → Waldweg
+     - Valdvig: *veh* is **W** (not V), and *eh* is **E** (not I).
+2. tsett – oo – geh (train) → Zug
+     - Tsug: The *ts* sound at the start of a word is spelled **Z** (*tsett*).
+3. yott – ah – enn – oo – ah – er (January) → Januar
+     - Yanuar: The letter *yott* is **J**, not Y.
+- Explanation: Using German letter names (*W = veh, Z = tsett, J = yott, E = eh*) lets you write down names and addresses accurately.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#adresse-buchstabieren](../?via=tutor#adresse-buchstabieren)

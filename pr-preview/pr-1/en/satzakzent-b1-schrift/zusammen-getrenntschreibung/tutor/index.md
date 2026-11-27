@@ -20,11 +20,11 @@ Parents and teachers see here what the tutor gets. [To the page](../)
 
 ## Where the child is
 
-- The child's first message names this page and, for each exercise, the number of the task the child has in front of it, e.g. `?uebung=nominalisierung-gross`. Look the numbers up below with the exercises. If the child comes with “Help”, `uebung=` names the exercise and `abschnitt=` its section.
+- The child's first message names this page and, for each exercise, the number of the task the child has in front of it, e.g. `?uebung=kompositum-richtig`. Look the numbers up below with the exercises. If the child comes with “Help”, `uebung=` names the exercise and `abschnitt=` its section.
 - If the message says “The app says: …”, the app showed that for the child's input. Build on it without repeating it.
 - A line like “…, no. 16: right on try 2.” comes from “Back” in the app: the exercise, the number and how far the child got with it.
 - “I practised on …:” comes from “Back to the tutor”: this page with the numbers, then for each task practised how it went, a wrong one with the input and the app's message. Start with the wrong ones, one after the other.
-- Every task has a link: the address of the page, that is of this tutor page without `tutor/` and without `?…`, with the number and `via=tutor`, e.g. `…/satzakzent-b1-schrift/zusammen-getrenntschreibung/?via=tutor#nominalisierung-gross`. Always send it as a full address, with the scheme and host of this tutor page (e.g. `https://`). For a further task take another number of the exercise and say its text. Add: “Solve it in the app, then press ‘Back’. Paste the line here.”
+- Every task has a link: the address of the page, that is of this tutor page without `tutor/` and without `?…`, with the number and `via=tutor`, e.g. `…/satzakzent-b1-schrift/zusammen-getrenntschreibung/?via=tutor#kompositum-richtig`. Always send it as a full address, with the scheme and host of this tutor page (e.g. `https://`). For a further task take another number of the exercise and say its text. Add: “Solve it in the app, then press ‘Back’. Paste the line here.”
 
 ## Special requirements
 
@@ -43,11 +43,15 @@ Write German compound nouns as single words and capitalize nominalized verbs and
 
 ### Final Polish for the Blog: No Gaps in Compound Nouns!
 
-In English, compound nouns are often written with spaces (*language course, bike path*). In German, you write them **as one single word** (*Sprachkurs, Fahrradweg*) — and whenever a verb or adjective is used as a noun, it earns a capital letter on Peter's **Sound-Spelling Board**!
+In English, compound nouns are often written with spaces (*school blog, bike path*). In German, you write them **as one single word** (*Schulblog, Fahrradweg*) — and whenever a verb or adjective is used as a noun, it earns a capital letter on Peter's **Sound-Spelling Board**!
+
+- Exercise `kompositum-richtig` (below)
+
+### Compounds and Nominalizations at a Glance
 
 Compounds and nominalizations at a glance:
 - Area | Rule & signal words | Examples
-- **Compound nouns** | always **one word** (hyphen only with abbreviations/digits) | Deutschkurs, Schulblog, Sommerferien, **B1-Prüfung**
+- **Compound nouns** | always **one word** (hyphen only with abbreviations/digits) | Sportverein, Schulblog, Sommerferien, **B1-Prüfung**
 - **Nominalized verbs** | capitalized after an article or preposition (*das, beim, zum, vom*) | **das Lesen**, **beim Lernen**, **zum Schwimmen**
 - **Nominalized adjectives** | capitalized after *etwas, nichts, alles, viel, wenig* | etwas **Gutes**, alles **Liebe**, nichts **Neues**
 
@@ -59,20 +63,9 @@ While compound nouns are written as one word (*das Fahrradfahren*), verb phrases
 
 - Exercise `nominalisierung-gross` (below)
 
-- Exercise `kompositum-richtig` (below)
+- Exercise `zusammen-getrennt-zuordnen` (below)
 
-### Exercise nominalisierung-gross
-
-- Task: Choose the right spelling for Peter's final post on the Lindenberg school blog.
-- Answer format: choose a word for each gap
-- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
-- Items (start → solution):
-1. I wish you all the best! → Ich wünsche euch alles Gute!
-2. While reading, I learn new words. → Beim Lesen lerne ich viele neue Wörter.
-3. Did anything exciting happen at the language course? → Ist im Sprachkurs etwas Spannendes passiert?
-- Explanation: After *alles, etwas*, and *beim*, adjectives and verbs turn into nouns (*alles Gute, beim Lesen, etwas Spannendes*). Before a noun (*viele neue Wörter*), an adjective stays lowercase. Compound nouns like *Sprachkurs* are always one word.
-- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
-- Link: [../?via=tutor#nominalisierung-gross](../?via=tutor#nominalisierung-gross)
+- Exercise `nominalisierung-tippen` (below)
 
 ### Exercise kompositum-richtig
 
@@ -85,3 +78,40 @@ While compound nouns are written as one word (*das Fahrradfahren*), verb phrases
 - Solution: Peter bereitet sich auf die B1-Prüfung im Jugendzentrum vor.
 - Explanation: Compound nouns are written as a single word with no spaces — only single letters, abbreviations, or digits (*B1-Prüfung, E-Mail*) take a hyphen.
 - Link: [../?via=tutor#kompositum-richtig](../?via=tutor#kompositum-richtig)
+
+### Exercise nominalisierung-gross
+
+- Task: Choose the right spelling for Peter's final post on the Lindenberg school blog.
+- Answer format: choose a word for each gap
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
+- Items (start → solution):
+1. I wish you all the best! → Ich wünsche euch alles Gute!
+2. While reading, I learn new words. → Beim Lesen lerne ich viele neue Wörter.
+3. Did anything exciting happen at the youth center? → Ist im Jugendzentrum etwas Spannendes passiert?
+- Explanation: After *alles, etwas*, and *beim*, adjectives and verbs turn into nouns (*alles Gute, beim Lesen, etwas Spannendes*). Before a noun (*viele neue Wörter*), an adjective stays lowercase. Compound nouns like *Jugendzentrum* are always one word.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#nominalisierung-gross](../?via=tutor#nominalisierung-gross)
+
+### Exercise zusammen-getrennt-zuordnen
+
+- Task: Match each expression to its spelling rule on Peter's board.
+- Answer format: match each item on the left with one on the right
+- Solution: Sommerferien – compound noun → one word, no spaces; E-Mail – single letter + noun → with hyphen; beim Lernen – nominalized verb after beim → capitalized; Fußball spielen – noun + verb in infinitive → separate
+- Explanation: Compound nouns together (*Sommerferien*), single letters/digits hyphenated (*E-Mail*), nominalized verbs capitalized (*beim Lernen*), and verb phrases separate (*Fußball spielen*).
+- Link: [../?via=tutor#zusammen-getrennt-zuordnen](../?via=tutor#zusammen-getrennt-zuordnen)
+
+### Exercise nominalisierung-tippen
+
+- Task: Type the missing words with the exact right capitalization.
+- Answer format: fill in the gaps in German
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation ignored
+- Items (start → solution):
+1. There is nothing new (Neues) in the blog. → Im Blog gibt es nichts Neues.
+     - neues: After the signal word *nichts*, the adjective is capitalized: *nichts Neues*.
+2. While writing (Schreiben), Nadia checks the commas. → Beim Schreiben prüft Nadia die Kommas.
+     - schreiben: After *beim* (= *bei dem*), the verb becomes a noun: *beim Schreiben*.
+3. Peter buys a new (neues) notebook. → Peter kauft ein neues Heft.
+     - Neues: Here *neues* is a regular adjective right before the noun *Heft* — so keep it lowercase!
+- Explanation: Signal words like *nichts, etwas, alles*, and *beim* capitalize adjectives/verbs (*nichts Neues, beim Schreiben*); before a noun, the adjective stays lowercase (*ein neues Heft*).
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#nominalisierung-tippen](../?via=tutor#nominalisierung-tippen)

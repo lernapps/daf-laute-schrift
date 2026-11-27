@@ -20,11 +20,11 @@ Parents and teachers see here what the tutor gets. [To the page](../)
 
 ## Where the child is
 
-- The child's first message names this page and, for each exercise, the number of the task the child has in front of it, e.g. `?uebung=betonte-praefixe-finden`. Look the numbers up below with the exercises. If the child comes with “Help”, `uebung=` names the exercise and `abschnitt=` its section.
+- The child's first message names this page and, for each exercise, the number of the task the child has in front of it, e.g. `?uebung=uebersetzen-akzent`. Look the numbers up below with the exercises. If the child comes with “Help”, `uebung=` names the exercise and `abschnitt=` its section.
 - If the message says “The app says: …”, the app showed that for the child's input. Build on it without repeating it.
 - A line like “…, no. 16: right on try 2.” comes from “Back” in the app: the exercise, the number and how far the child got with it.
 - “I practised on …:” comes from “Back to the tutor”: this page with the numbers, then for each task practised how it went, a wrong one with the input and the app's message. Start with the wrong ones, one after the other.
-- Every task has a link: the address of the page, that is of this tutor page without `tutor/` and without `?…`, with the number and `via=tutor`, e.g. `…/auslaut-praefix-ss/akzent-praefixverben/?via=tutor#betonte-praefixe-finden`. Always send it as a full address, with the scheme and host of this tutor page (e.g. `https://`). For a further task take another number of the exercise and say its text. Add: “Solve it in the app, then press ‘Back’. Paste the line here.”
+- Every task has a link: the address of the page, that is of this tutor page without `tutor/` and without `?…`, with the number and `via=tutor`, e.g. `…/auslaut-praefix-ss/akzent-praefixverben/?via=tutor#uebersetzen-akzent`. Always send it as a full address, with the scheme and host of this tutor page (e.g. `https://`). For a further task take another number of the exercise and say its text. Add: “Solve it in the app, then press ‘Back’. Paste the line here.”
 
 ## Special requirements
 
@@ -45,6 +45,12 @@ Stress separable verb prefixes (aufstehen, einkaufen) clearly and leave insepara
 
 Peter writes two verbs from Herr Braun's class side by side on the **Sound-Spelling Board**: **AUF**stehen (*get up*) and ver**STEH**en (*understand*). In German, pronunciation and grammar are directly linked here: **if the prefix is stressed, the verb is separable!**
 
+- Exercise `uebersetzen-akzent` (below)
+
+Picture: Peter's Sound-Spelling Board on verb-prefix stress: separable verbs stress the prefix (AUF-stehen, AN-rufen), while inseparable verbs stress the stem (ver-STEH-en, er-ZÄH-len). Caption: Peter's Sound-Spelling Board: stressed prefix = separable, stressed stem = inseparable.
+
+### Separable vs. Inseparable Verb Prefixes
+
 Separable vs. inseparable verb prefixes:
 - Prefix type | Where is the stress? | Common prefixes & examples
 - **Separable** | always on the **prefix** | *ab-, an-, auf-, aus-, ein-, mit-, vor-, zu-*: **AUF**stehen, **EIN**kaufen, **AN**rufen
@@ -58,7 +64,20 @@ A few prefixes (*durch-, über-, um-, unter-*) even change meaning with stress: 
 
 - Exercise `betonte-praefixe-finden` (below)
 
-- Exercise `uebersetzen-akzent` (below)
+- Exercise `praefix-typ-zuordnen` (below)
+
+- Exercise `praefix-satz-wahl` (below)
+
+### Exercise uebersetzen-akzent
+
+- Task: Nadia helps Peter **übersetzen** (*translate*) a sentence into German. Which syllable is stressed?
+- Answer format: choose one answer
+- Choices (✓ right, ✗ wrong, with the app's message):
+  - ✓ über-**SETZ**-en (on the stem — inseparable) – Correct! *übersetzen* meaning *to translate* is inseparable: *Nadia übersetzt den Satz.*
+  - ✗ **Ü**-ber-setzen (on the prefix — separable) – With stressed *Ü-ber-*, it means *to ferry across a river*, not *to translate*.
+- Solution: über-**SETZ**-en (on the stem — inseparable)
+- Explanation: Hearing whether the prefix is stressed tells you right away whether the verb splits in a main clause.
+- Link: [../?via=tutor#uebersetzen-akzent](../?via=tutor#uebersetzen-akzent)
 
 ### Exercise betonte-praefixe-finden
 
@@ -73,13 +92,23 @@ A few prefixes (*durch-, über-, um-, unter-*) even change meaning with stress: 
 - Explanation: The eight inseparable prefixes (*be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*) never take main stress; prefixes like *ein-, auf-, an-, mit-* are always stressed.
 - Link: [../?via=tutor#betonte-praefixe-finden](../?via=tutor#betonte-praefixe-finden)
 
-### Exercise uebersetzen-akzent
+### Exercise praefix-typ-zuordnen
 
-- Task: Nadia helps Peter **übersetzen** (*translate*) a sentence into German. Which syllable is stressed?
-- Answer format: choose one answer
-- Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ über-**SETZ**-en (on the stem — inseparable) – Correct! *übersetzen* meaning *to translate* is inseparable: *Nadia übersetzt den Satz.*
-  - ✗ **Ü**-ber-setzen (on the prefix — separable) – With stressed *Ü-ber-*, it means *to ferry across a river*, not *to translate*.
-- Solution: über-**SETZ**-en (on the stem — inseparable)
-- Explanation: Hearing whether the prefix is stressed tells you right away whether the verb splits in a main clause.
-- Link: [../?via=tutor#uebersetzen-akzent](../?via=tutor#uebersetzen-akzent)
+- Task: Match each verb to its stress and grammar pattern.
+- Answer format: match each item on the left with one on the right
+- Solution: aufmachen – AUF-machen (prefix stressed, separable); bekommen – be-KOM-men (stem stressed, inseparable); vorlesen – VOR-lesen (prefix stressed, separable); vergessen – ver-GES-sen (stem stressed, inseparable)
+- Explanation: Prefixes like *auf-, vor-* are stressed and separable; *be-, ver-* are always unstressed and inseparable.
+- Link: [../?via=tutor#praefix-typ-zuordnen](../?via=tutor#praefix-typ-zuordnen)
+
+### Exercise praefix-satz-wahl
+
+- Task: Choose the right verb form in the main clause: does the verb split or stay together?
+- Answer format: choose a word for each gap
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
+- Items (start → solution):
+1. Peter gets up early (AUF-stehen). → Peter steht früh auf.
+2. Nadia understands the question (ver-STEH-en). → Nadia versteht die Frage.
+3. Lukas calls Peter (AN-rufen). → Lukas ruft Peter an.
+- Explanation: Stressed prefix → separable (*steht … auf, ruft … an*); unstressed prefix → inseparable (*versteht*).
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#praefix-satz-wahl](../?via=tutor#praefix-satz-wahl)

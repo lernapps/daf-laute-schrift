@@ -20,11 +20,11 @@ Eltern und Lehrkräfte sehen hier, was der Tutor bekommt. [Zur Seite](../)
 
 ## Wo das Kind gerade ist
 
-- Die erste Nachricht des Kindes nennt diese Seite und je Aufgabe die Nummer, die das Kind gerade vor sich hat, z. B. `?uebung=nominalisierung-gross`. Schlag die Nummern unten bei den Aufgaben nach. Kommt das Kind mit „Hilfe“, nennt `uebung=` die Aufgabe und `abschnitt=` ihren Abschnitt.
+- Die erste Nachricht des Kindes nennt diese Seite und je Aufgabe die Nummer, die das Kind gerade vor sich hat, z. B. `?uebung=kompositum-richtig`. Schlag die Nummern unten bei den Aufgaben nach. Kommt das Kind mit „Hilfe“, nennt `uebung=` die Aufgabe und `abschnitt=` ihren Abschnitt.
 - Steht in der Nachricht „Die App sagt: …“, hat die App das zur Eingabe des Kindes gemeldet. Setz dort an, ohne es zu wiederholen.
 - Eine Zeile wie „…, Nr. 16: richtig im 2. Versuch.“ kommt von „Zurück“ in der App: Aufgabe, Nummer und wie weit das Kind damit kam.
 - „Ich habe auf … geübt:“ kommt von „Zurück zum Tutor“: diese Seite mit den Nummern, dann je geübter Aufgabe, wie es lief, bei einer falschen mit Eingabe und Meldung der App. Setz bei den falschen an, eine nach der anderen.
-- Jede Nummer hat einen Link: die Adresse der Seite, also dieser Tutor-Seite ohne `tutor/` und ohne `?…`, mit der Nummer und `via=tutor`, z. B. `…/satzakzent-b1-schrift/zusammen-getrenntschreibung/?via=tutor#nominalisierung-gross`. Schick ihn immer als volle Adresse, mit Schema und Host dieser Tutor-Seite (z. B. `https://`). Zum Weiterüben nimm eine andere Nummer der Aufgabe und nenn ihren Text. Sag dazu: „Löse sie in der App und drück dann ‚Zurück‘. Füg die Zeile hier ein.“
+- Jede Nummer hat einen Link: die Adresse der Seite, also dieser Tutor-Seite ohne `tutor/` und ohne `?…`, mit der Nummer und `via=tutor`, z. B. `…/satzakzent-b1-schrift/zusammen-getrenntschreibung/?via=tutor#kompositum-richtig`. Schick ihn immer als volle Adresse, mit Schema und Host dieser Tutor-Seite (z. B. `https://`). Zum Weiterüben nimm eine andere Nummer der Aufgabe und nenn ihren Text. Sag dazu: „Löse sie in der App und drück dann ‚Zurück‘. Füg die Zeile hier ein.“
 
 ## Besondere Anforderungen
 
@@ -43,11 +43,15 @@ Zusammengesetzte deutsche Nomen richtig zusammenschreiben und nominalisierte Ver
 
 ### Letzter Schliff für den Blog: Keine Lücken in Komposita!
 
-Im Englischen stehen zusammengesetzte Begriffe oft getrennt (*language course, bike path*). Im Deutschen schreibt man sie **als ein einziges Wort** (*Sprachkurs, Fahrradweg*) – und wenn ein Verb oder Adjektiv wie ein Nomen gebraucht wird, trägt es auf Peters **Laut-Schrift-Tafel** ein großes Signal!
+Im Englischen stehen zusammengesetzte Begriffe oft getrennt (*school blog, bike path*). Im Deutschen schreibt man sie **als ein einziges Wort** (*Schulblog, Fahrradweg*) – und wenn ein Verb oder Adjektiv wie ein Nomen gebraucht wird, trägt es auf Peters **Laut-Schrift-Tafel** ein großes Signal!
+
+- Aufgabe `kompositum-richtig` (unten)
+
+### Zusammenschreibung und Nominalisierung auf einen Blick
 
 Zusammenschreibung und Nominalisierung auf einen Blick:
 - Bereich | Regel & Signalwörter | Beispiele
-- **Nomen-Komposita** | immer **zusammen** (Bindestrich nur bei Abkürzungen/Ziffern) | Deutschkurs, Schulblog, Sommerferien, **B1-Prüfung**
+- **Nomen-Komposita** | immer **zusammen** (Bindestrich nur bei Abkürzungen/Ziffern) | Sportverein, Schulblog, Sommerferien, **B1-Prüfung**
 - **Nominalisierte Verben** | groß nach Artikel oder Präposition (*das, beim, zum, vom*) | **das Lesen**, **beim Lernen**, **zum Schwimmen**
 - **Nominalisierte Adjektive** | groß nach *etwas, nichts, alles, viel, wenig* | etwas **Gutes**, alles **Liebe**, nichts **Neues**
 
@@ -59,20 +63,9 @@ Während Nomen-Komposita zusammengeschrieben werden (*das Fahrradfahren*), bleib
 
 - Aufgabe `nominalisierung-gross` (unten)
 
-- Aufgabe `kompositum-richtig` (unten)
+- Aufgabe `zusammen-getrennt-zuordnen` (unten)
 
-### Aufgabe nominalisierung-gross
-
-- Aufgabe: Wähle die richtige Schreibweise für Peters Abschlussbeitrag im Lindenberger Schulblog.
-- Antwortformat: für jede Lücke ein Wort wählen
-- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
-- Einträge (Vorgabe → Lösung):
-1. I wish you all the best! → Ich wünsche euch alles Gute!
-2. While reading, I learn new words. → Beim Lesen lerne ich viele neue Wörter.
-3. Did anything exciting happen at the language course? → Ist im Sprachkurs etwas Spannendes passiert?
-- Erklärung: Nach *alles, etwas* und *beim* werden Adjektive und Verben zu Nomen (*alles Gute, beim Lesen, etwas Spannendes*). Steht ein Adjektiv aber vor einem Nomen (*viele neue Wörter*), bleibt es klein. Komposita wie *Sprachkurs* schreibt man zusammen.
-- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
-- Link: [../?via=tutor#nominalisierung-gross](../?via=tutor#nominalisierung-gross)
+- Aufgabe `nominalisierung-tippen` (unten)
 
 ### Aufgabe kompositum-richtig
 
@@ -85,3 +78,40 @@ Während Nomen-Komposita zusammengeschrieben werden (*das Fahrradfahren*), bleib
 - Lösung: Peter bereitet sich auf die B1-Prüfung im Jugendzentrum vor.
 - Erklärung: Zusammengesetzte Nomen stehen ohne Leerzeichen als ein Wort – nur bei einzelnen Buchstaben, Abkürzungen oder Ziffern (*B1-Prüfung, E-Mail*) steht ein Bindestrich.
 - Link: [../?via=tutor#kompositum-richtig](../?via=tutor#kompositum-richtig)
+
+### Aufgabe nominalisierung-gross
+
+- Aufgabe: Wähle die richtige Schreibweise für Peters Abschlussbeitrag im Lindenberger Schulblog.
+- Antwortformat: für jede Lücke ein Wort wählen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
+- Einträge (Vorgabe → Lösung):
+1. I wish you all the best! → Ich wünsche euch alles Gute!
+2. While reading, I learn new words. → Beim Lesen lerne ich viele neue Wörter.
+3. Did anything exciting happen at the youth center? → Ist im Jugendzentrum etwas Spannendes passiert?
+- Erklärung: Nach *alles, etwas* und *beim* werden Adjektive und Verben zu Nomen (*alles Gute, beim Lesen, etwas Spannendes*). Steht ein Adjektiv aber vor einem Nomen (*viele neue Wörter*), bleibt es klein. Komposita wie *Jugendzentrum* schreibt man zusammen.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#nominalisierung-gross](../?via=tutor#nominalisierung-gross)
+
+### Aufgabe zusammen-getrennt-zuordnen
+
+- Aufgabe: Ordne jeden Ausdruck der passenden Rechtschreibregel auf Peters Tafel zu.
+- Antwortformat: jedem Eintrag links den passenden rechts zuordnen
+- Lösung: Sommerferien – Nomen-Kompositum → ein Wort ohne Leerzeichen; E-Mail – Einzelbuchstabe + Nomen → mit Bindestrich; beim Lernen – nominalisiertes Verb nach beim → groß; Fußball spielen – Nomen + Verb im Infinitiv → getrennt
+- Erklärung: Nomen-Komposita zusammen (*Sommerferien*), Einzelbuchstaben/Ziffern mit Bindestrich (*E-Mail*), nominalisierte Verben groß (*beim Lernen*) und Verbverbindungen getrennt (*Fußball spielen*).
+- Link: [../?via=tutor#zusammen-getrennt-zuordnen](../?via=tutor#zusammen-getrennt-zuordnen)
+
+### Aufgabe nominalisierung-tippen
+
+- Aufgabe: Tippe die fehlenden Wörter mit der genauen Groß- oder Kleinschreibung ein.
+- Antwortformat: die Lücken auf Deutsch füllen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen egal
+- Einträge (Vorgabe → Lösung):
+1. There is nothing new (Neues) in the blog. → Im Blog gibt es nichts Neues.
+     - neues: Nach dem Signalwort *nichts* wird das Adjektiv großgeschrieben: *nichts Neues*.
+2. While writing (Schreiben), Nadia checks the commas. → Beim Schreiben prüft Nadia die Kommas.
+     - schreiben: Nach *beim* (= *bei dem*) wird das Verb zu einem Nomen: *beim Schreiben*.
+3. Peter buys a new (neues) notebook. → Peter kauft ein neues Heft.
+     - Neues: Hier steht *neues* als normales Adjektiv direkt vor dem Nomen *Heft* – also klein!
+- Erklärung: Signalwörter wie *nichts, etwas, alles* und *beim* machen Adjektive/Verben groß (*nichts Neues, beim Schreiben*); vor einem Nomen bleibt das Adjektiv klein (*ein neues Heft*).
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#nominalisierung-tippen](../?via=tutor#nominalisierung-tippen)

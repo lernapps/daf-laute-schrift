@@ -45,6 +45,10 @@ Pronounce and stress common international loanwords in German (-tion, -ie, -iere
 
 For the school blog, Peter writes about *Information, Musik, fotografieren*, and *Universität*. The words look almost like English — yet on Peter's **Sound-Spelling Board**, a different rule applies: **in loanwords, German stress almost always moves to the end!**
 
+- Exercise `tion-aussprache` (below)
+
+### Common Loanword Endings in German
+
 Common loanword endings in German:
 - Ending | Stress & sound | Examples
 - **-tion** | stressed **-TSYOHN** (never English *-shun*) | In-for-ma-**TION**, Sta-**TION**, Na-**TION**
@@ -58,9 +62,11 @@ Almost all *-ik* words stress the last syllable (*Mu**SIK**, Ma-the-ma-**TIK**, 
 
 ### Practice: Stressing Loanwords Accurately
 
-- Exercise `tion-aussprache` (below)
-
 - Exercise `fremdwoerter-akzent-sortieren` (below)
+
+- Exercise `fremdwoerter-regeln-check` (below)
+
+- Exercise `fremdwoerter-endungen` (below)
 
 ### Exercise tion-aussprache
 
@@ -81,3 +87,25 @@ Almost all *-ik* words stress the last syllable (*Mu**SIK**, Ma-the-ma-**TIK**, 
 - Solution: organisieren – or-ga-ni-**SIE**-ren; Universität – U-ni-ver-si-**TÄT**; Fotografie – Fo-to-gra-**FIE**; Mathematik – Ma-the-ma-**TIK**
 - Explanation: Mastering these four endings (**-ieren, -tät, -ie, -ik**) lets you stress hundreds of international German words right on the first try.
 - Link: [../?via=tutor#fremdwoerter-akzent-sortieren](../?via=tutor#fremdwoerter-akzent-sortieren)
+
+### Exercise fremdwoerter-regeln-check
+
+- Task: In the loanwords *Technik* and *Plastik*, main stress falls on the final syllable just like in *Musik*.
+- Answer format: choose “true” or “false”
+- Solution: The statement is false.
+- Explanation: False! *TECH-nik* and *PLAS-tik* are key exceptions among *-ik* words: they carry main stress on the first syllable.
+- Link: [../?via=tutor#fremdwoerter-regeln-check](../?via=tutor#fremdwoerter-regeln-check)
+
+### Exercise fremdwoerter-endungen
+
+- Task: Choose the right German loanword ending for Peter's school blog.
+- Answer format: choose a word for each gap
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
+- Items (start → solution):
+1. to photograph (stressed on -IE-) → fotografieren
+2. quality (stressed on -TÄT) → Qualität
+3. station (stressed -TSIOHN) → Station
+4. energy (stressed -GIE) → Energie
+- Explanation: In German, these international words carry consistent endings: **-ieren, -tät, -tion, -ie**.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#fremdwoerter-endungen](../?via=tutor#fremdwoerter-endungen)

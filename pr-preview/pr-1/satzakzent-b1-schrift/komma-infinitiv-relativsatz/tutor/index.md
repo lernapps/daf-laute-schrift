@@ -45,9 +45,15 @@ Relativsätze (auch eingeschoben mit zwei Kommas) und Infinitivsätze mit um/ohn
 
 Peter schreibt einen Artikel für den Schulblog. Auf B1-Niveau werden seine Sätze komplexer: Er beschreibt Personen mit **Relativsätzen** und nennt Ziele mit **um … zu**. Auf der **Laut-Schrift-Tafel** kommen jetzt die B1-Kommaregeln hinzu!
 
+- Aufgabe `eingeschobener-relativsatz` (unten)
+
+Bild: Peters Laut-Schrift-Tafel für B1-Kommas: Eingeschobene Relativsätze mit zwei Kommas (Der Lehrer, der uns hilft, heißt Herr Braun.), Infinitivsätze mit um/ohne/statt zu (Peter übt täglich, um klarer zu sprechen.) und nach Nomen wie Lust (Er hat Lust, einen Blog zu schreiben.). Bildunterschrift: Peters Laut-Schrift-Tafel: Die drei wichtigsten B1-Kommasignale auf einen Blick.
+
+### B1-Kommaregeln für Relativ- und Infinitivsätze
+
 B1-Kommaregeln für Relativ- und Infinitivsätze:
 - Satztyp | Kommaregel | Beispiel
-- **Relativsatz** am Ende | immer ein Komma **davor** | Das ist der Kurs**,** den Peter besucht.
+- **Relativsatz** am Ende | immer ein Komma **davor** | Das ist der Blog**,** den Peter schreibt.
 - **Eingeschobener** Relativsatz | **zwei** Kommas (wie eine Klammer) | Der Lehrer**,** der uns hilft**,** heißt Herr Braun.
 - **um / ohne / (an)statt … zu** | Komma ist **immer Pflicht** | Peter übt täglich**,** um klarer zu sprechen.
 - Infinitiv mit **zu** nach Nomen/Hinweiswort | Komma ist **Pflicht** (z. B. *Zeit, Lust, es*) | Er hat Lust**,** einen Artikel zu schreiben.
@@ -58,9 +64,11 @@ Vergiss bei einem eingeschobenen Relativsatz nie das **zweite Komma** direkt nac
 
 ### Übung: Komma-Check im Schulblog
 
-- Aufgabe `eingeschobener-relativsatz` (unten)
-
 - Aufgabe `infinitiv-komma-pflicht` (unten)
+
+- Aufgabe `b1-komma-regeln-check` (unten)
+
+- Aufgabe `b1-komma-setzen` (unten)
 
 ### Aufgabe eingeschobener-relativsatz
 
@@ -86,3 +94,24 @@ Vergiss bei einem eingeschobenen Relativsatz nie das **zweite Komma** direkt nac
 - Lösung: Peter geht in die Bibliothek [ ] um in Ruhe zu lernen.; Lukas ging los [ ] ohne seine Jacke mitzunehmen.; Mina hat keine Zeit [ ] heute länger zu bleiben.
 - Erklärung: Ein Komma steht immer bei **um / ohne / (an)statt … zu** sowie bei Infinitivgruppen, die von einem Nomen (*Zeit, Lust, Plan*) oder einem Hinweiswort (*es, daran*) abhängen.
 - Link: [../?via=tutor#infinitiv-komma-pflicht](../?via=tutor#infinitiv-komma-pflicht)
+
+### Aufgabe b1-komma-regeln-check
+
+- Aufgabe: Setze den Satz mit eingeschobenem Relativsatz und beiden Kommas richtig zusammen.
+- Antwortformat: die Einträge in die richtige Reihenfolge bringen (die App zeigt sie gemischt)
+- Lösung: 1. Das Fahrrad,, 2. das im Hof steht,, 3. gehört, 4. Lukas.
+- Erklärung: Der eingeschobene Relativsatz *das im Hof steht* wird links und rechts von zwei Kommas eingerahmt.
+- Link: [../?via=tutor#b1-komma-regeln-check](../?via=tutor#b1-komma-regeln-check)
+
+### Aufgabe b1-komma-setzen
+
+- Aufgabe: Setze die richtigen Kommas in Peters Sätze für den Schulblog.
+- Antwortformat: für jede Lücke ein Wort wählen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
+- Einträge (Vorgabe → Lösung):
+1. The book that I am reading is exciting. → Das Buch, das ich lese, ist spannend.
+2. Lukas runs to catch the bus. → Lukas rennt, um den Bus zu erwischen.
+3. We have a plan to start earlier tomorrow. → Wir haben den Plan, morgen früher zu starten.
+- Erklärung: Eingeschobener Relativsatz → zwei Kommas (*, das … , ist*); *um … zu* und Infinitiv nach *Plan* → Pflichtkomma.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#b1-komma-setzen](../?via=tutor#b1-komma-setzen)
