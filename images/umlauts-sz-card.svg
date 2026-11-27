@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 236" role="img" aria-label="Peter's Sound-Spelling Board: German umlauts ä, ö, ü and Eszett ß with mouth tips and examples">
+  <rect width="340" height="236" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="16" y="25" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" fill="#0f172a">Sound-Spelling Board · Umlauts &amp; ß</text>
+
+  <rect x="16" y="38" width="148" height="72" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="28" y="64" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#1e3a8a">ä</text>
+  <text x="54" y="56" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#1e3a8a">open "eh"</text>
+  <text x="54" y="72" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#1e3a8a">like English bed</text>
+  <text x="28" y="96" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#1e3a8a">Bäcker · März</text>
+
+  <rect x="176" y="38" width="148" height="72" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+  <text x="188" y="64" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#78350f">ö</text>
+  <text x="214" y="56" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#78350f">"eh" + round lips</text>
+  <text x="214" y="72" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#78350f">lips shaped like "oh"</text>
+  <text x="188" y="96" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#78350f">Brötchen · schön</text>
+
+  <rect x="16" y="122" width="148" height="72" rx="8" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+  <text x="28" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#14532d">ü</text>
+  <text x="54" y="140" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#14532d">"ee" + round lips</text>
+  <text x="54" y="156" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#14532d">lips shaped like "oo"</text>
+  <text x="28" y="180" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#14532d">Übung · Schüler</text>
+
+  <rect x="176" y="122" width="148" height="72" rx="8" fill="#ffe4e6" stroke="#be123c" stroke-width="1.5"/>
+  <text x="188" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#9f1239">ß</text>
+  <text x="212" y="140" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#9f1239">Eszett (sharp s)</text>
+  <text x="212" y="156" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#9f1239">after long vowel</text>
+  <text x="188" y="180" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#9f1239">Straße · Fußball</text>
+</svg>
