@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "In Peters erstem Schulheft in Lindenberg markiert Herr Braun drei Fehler mit einem grünen Punkt: *„Im Deutschen hilft die **Großschreibung** dem Auge sofort beim Lesen: Jedes **Nomen** trägt ein großes Signal!“*"
-          en: "In Peter's first notebook in Lindenberg, Herr Braun marks three spots with a green dot: *'In German, **capitalization** helps the reader's eye right away: every **noun** wears a capital signal!'*"
+          de: "In Peters erstem Schulheft in Klasse 6 markiert Herr Braun drei Fehler mit einem grünen Punkt: *„Im Deutschen hilft die **Großschreibung** dem Auge sofort beim Lesen: Jedes **Nomen** trägt ein großes Signal!“*"
+          en: "In Peter's first Year 6 notebook in Lindenberg, Herr Braun marks three spots with a green dot: *'In German, **capitalization** helps the reader's eye right away: every **noun** wears a capital signal!'*"
       - type: single-choice
         id: ich-klein-regel
         text:
@@ -74,7 +74,7 @@ blocks:
                 de: "Anrede an Erwachsene / Fremde (*Sie, Ihnen, Ihr*)",
                 en: "Addressing adults / strangers (*Sie, Ihnen, Ihr*)",
               }
-            - { de: "Haben **S**ie **I**hren Ausweis dabei?", en: "Haben **S**ie **I**hren Ausweis dabei?" }
+            - { de: "Können **S**ie **I**hr Buch kurz öffnen?", en: "Können **S**ie **I**hr Buch kurz öffnen?" }
       - type: note
         title:
           de: "Kleingeschrieben bleiben …"
@@ -96,8 +96,8 @@ blocks:
         languages: { source: en, target: de }
         mode: choice
         task:
-          de: "Wähle die richtige Groß- oder Kleinschreibung für Peters E-Mail an Herr Braun."
-          en: "Choose the correct capitalization for Peter's email to Herr Braun."
+          de: "Wähle die richtige Groß- oder Kleinschreibung für Peters Nachricht an Herr Braun."
+          en: "Choose the correct capitalization for Peter's message to Herr Braun."
         items:
           - source: "Good morning, Herr Braun, I have a question."
             target: "Guten Morgen, Herr Braun, [ich] habe eine [Frage]."
@@ -153,3 +153,37 @@ blocks:
         explanation:
           de: "Nur die höfliche Anrede **Sie / Ihnen / Ihr** wird mitten im Satz großgeschrieben; *sie* (*she* oder *they*) bleibt klein."
           en: "Only formal **Sie / Ihnen / Ihr** is capitalized mid-sentence; *sie* (*she* or *they*) stays lowercase."
+      - type: language-task
+        id: nomen-tippen
+        languages: { source: en, target: de }
+        mode: gap
+        form: { case: wrong, punctuation: ok }
+        task:
+          de: "Tippe die fehlenden Wörter mit der richtigen Groß- oder Kleinschreibung ein."
+          en: "Type the missing words with the exact right capitalization."
+        items:
+          - source: "After school I ride my bike (Fahrrad)."
+            target: "Nach der Schule fahre [ich] mit dem [Fahrrad]."
+            mistakes:
+              - answer: "Ich"
+                message:
+                  de: "Mitten im Satz bleibt *ich* im Deutschen klein!"
+                  en: "Mid-sentence, *ich* stays lowercase in German!"
+              - answer: "fahrrad"
+                message:
+                  de: "*das Fahrrad* ist ein Nomen und muss großgeschrieben werden."
+                  en: "*das Fahrrad* is a noun and must be capitalized."
+          - source: "Herr Braun, do you (formal) have time (Zeit)?"
+            target: "Herr Braun, haben [Sie] kurz [Zeit]?"
+            mistakes:
+              - answer: "sie"
+                message:
+                  de: "Die höfliche Anrede *Sie* an Herr Braun schreibt man immer groß."
+                  en: "Formal *Sie* addressing Herr Braun is always capitalized."
+              - answer: "zeit"
+                message:
+                  de: "*die Zeit* ist ein Nomen und wird großgeschrieben."
+                  en: "*die Zeit* is a noun and must be capitalized."
+        explanation:
+          de: "Jedes Nomen (*Fahrrad, Zeit*) und die höfliche Anrede *Sie* sind groß; *ich* mitten im Satz ist klein."
+          en: "Every noun (*Fahrrad, Zeit*) and formal *Sie* are capitalized; *ich* mid-sentence stays lowercase."

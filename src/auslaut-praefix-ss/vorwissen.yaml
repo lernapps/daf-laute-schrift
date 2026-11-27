@@ -9,8 +9,8 @@ recap: daf/trennbare-verben
 blocks:
   - type: text
     text:
-      de: "In diesem Kapitel lernst du, wie man Verbpräfixe richtig betont. Dafür brauchst du aus der Grammatik die **trennbaren Verben** (*Separable prefix verbs*): *I can use separable verbs like aufstehen, einkaufen, and anrufen with the prefix at the end of a main clause.*"
-      en: "In this chapter you will learn how to stress German verb prefixes. For that, you need one grammar building block: **Separable prefix verbs** — *I can use separable verbs like aufstehen, einkaufen, and anrufen with the prefix at the end of a main clause.*"
+      de: "In diesem Kapitel lernst du, wie man Verbpräfixe richtig betont. Dafür brauchst du aus der Grammatik die trennbaren Verben (Separable prefix verbs): I can use separable verbs like aufstehen, einkaufen, and anrufen with the prefix at the end of a main clause."
+      en: "In this chapter you will learn how to stress German verb prefixes. For that, you need one grammar building block: Separable prefix verbs — I can use separable verbs like aufstehen, einkaufen, and anrufen with the prefix at the end of a main clause."
   - type: note
     title:
       de: "Kurz-Check im Kopf"
@@ -26,12 +26,12 @@ blocks:
       de: "Welcher Satz trennt das Verb **anrufen** richtig?"
       en: "Which sentence splits the separable verb **anrufen** correctly?"
     options:
-      - text: { de: "Peter ruft heute Abend seine Eltern an.", en: "Peter ruft heute Abend seine Eltern an." }
+      - text: { de: "Peter ruft heute Abend Lukas an.", en: "Peter ruft heute Abend Lukas an." }
         correct: true
         info:
           de: "Richtig! Der Stamm *ruft* steht an Position 2, das Präfix *an* am Satzende."
           en: "Correct! The stem *ruft* stands in position 2 and the prefix *an* goes to the end."
-      - text: { de: "Peter anruft heute Abend seine Eltern.", en: "Peter anruft heute Abend seine Eltern." }
+      - text: { de: "Peter anruft heute Abend Lukas.", en: "Peter anruft heute Abend Lukas." }
         correct: false
         info:
           de: "*anrufen* ist trennbar – im Hauptsatz wandert *an* ans Ende."

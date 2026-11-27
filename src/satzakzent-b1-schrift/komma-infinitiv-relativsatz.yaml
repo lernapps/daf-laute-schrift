@@ -17,52 +17,6 @@ blocks:
         text:
           de: "Peter schreibt einen Artikel für den Schulblog. Auf B1-Niveau werden seine Sätze komplexer: Er beschreibt Personen mit **Relativsätzen** und nennt Ziele mit **um … zu**. Auf der **Laut-Schrift-Tafel** kommen jetzt die B1-Kommaregeln hinzu!"
           en: "Peter is drafting an article for the school blog. At B1, his sentences grow richer: he adds details with **relative clauses** and states goals with **um … zu**. The **Sound-Spelling Board** now adds the B1 comma rules!"
-      - type: table
-        caption:
-          de: "B1-Kommaregeln für Relativ- und Infinitivsätze"
-          en: "B1 comma rules for relative and infinitive clauses"
-        header:
-          - { de: "Satztyp", en: "Clause type" }
-          - { de: "Kommaregel", en: "Comma rule" }
-          - { de: "Beispiel", en: "Example" }
-        rows:
-          - - { de: "**Relativsatz** am Ende", en: "**Relative clause** at end" }
-            - { de: "immer ein Komma **davor**", en: "always a comma **before** it" }
-            - { de: "Das ist der Kurs**,** den Peter besucht.", en: "Das ist der Kurs**,** den Peter besucht." }
-          - - { de: "**Eingeschobener** Relativsatz", en: "**Embedded** relative clause" }
-            - { de: "**zwei** Kommas (wie eine Klammer)", en: "**two** commas (like brackets)" }
-            - {
-                de: "Der Lehrer**,** der uns hilft**,** heißt Herr Braun.",
-                en: "Der Lehrer**,** der uns hilft**,** heißt Herr Braun.",
-              }
-          - - { de: "**um / ohne / (an)statt … zu**", en: "**um / ohne / (an)statt … zu**" }
-            - { de: "Komma ist **immer Pflicht**", en: "comma is **always mandatory**" }
-            - {
-                de: "Peter übt täglich**,** um klarer zu sprechen.",
-                en: "Peter übt täglich**,** um klarer zu sprechen.",
-              }
-          - - { de: "Infinitiv mit **zu** nach Nomen/Hinweiswort", en: "Infinitive with **zu** after noun/correlate" }
-            - {
-                de: "Komma ist **Pflicht** (z. B. *Zeit, Lust, es*)",
-                en: "comma is **mandatory** (e.g. *Zeit, Lust, es*)",
-              }
-            - { de: "Er hat Lust**,** einen Artikel zu schreiben.", en: "Er hat Lust**,** einen Artikel zu schreiben." }
-      - type: note
-        title:
-          de: "Die häufigste Kommafalle im Relativsatz"
-          en: "The #1 relative-clause comma trap"
-        blocks:
-          - type: text
-            text:
-              de: "Vergiss bei einem eingeschobenen Relativsatz nie das **zweite Komma** direkt nach dem Verb des Relativsatzes: *Das Fahrrad**,** das im Hof steht**,** gehört Lukas.*"
-              en: "With an embedded relative clause, never forget the **closing comma** right after the relative clause's verb: *Das Fahrrad**,** das im Hof steht**,** gehört Lukas.*"
-
-  - type: section
-    id: uebung
-    title:
-      de: "Übung: Komma-Check im Schulblog"
-      en: "Practice: School Blog Comma Check"
-    blocks:
       - type: single-choice
         id: eingeschobener-relativsatz
         text:
@@ -99,6 +53,71 @@ blocks:
         explanation:
           de: "Anders als im Englischen trennt das Deutsche **jeden** Relativsatz mit Kommas ab – steht er in der Satzmitte, braucht er **zwei** Kommas."
           en: "Unlike English, German sets **every** relative clause off with commas — when embedded mid-sentence, it needs **two** commas."
+      - type: figure
+        image: images/b1-comma-signals.svg
+        alt:
+          de: "Peters Laut-Schrift-Tafel für B1-Kommas: Eingeschobene Relativsätze mit zwei Kommas (Der Lehrer, der uns hilft, heißt Herr Braun.), Infinitivsätze mit um/ohne/statt zu (Peter übt täglich, um klarer zu sprechen.) und nach Nomen wie Lust (Er hat Lust, einen Blog zu schreiben.)."
+          en: "Peter's Sound-Spelling Board for B1 commas: embedded relative clauses with two commas (Der Lehrer, der uns hilft, heißt Herr Braun.), infinitive clauses with um/ohne/statt zu (Peter übt täglich, um klarer zu sprechen.), and after nouns like Lust (Er hat Lust, einen Blog zu schreiben.)."
+        caption:
+          de: "Peters Laut-Schrift-Tafel: Die drei wichtigsten B1-Kommasignale auf einen Blick."
+          en: "Peter's Sound-Spelling Board: the three core B1 comma signals at a glance."
+        source:
+          de: "Eigene Zeichnung"
+          en: "Own drawing"
+        licence: CC0-1.0
+
+  - type: section
+    id: tafel
+    title:
+      de: "B1-Kommaregeln für Relativ- und Infinitivsätze"
+      en: "B1 Comma Rules for Relative and Infinitive Clauses"
+    blocks:
+      - type: table
+        caption:
+          de: "B1-Kommaregeln für Relativ- und Infinitivsätze"
+          en: "B1 comma rules for relative and infinitive clauses"
+        header:
+          - { de: "Satztyp", en: "Clause type" }
+          - { de: "Kommaregel", en: "Comma rule" }
+          - { de: "Beispiel", en: "Example" }
+        rows:
+          - - { de: "**Relativsatz** am Ende", en: "**Relative clause** at end" }
+            - { de: "immer ein Komma **davor**", en: "always a comma **before** it" }
+            - { de: "Das ist der Blog**,** den Peter schreibt.", en: "Das ist der Blog**,** den Peter schreibt." }
+          - - { de: "**Eingeschobener** Relativsatz", en: "**Embedded** relative clause" }
+            - { de: "**zwei** Kommas (wie eine Klammer)", en: "**two** commas (like brackets)" }
+            - {
+                de: "Der Lehrer**,** der uns hilft**,** heißt Herr Braun.",
+                en: "Der Lehrer**,** der uns hilft**,** heißt Herr Braun.",
+              }
+          - - { de: "**um / ohne / (an)statt … zu**", en: "**um / ohne / (an)statt … zu**" }
+            - { de: "Komma ist **immer Pflicht**", en: "comma is **always mandatory**" }
+            - {
+                de: "Peter übt täglich**,** um klarer zu sprechen.",
+                en: "Peter übt täglich**,** um klarer zu sprechen.",
+              }
+          - - { de: "Infinitiv mit **zu** nach Nomen/Hinweiswort", en: "Infinitive with **zu** after noun/correlate" }
+            - {
+                de: "Komma ist **Pflicht** (z. B. *Zeit, Lust, es*)",
+                en: "comma is **mandatory** (e.g. *Zeit, Lust, es*)",
+              }
+            - { de: "Er hat Lust**,** einen Artikel zu schreiben.", en: "Er hat Lust**,** einen Artikel zu schreiben." }
+      - type: note
+        title:
+          de: "Die häufigste Kommafalle im Relativsatz"
+          en: "The #1 relative-clause comma trap"
+        blocks:
+          - type: text
+            text:
+              de: "Vergiss bei einem eingeschobenen Relativsatz nie das **zweite Komma** direkt nach dem Verb des Relativsatzes: *Das Fahrrad**,** das im Hof steht**,** gehört Lukas.*"
+              en: "With an embedded relative clause, never forget the **closing comma** right after the relative clause's verb: *Das Fahrrad**,** das im Hof steht**,** gehört Lukas.*"
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Komma-Check im Schulblog"
+      en: "Practice: School Blog Comma Check"
+    blocks:
       - type: multiple-choice
         id: infinitiv-komma-pflicht
         text:
@@ -140,3 +159,36 @@ blocks:
         explanation:
           de: "Ein Komma steht immer bei **um / ohne / (an)statt … zu** sowie bei Infinitivgruppen, die von einem Nomen (*Zeit, Lust, Plan*) oder einem Hinweiswort (*es, daran*) abhängen."
           en: "Always use a comma before **um / ohne / (an)statt … zu** and before infinitive phrases depending on a noun (*Zeit, Lust, Plan*) or correlate (*es, daran*)."
+      - type: ordering
+        id: b1-komma-regeln-check
+        text:
+          de: "Setze den Satz mit eingeschobenem Relativsatz und beiden Kommas richtig zusammen."
+          en: "Assemble the sentence with an embedded relative clause framed by two commas."
+        items:
+          - { de: "Das Fahrrad,", en: "Das Fahrrad," }
+          - { de: "das im Hof steht,", en: "das im Hof steht," }
+          - { de: "gehört", en: "gehört" }
+          - { de: "Lukas.", en: "Lukas." }
+        explanation:
+          de: "Der eingeschobene Relativsatz *das im Hof steht* wird links und rechts von zwei Kommas eingerahmt."
+          en: "The embedded relative clause *das im Hof steht* is framed on both sides by two commas."
+      - type: language-task
+        id: b1-komma-setzen
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Setze die richtigen Kommas in Peters Sätze für den Schulblog."
+          en: "Insert the right commas into Peter's sentences for the school blog."
+        items:
+          - source: "The book that I am reading is exciting."
+            target: "Das Buch[, das] ich lese[, ist] spannend."
+            distractors: [[" das"], [" ist"]]
+          - source: "Lukas runs to catch the bus."
+            target: "Lukas rennt[, um] den Bus zu erwischen."
+            distractors: [[" um"]]
+          - source: "We have a plan to start earlier tomorrow."
+            target: "Wir haben den Plan[, morgen] früher zu starten."
+            distractors: [[" morgen"]]
+        explanation:
+          de: "Eingeschobener Relativsatz → zwei Kommas (*, das … , ist*); *um … zu* und Infinitiv nach *Plan* → Pflichtkomma."
+          en: "Embedded relative clause → two commas (*, das … , ist*); *um … zu* and infinitive after *Plan* → mandatory comma."

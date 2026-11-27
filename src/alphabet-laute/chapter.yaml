@@ -3,9 +3,19 @@ title:
   de: "Alphabet, Umlaute und wichtige Konsonanten"
   en: "Alphabet, Umlauts and Key Consonants"
 summary:
-  de: "Peter richtet in Lindenberg die Laut-Schrift-Tafel ein: Buchstabieren, Umlaute, Diphthonge sowie ch, sch, sp, st und z."
-  en: "Peter sets up the Sound-Spelling Board in Lindenberg: spelling aloud, umlauts, diphthongs, and ch, sch, sp, st, and z."
+  de: "Peter richtet in Klasse 6 in Lindenberg seine Laut-Schrift-Tafel ein: Buchstabieren, Umlaute, Diphthonge sowie ch, sch, sp, st und z."
+  en: "Peter sets up his Sound-Spelling Board in Year 6 in Lindenberg: spelling aloud, umlauts, diphthongs, and ch, sch, sp, st, and z."
 pages:
   - alphabet-buchstabieren
   - umlaute-diphthonge
   - ch-sch-sp-st
+selfAssessment:
+  pages:
+    - exercises:
+        - /alphabet-laute/alphabet-buchstabieren/#buchstaben-zuordnen
+        - /alphabet-laute/alphabet-buchstabieren/#adresse-buchstabieren
+        - /alphabet-laute/umlaute-diphthonge/#diphthong-schreiben
+    - exercises:
+        - /alphabet-laute/umlaute-diphthonge/#diphthong-klang-zuordnen
+        - /alphabet-laute/ch-sch-sp-st/#ach-laut-finden
+        - /alphabet-laute/ch-sch-sp-st/#konsonanten-klang

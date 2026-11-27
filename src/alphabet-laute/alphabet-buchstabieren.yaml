@@ -10,18 +10,18 @@ blocks:
   - type: section
     id: einstieg
     title:
-      de: "Peters erster Tag im Bürgeramt Lindenberg"
-      en: "Peter's First Day at the Lindenberg Citizens' Office"
+      de: "Peters neuer Ausweis in der Schulbücherei"
+      en: "Peter's New School Library Card"
     blocks:
       - type: text
         text:
-          de: "Bei der Anmeldung im Bürgeramt Lindenberg fragt die Mitarbeiterin: *„Wie schreibt man Ihren Nachnamen?“* Peter öffnet seine **Laut-Schrift-Tafel** aus Herr Brauns Kurs: Viele deutsche Buchstabennamen klingen anders als im Englischen."
-          en: "While registering at the Lindenberg Bürgeramt, the clerk asks: *'Wie schreibt man Ihren Nachnamen?'* Peter opens the **Sound-Spelling Board** from Herr Braun's class: several German letter names sound quite different from English."
+          de: "In seiner ersten Woche in Klasse 6 in Lindenberg holt sich Peter seinen Ausweis in der Schulbücherei. Die Bibliothekarin fragt freundlich: *„Wie schreibt man deinen Namen und deine Straße?“* Peter schaut auf seine **Laut-Schrift-Tafel** aus Herr Brauns Unterricht: Viele deutsche Buchstabennamen klingen anders als im Englischen."
+          en: "In his first week of Year 6 in Lindenberg, Peter gets his school library card. The librarian asks kindly: *'Wie schreibt man deinen Namen und deine Straße?'* Peter checks the **Sound-Spelling Board** from Herr Braun's class: several German letter names sound quite different from English."
       - type: single-choice
         id: buchstaben-e-i
         text:
-          de: "Peter buchstabiert den Namen **Weber**: *W – E – B – E – R*. Wie klingt der Buchstabe **E** im deutschen Alphabet?"
-          en: "Peter spells **Weber**: *W – E – B – E – R*. How does the letter **E** sound in the German alphabet?"
+          de: "Peter buchstabiert den Namen seiner Freunde **Weber**: *W – E – B – E – R*. Wie klingt der Buchstabe **E** im deutschen Alphabet?"
+          en: "Peter spells the family name **Weber**: *W – E – B – E – R*. How does the letter **E** sound in the German alphabet?"
         options:
           - text:
               de: "wie das deutsche Wort *eh* (langes e)"
@@ -56,8 +56,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Das deutsche Alphabet hat 26 Grundbuchstaben plus **ä, ö, ü** und **ß** (*Eszett*). Auf Peters Tafel stehen die Buchstaben, die Englischsprachige am leichtesten verwechseln:"
-          en: "The German alphabet has 26 basic letters plus **ä, ö, ü**, and **ß** (*Eszett*). Peter's board highlights the letters English speakers mix up most easily:"
+          de: "Das deutsche Alphabet hat 26 Grundbuchstaben plus **ä, ö, ü** und **ß** (*Eszett*, ein scharfes *s*). Auf Peters Tafel stehen die Buchstaben, die Englischsprachige am leichtesten verwechseln:"
+          en: "The German alphabet has 26 basic letters plus **ä, ö, ü**, and **ß** (*Eszett*, a sharp *s*). Peter's board highlights the letters English speakers mix up most easily:"
       - type: table
         caption:
           de: "Wichtige Buchstabennamen auf Deutsch"
@@ -110,27 +110,45 @@ blocks:
         explanation:
           de: "Wer V (*fau*), W (*weh*), J (*jott*) und Z (*zett*) trennt, versteht deutsche Namen und Adressen beim ersten Hören."
           en: "Keeping V (*fow*), W (*veh*), J (*yott*), and Z (*tsett*) distinct helps you catch German names and addresses on the first try."
-      - type: single-choice
-        id: strasse-buchstabieren
+      - type: true-false
+        id: alphabet-regeln-check
         text:
-          de: "Frau Weber buchstabiert ihre Adresse: *W – A – L – D – W – E – G*. Welches Wort notiert Peter?"
-          en: "Frau Weber spells her street name: *W – A – L – D – W – E – G* (*weh – ah – ell – deh – weh – eh – geh*). Which word does Peter write down?"
-        options:
-          - text: { de: "Waldweg", en: "Waldweg" }
-            correct: true
-            info:
-              de: "Richtig! *weh* ist **W**, *ah* ist **A**, *eh* ist **E**."
-              en: "Correct! *veh* is **W**, *ah* is **A**, and *eh* is **E**."
-          - text: { de: "Valdvig", en: "Valdvig" }
-            correct: false
-            info:
-              de: "Im Deutschen ist *weh* der Buchstabe **W** (nicht V) und *eh* der Buchstabe **E** (nicht I)."
-              en: "In German, *veh* is **W** (not V) and *eh* is **E** (not I)."
-          - text: { de: "Woldwag", en: "Woldwag" }
-            correct: false
-            info:
-              de: "*ah* steht für **A**, nicht für O; *eh* steht für **E**."
-              en: "*ah* stands for **A**, not O; *eh* stands for **E**."
+          de: "Der deutsche Buchstabe **V** heißt beim Buchstabieren *weh* und klingt wie englisches *v*."
+          en: "The German letter **V** is called *veh* when spelling aloud and sounds like English *v*."
+        answer: false
         explanation:
-          de: "Mit den deutschen Buchstabennamen (*W = weh, A = ah, E = eh*) kannst du Adressen wie *Waldweg* fehlerfrei mitschreiben."
-          en: "Using the German letter names (*W = veh, A = ah, E = eh*) lets you write down addresses like *Waldweg* accurately."
+          de: "Falsch! **V** heißt *fau* (klingt in deutschen Wörtern meist wie *f*), während **W** *weh* heißt und wie englisches *v* klingt."
+          en: "False! **V** is called *fow* (usually sounds like *f* in German words), while **W** is called *veh* and sounds like English *v*."
+      - type: language-task
+        id: adresse-buchstabieren
+        languages: { source: en, target: de }
+        mode: gap
+        form: { case: hint, punctuation: ok }
+        task:
+          de: "Schreibe die Wörter auf, die Lukas Peter am Telefon auf Deutsch buchstabiert."
+          en: "Type the words Lukas spells out to Peter over the phone using German letter names."
+        items:
+          - source: "veh – ah – ell – deh – veh – eh – geh (street name)"
+            target: "[Waldweg]"
+            mistakes:
+              - answer: "Valdvig"
+                message:
+                  de: "*weh* ist **W** (nicht V), und *eh* ist **E** (nicht I)."
+                  en: "*veh* is **W** (not V), and *eh* is **E** (not I)."
+          - source: "tsett – oo – geh (train)"
+            target: "[Zug]"
+            mistakes:
+              - answer: "Tsug"
+                message:
+                  de: "Der Laut *ts* wird am Wortanfang mit **Z** (*zett*) geschrieben."
+                  en: "The *ts* sound at the start of a word is spelled **Z** (*tsett*)."
+          - source: "yott – ah – enn – oo – ah – er (January)"
+            target: "[Januar]"
+            mistakes:
+              - answer: "Yanuar"
+                message:
+                  de: "Der Buchstabe *jott* ist **J**, nicht Y."
+                  en: "The letter *yott* is **J**, not Y."
+        explanation:
+          de: "Mit den deutschen Buchstabennamen (*W = weh, Z = zett, J = jott, E = eh*) kannst du Namen und Adressen fehlerfrei mitschreiben."
+          en: "Using German letter names (*W = veh, Z = tsett, J = yott, E = eh*) lets you write down names and addresses accurately."

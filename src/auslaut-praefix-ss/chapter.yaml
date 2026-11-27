@@ -12,3 +12,13 @@ pages:
   - akzent-praefixverben
   - s-laute-ss-sz
   - komma-aufzaehlung-nebensatz
+selfAssessment:
+  pages:
+    - exercises:
+        - /auslaut-praefix-ss/auslautverhaertung/#verlaengerungsprobe-schreiben
+        - /auslaut-praefix-ss/r-laute-endungen/#vokalisiertes-er-finden
+        - /auslaut-praefix-ss/akzent-praefixverben/#praefix-typ-zuordnen
+    - exercises:
+        - /auslaut-praefix-ss/s-laute-ss-sz/#ss-oder-sz-waehlen
+        - /auslaut-praefix-ss/s-laute-ss-sz/#ss-sz-tippen
+        - /auslaut-praefix-ss/komma-aufzaehlung-nebensatz/#komma-pflicht-erkennen

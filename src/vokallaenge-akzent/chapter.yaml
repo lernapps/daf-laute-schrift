@@ -9,3 +9,13 @@ pages:
   - vokallaenge-dehnung
   - grossschreibung-nomen
   - wortakzent-satzmelodie
+selfAssessment:
+  pages:
+    - exercises:
+        - /vokallaenge-akzent/vokallaenge-dehnung/#minimalpaare-laenge
+        - /vokallaenge-akzent/vokallaenge-dehnung/#vokallaenge-luecken
+        - /vokallaenge-akzent/grossschreibung-nomen/#nomen-gross-schreiben
+    - exercises:
+        - /vokallaenge-akzent/grossschreibung-nomen/#nomen-tippen
+        - /vokallaenge-akzent/wortakzent-satzmelodie/#satzmelodie-zuordnen
+        - /vokallaenge-akzent/wortakzent-satzmelodie/#erste-silbe-betont

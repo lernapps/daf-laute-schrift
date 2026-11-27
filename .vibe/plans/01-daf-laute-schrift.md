@@ -4,11 +4,11 @@
 # Archetype, null until chosen in Explore. Allowed values: explainer, interactive, quiz.
 archetype: explainer
 # Current phase. Allowed values: explore, plan, code, commit.
-phase: code
+phase: commit
 # prePushFailures: failed pre-push runs, written by the hook.
-prePushFailures: 0
+prePushFailures: 1
 # failedChecks: failed rules and runs, written by lernapps check and the hooks.
-failedChecks: {}
+failedChecks: { checks-pass: 3 }
 ---
 
 # Plan: daf-laute-schrift, first version
@@ -25,15 +25,27 @@ For you, the assistant. The process is in AGENTS.md; this plan holds the method.
 
 ## Goal
 
-<!-- 1–2 sentences: what learners do, what they learn. -->
+English-speaking learners of German (CEFR A1–B1) follow Peter in Lindenberg as he builds his Sound-Spelling Board (*Laut-Schrift-Tafel*) to master German letters, umlauts, diphthongs, key consonants, vowel length, noun capitalization, word stress, final devoicing, r-sounds, verb-prefix stress, s/ss/ß, loanwords, sentence emphasis, commas, and compounds & nominalizations.
 
 ## Key decisions
 
-<!-- One line each: decision and reason. Archetype first. Your own choice without the creator: mark "(guess)". -->
+- **Archetype: `explainer` (format 2, `subject: daf`, `strand: daf/aussprache`).** Structured explanations, visual Sound-Spelling Board SVGs, summary tables, and progressive auto-checked exercises fit the `explainer` archetype cleanly.
+- **Setting & variety: Germany (*Bundesdeutsch*).** Standard German as used in Germany (including `ß` after long vowels/diphthongs and vocalized `-er`), set in fictional **Lindenberg** with protagonist **Peter** (moving with his parents for a year, age 12 in *Klasse 6* at A1, growing to 13–14 at A2 and 15 at B1), class teacher **Herr Braun**, classmates **Lukas** and **Nadia**, and family friends **Familie Weber** (Katrin, Thomas, Lukas, Mina).
+- **Languages: `[de, en]` (`de` first, full English tree at `/en/`).** Required by `@lernapps/app-templates 0.20.0`.
+- **Chapter self-assessments (`selfAssessment`): included in all 4 chapters (24 exercises total).**
+- **No `scope` in v1.** All exercises are auto-checked (`single-choice`, `multiple-choice`, `true-false`, `matching`, `language-task` in `choice` and `gap` modes).
 
 ## Notes
 
-<!-- Strand or subject, competencies by chapter (ids), didactic approach, scope, sources and licences, open questions. -->
+- **Strand:** `daf/aussprache` (15 competencies across 4 chapters + 1 recap page `auslaut-praefix-ss/vorwissen.yaml` for `daf/trennbare-verben`).
+- **Sources verified:** `https://lernapps.net/apps/map/daf.json` (`lernapps/apps/map/daf.yaml`), `lernapps/apps#873`, `lernapps/apps#887`.
+- **Chapters:**
+  - Ch 1 `alphabet-laute` (A1 · 5–6): `alphabet-buchstabieren`, `umlaute-diphthonge`, `ch-sch-sp-st`.
+  - Ch 2 `vokallaenge-akzent` (A1 · 5–6): `vokallaenge-dehnung`, `grossschreibung-nomen`, `wortakzent-satzmelodie`.
+  - Ch 3 `auslaut-praefix-ss` (A2 · 7–8): `vorwissen` (`recap: daf/trennbare-verben`), `auslautverhaertung`, `r-laute-endungen`, `akzent-praefixverben`, `s-laute-ss-sz`, `komma-aufzaehlung-nebensatz`.
+  - Ch 4 `satzakzent-b1-schrift` (B1 · 9–10): `satzakzent-kontrast`, `fremdwoerter-aussprache`, `komma-infinitiv-relativsatz`, `zusammen-getrenntschreibung`.
+- **Upgrades applied:** Added 6 custom Sound-Spelling Board SVGs (`umlauts-sz-card`, `vowel-length-signals`, `final-devoicing-diagram`, `prefix-stress-diagram`, `ss-sz-rule-card`, `b1-comma-signals`), expanded every competency page to 4 varied exercises, added chapter `selfAssessment` to all 4 chapters, removed lingering `Sam` / `Kurs` / `Sprachkurs` framing, fixed typos (`Taffel` → `Tafel`, `u**h**r` → `U**h**r`), and aligned A1 wording to age 12 (*Klasse 6*).
+
 
 ## Explore
 
@@ -80,19 +92,16 @@ For you, the assistant. The process is in AGENTS.md; this plan holds the method.
 
 ### Answers
 
-<!-- The interview: per topic the creator's answer, in their words. Keep the topics. -->
-
-- Goal: what learners do in the app, what they learn.
-- Learners: subject, school year, prior knowledge.
-- Model and focus: an app of the catalog (https://lernapps.net/apps/llms.txt) as model; what matters most (exercises,
-  visualisations, game feel).
-- Hurdles: misconceptions and mistakes of the learners; the creator's examples and experiments.
-- Content: who writes it (creator, you, from sources); own material (worksheets, tests).
-- Amount: how much content in the first version; what comes later.
-- Languages: German only, or German and English. Never English only.
-- Look and feel: calm like a worksheet, or like a game (colours, praise, effects); dark mode.
-- Terms: the creator's words for the main things in the app, used everywhere.
-- Finding the app: what teachers and parents would search for.
+- Goal: Master German pronunciation, letter-sound links, stress, punctuation, and spelling from A1 to B1 through Peter's Sound-Spelling Board in Lindenberg (`lernapps/apps#873`).
+- Learners: English-speaking DaF learners (A1 age 12 in *Klasse 6*, growing to 13–14 at A2 and 15 at B1).
+- Model and focus: Modeled on `daf-hallo-lindenberg` (Lindenberg series); clear Sound-Spelling Board SVGs, tables, and 4 varied auto-checked exercises per page.
+- Hurdles: A/E/I and V/W/J/Z letter names, umlauts (`ä, ö, ü`), `ei` vs `ie`, ich-/ach-sound (`ch`), silent `h` vs double consonants, lowercase `ich` vs capitalized nouns/formal `Sie`, final devoicing (`b/d/g` → `p/t/k`), vocalized `-er`, separable vs inseparable prefix stress, `s/ss/ß`, loanword end-stress, German comma rules (no Oxford comma, mandatory relative/infinitive commas), and compound/nominalization spelling.
+- Content: Written from `map/daf.yaml` (`daf/aussprache`) and `#873` following Standard German in Germany (*Bundesdeutsch*).
+- Amount: Full `daf/aussprache` strand — 4 chapters, 15 competency pages, 1 recap page (`daf/trennbare-verben`), 6 custom SVGs, and 4 chapter self-assessments.
+- Languages: `[de, en]` (`de` first, full English tree at `/en/`).
+- Look and feel: fixed by the archetype.
+- Terms: Standard German (*Bundesdeutsch*): *Laut-Schrift-Tafel* (*Sound-Spelling Board*), *Eszett (ß)*, *Dehnungs-h*, *Verlängerungsprobe*, *Klasse 6*, *Schulbücherei*, *Schulblog*, *Jugendzentrum*.
+- Finding the app: "German pronunciation", "German spelling", "DaF", "Laute und Schrift", "umlauts", "ss vs ß", "German comma rules".
 
 ## Plan
 
@@ -120,11 +129,10 @@ For you, the assistant. The process is in AGENTS.md; this plan holds the method.
 
 ### Content method
 
-<!-- One line each: the patterns and where; the figures and how they are made; the data files; each component, what it
-checks and what it cannot; how a later agent adds a chapter. It becomes the content guide in Code. -->
-<!-- An explainer: per figure, model and component its learning action in two to four sentences
-(`explainer-representation-explained`); per page its prerequisites the app does not practise, and which get a recap
-page, which a link. -->
+- **Page structure:** Every competency page has `einstieg` (Lindenberg scene + opening `single-choice` + Sound-Spelling Board SVG where applicable), `tafel`/`diphthonge`/`regeln` (summary table + English-speaker trap `note`), and `uebung` (3 more varied exercises = 4 total per page: `matching`, `true-false`, `multiple-choice`, `language-task` in `choice`/`gap` mode).
+- **Figures (`src/images/*.svg`, 6 custom CC0-1.0 SVGs):** `umlauts-sz-card.svg`, `vowel-length-signals.svg`, `final-devoicing-diagram.svg`, `prefix-stress-diagram.svg`, `ss-sz-rule-card.svg`, `b1-comma-signals.svg` — all `viewBox="0 0 340 <h>"`, ≥ 4.5:1 contrast, ≥ 24 px bottom-right clearance, zero answer leaks.
+- **External prerequisites:** Chapter 3 (`akzent-praefixverben`) requires `daf/trennbare-verben`, covered on `auslaut-praefix-ss/vorwissen.yaml` (`recap: daf/trennbare-verben`).
+- **Self-assessment:** All 4 `chapter.yaml` files include `selfAssessment` (6 self-contained exercises per chapter, 24 total).
 
 ## Code
 
@@ -138,27 +146,30 @@ page, which a link. -->
 
 ### Tasks
 
-- [ ] Load skill `lernapps-cli`. Create the app as its section "Create" says:
+- [x] Load skill `lernapps-cli`. Create the app as its section "Create" says:
       `npx --no -- lernapps create --archetype explainer`.
-- [ ] Fill the content guide `.agents/skills/app-content/SKILL.md` from "Notes" and "Content method": every heading,
+- [x] Fill the content guide `.agents/skills/app-content/SKILL.md` from "Notes" and "Content method": every heading,
       no "FILL IN" left. Commit it before any content.
-- [ ] Load skill `lernapps-explainer`.
-- [ ] Load skill `lernapps-content-questions`. Read whole, with your file tool:
+- [x] Load skill `lernapps-explainer`.
+- [x] Load skill `lernapps-content-questions`. Read whole, with your file tool:
       `.agents/skills/lernapps-explainer/references/blocks.md` and
       `.agents/skills/lernapps-explainer/references/exercises.md`. A foreign language: also
       `references/language-tasks.md` in the same folder. A component in the plan: also `references/components.md`.
-- [ ] Decide whether the app needs `scope`, as "`scope`" in
+- [x] Decide whether the app needs `scope`, as "`scope`" in
       `.agents/skills/lernapps-explainer/references/structure.md` says. Write the choice under "Key decisions".
-<!-- tasks: pattern: the one page or screen that is the pattern for the others -->
-- [ ] **Checkpoint:** the pattern page. Load skill `lernapps-learner-check` and do its learner check on the page. Fix
+- [x] Build and upgrade pilot page alphabet-laute/alphabet-buchstabieren with age-12 Lindenberg Klasse 6 framing and 4 varied exercises
+<!-- tasks: pattern (1 added): the one page or screen that is the pattern for the others -->
+- [x] **Checkpoint:** the pattern page. Load skill `lernapps-learner-check` and do its learner check on the page. Fix
       what it finds. Then show the creator the page and ask whether the others may follow it. Stop and wait. A
       change: change the pattern first.
-<!-- tasks: pages: the other pages or screens, after the pattern -->
-- [ ] Update the content guide so that it describes the app as built (`app-content-matches`).
-- [ ] Run `npx --no -- lernapps check` until it passes.
-- [ ] Look at every screen and state, at 360 px and on a desktop, as "Look at the app" of skill `lernapps-cli` says.
+      Creator: Approved to upgrade all 4 chapters to daf-hallo-lindenberg gold standard
+- [x] Build and upgrade Chapters 1-4 (15 competency pages + vorwissen recap) with 6 Sound-Spelling Board SVGs, 4 varied exercises per page, and chapter selfAssessment
+<!-- tasks: pages (1 added): the other pages or screens, after the pattern -->
+- [x] Update the content guide so that it describes the app as built (`app-content-matches`).
+- [x] Run `npx --no -- lernapps check` until it passes.
+- [x] Look at every screen and state, at 360 px and on a desktop, as "Look at the app" of skill `lernapps-cli` says.
       Compare each with its sketch.
-- [ ] Do the whole-app check of skill `lernapps-learner-check`. Fix what it finds and write under "Notes" what you
+- [x] Do the whole-app check of skill `lernapps-learner-check`. Fix what it finds and write under "Notes" what you
       fixed.
 
 ## Commit
@@ -171,7 +182,7 @@ page, which a link. -->
 
 ### Tasks
 
-- [ ] Load skill `lernapps-explainer-self-assessment`. Add the self-assessment as it says, or write under "Key
+- [x] Load skill `lernapps-explainer-self-assessment`. Add the self-assessment as it says, or write under "Key
       decisions" why the app has none. Commit.
 - [ ] Load skill `lernapps-github`. Set up the repository and Pages as it says. Ask for the repository's name and
       every click only the creator can make, in one message.

@@ -17,6 +17,55 @@ blocks:
         text:
           de: "Auf dem Lindenberger Stadtplan entdeckt Peter **Schlossstraße** und **Wasserplatz** – mal **ss**, mal **ß**! Herr Braun zeigt das klare Entscheidungsschema auf der **Laut-Schrift-Tafel**: Erst hörst du, ob das *s* weich summt oder scharf zischt – und beim scharfen *s* entscheidet die **Vokallänge**."
           en: "On the Lindenberg town map, Peter spots **Schlossstraße** and **Wasserplatz** — sometimes **ss**, sometimes **ß**! Herr Braun puts the clear decision rule on the **Sound-Spelling Board**: first check whether *s* buzzes (voiced) or hisses (voiceless) — and for the sharp hissing *s*, **vowel length** decides."
+      - type: single-choice
+        id: dass-vs-das
+        text:
+          de: "Warum schreibt man **groß** mit **ß**, aber **Klasse** mit **ss**?"
+          en: "Why is **groß** spelled with **ß**, while **Klasse** is spelled with **ss**?"
+        options:
+          - text:
+              de: "In *groß* ist das *o* lang, in *Klasse* ist das *a* kurz."
+              en: "In *groß* the *o* is long; in *Klasse* the *a* is short."
+            correct: true
+            info:
+              de: "Genau! Der scharfe s-Laut folgt bei langem Vokal der Schreibung **ß**, bei kurzem Vokal **ss**."
+              en: "Exactly! A sharp voiceless s is spelled **ß** after a long vowel and **ss** after a short vowel."
+          - text:
+              de: "Am Wortende steht immer **ß**, in der Wortmitte immer **ss**."
+              en: "**ß** always goes at the end of a word and **ss** always in the middle."
+            correct: false
+            info:
+              de: "Gegenbeispiel: *Fluss* und *muss* enden auf **ss** (kurzer Vokal), während *Straße* in der Mitte **ß** hat (langes *a*)."
+              en: "Counterexample: *Fluss* and *muss* end in **ss** (short vowel), while *Straße* has **ß** in the middle (long *a*)."
+          - text:
+              de: "Nomen haben immer **ss**, Adjektive immer **ß**."
+              en: "Nouns always use **ss**, adjectives always use **ß**."
+            correct: false
+            info:
+              de: "Die Wortart spielt keine Rolle – *Straße* und *Fuß* sind Nomen mit **ß**, *nass* ist ein Adjektiv mit **ss**."
+              en: "Part of speech does not matter — *Straße* and *Fuß* are nouns with **ß**, and *nass* is an adjective with **ss**."
+        explanation:
+          de: "Die Regel für **ss** gegen **ß** hängt allein von der Länge des Vokals davor ab."
+          en: "The choice between **ss** and **ß** depends solely on the length of the preceding vowel."
+      - type: figure
+        image: images/ss-sz-rule-card.svg
+        alt:
+          de: "Peters Laut-Schrift-Tafel für s, ss und ß: s für weiches summendes s (Sonne, lesen, Reise), ss für scharfes s nach kurzem Vokal (essen, nass, muss), ß für scharfes s nach langem Vokal oder Diphthong (Fuß, draußen, Gruß)."
+          en: "Peter's Sound-Spelling Board for s, ss, and ß: s for soft buzzing s (Sonne, lesen, Reise), ss for sharp s after a short vowel (essen, nass, muss), and ß for sharp s after a long vowel or diphthong (Fuß, draußen, Gruß)."
+        caption:
+          de: "Peters Laut-Schrift-Tafel: Erst Klang prüfen (summend vs. scharf), dann Vokallänge."
+          en: "Peter's Sound-Spelling Board: check sound first (buzzing vs. sharp), then vowel length."
+        source:
+          de: "Eigene Zeichnung"
+          en: "Own drawing"
+        licence: CC0-1.0
+
+  - type: section
+    id: tafel
+    title:
+      de: "Entscheidungstafel für s, ss und ß"
+      en: "Decision Board for s, ss, and ß"
+    blocks:
       - type: table
         caption:
           de: "Entscheidungstafel für s, ss und ß"
@@ -31,7 +80,7 @@ blocks:
                 de: "vor Vokal am Wort- oder Silbenanfang (wie Englisch *z* in *zoo*)",
                 en: "before a vowel at word/syllable start (like English *z* in *zoo*)",
               }
-            - { de: "**S**onne, **S**am, le**s**en, Rei**s**e", en: "**S**onne, **S**am, le**s**en, Rei**s**e" }
+            - { de: "**S**onne, **S**ommer, le**s**en, Rei**s**e", en: "**S**onne, **S**ommer, le**s**en, Rei**s**e" }
           - - { de: "**ss** (scharf / zischend)", en: "**ss** (sharp / hissing)" }
             - { de: "nach **kurzem** Vokal", en: "after a **short** vowel" }
             - {
@@ -86,33 +135,45 @@ blocks:
         explanation:
           de: "Langer Vokal oder Diphthong → **ß** (*Straße, heißen*); kurzer Vokal → **ss** (*Wasser, Fluss*)."
           en: "Long vowel or diphthong → **ß** (*Straße, heißen*); short vowel → **ss** (*Wasser, Fluss*)."
-      - type: single-choice
-        id: dass-vs-das
+      - type: true-false
+        id: s-regeln-check
         text:
-          de: "Warum schreibt man **groß** mit **ß**, aber **Klasse** mit **ss**?"
-          en: "Why is **groß** spelled with **ß**, while **Klasse** is spelled with **ss**?"
-        options:
-          - text:
-              de: "In *groß* ist das *o* lang, in *Klasse* ist das *a* kurz."
-              en: "In *groß* the *o* is long; in *Klasse* the *a* is short."
-            correct: true
-            info:
-              de: "Genau! Der scharfe s-Laut folgt bei langem Vokal der Schreibung **ß**, bei kurzem Vokal **ss**."
-              en: "Exactly! A sharp voiceless s is spelled **ß** after a long vowel and **ss** after a short vowel."
-          - text:
-              de: "Am Wortende steht immer **ß**, in der Wortmitte immer **ss**."
-              en: "**ß** always goes at the end of a word and **ss** always in the middle."
-            correct: false
-            info:
-              de: "Gegenbeispiel: *Fluss* und *muss* enden auf **ss** (kurzer Vokal), während *Straße* in der Mitte **ß** hat (langes *a*)."
-              en: "Counterexample: *Fluss* and *muss* end in **ss** (short vowel), while *Straße* has **ß** in the middle (long *a*)."
-          - text:
-              de: "Nomen haben immer **ss**, Adjektive immer **ß**."
-              en: "Nouns always use **ss**, adjectives always use **ß**."
-            correct: false
-            info:
-              de: "Die Wortart spielt keine Rolle – *Straße* und *Fuß* sind Nomen mit **ß**, *nass* ist ein Adjektiv mit **ss**."
-              en: "Part of speech does not matter — *Straße* and *Fuß* are nouns with **ß**, and *nass* is an adjective with **ss**."
+          de: "Weil *Haus* am Wortende scharf klingt, schreibt man es im Deutschen mit **ß** (*Hauß*)."
+          en: "Because *Haus* sounds sharp at the end of the word, German spells it with **ß** (*Hauß*)."
+        answer: false
         explanation:
-          de: "Die Regel für **ss** gegen **ß** hängt allein von der Länge des Vokals davor ab."
-          en: "The choice between **ss** and **ß** depends solely on the length of the preceding vowel."
+          de: "Falsch! Verlängert heißt es *Häu**s**er* mit weichem, summendem *s*, deshalb bleibt es ein einfaches **s** (*Haus*)."
+          en: "False! When extended, it is *Häu**s**er* with a soft buzzing *s*, so it keeps a single **s** (*Haus*)."
+      - type: language-task
+        id: ss-sz-tippen
+        languages: { source: en, target: de }
+        mode: gap
+        form: { case: hint, punctuation: ok }
+        task:
+          de: "Tippe das komplette Wort mit **ss** oder **ß** richtig ein."
+          en: "Type the full German word with the right **ss** or **ß** spelling."
+        items:
+          - source: "football / soccer (long u)"
+            target: "[Fußball]"
+            mistakes:
+              - answer: "Fussball"
+                message:
+                  de: "Das *u* in *Fuß* ist lang – im Standarddeutschen in Deutschland steht hier **ß**."
+                  en: "The *u* in *Fuß* is long — Standard German in Germany uses **ß** here."
+          - source: "to eat (short e)"
+            target: "[essen]"
+            mistakes:
+              - answer: "eßen"
+                message:
+                  de: "Das *e* in *essen* ist kurz → immer **ss**."
+                  en: "The *e* in *essen* is short → always **ss**."
+          - source: "outside (diphthong au)"
+            target: "[draußen]"
+            mistakes:
+              - answer: "draussen"
+                message:
+                  de: "Nach dem Diphthong *au* steht beim scharfen *s* immer **ß**."
+                  en: "After the diphthong *au*, a sharp *s* is always spelled **ß**."
+        explanation:
+          de: "Langes *u* (*Fußball*) und Diphthong *au* (*draußen*) → **ß**; kurzes *e* (*essen*) → **ss**."
+          en: "Long *u* (*Fußball*) and diphthong *au* (*draußen*) → **ß**; short *e* (*essen*) → **ss**."

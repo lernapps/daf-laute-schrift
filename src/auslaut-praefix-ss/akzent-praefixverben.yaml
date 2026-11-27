@@ -17,6 +17,49 @@ blocks:
         text:
           de: "Peter notiert zwei Verben aus Herr Brauns Unterricht nebeneinander auf der **Laut-Schrift-Tafel**: **AUF**stehen (*get up*) und ver**STEH**en (*understand*). Im Deutschen hängen Aussprache und Grammatik hier direkt zusammen: **Ist das Präfix betont, ist das Verb trennbar!**"
           en: "Peter writes two verbs from Herr Braun's class side by side on the **Sound-Spelling Board**: **AUF**stehen (*get up*) and ver**STEH**en (*understand*). In German, pronunciation and grammar are directly linked here: **if the prefix is stressed, the verb is separable!**"
+      - type: single-choice
+        id: uebersetzen-akzent
+        text:
+          de: "Nadia hilft Peter, einen Satz ins Deutsche zu **übersetzen** (*to translate*). Welche Silbe wird betont?"
+          en: "Nadia helps Peter **übersetzen** (*translate*) a sentence into German. Which syllable is stressed?"
+        options:
+          - text:
+              {
+                de: "über-**SETZ**-en (auf dem Stamm – untrennbar)",
+                en: "über-**SETZ**-en (on the stem — inseparable)",
+              }
+            correct: true
+            info:
+              de: "Richtig! *übersetzen* in der Bedeutung *translate* ist untrennbar: *Nadia übersetzt den Satz.*"
+              en: "Correct! *übersetzen* meaning *to translate* is inseparable: *Nadia übersetzt den Satz.*"
+          - text:
+              { de: "**Ü**-ber-setzen (auf dem Präfix – trennbar)", en: "**Ü**-ber-setzen (on the prefix — separable)" }
+            correct: false
+            info:
+              de: "Mit betontem *Ü-ber-* bedeutet es *mit einer Fähre ans andere Ufer fahren* (*to ferry across*)."
+              en: "With stressed *Ü-ber-*, it means *to ferry across a river*, not *to translate*."
+        explanation:
+          de: "Wenn du hörst, ob das Präfix betont ist, weißt du sofort, ob das Verb im Hauptsatz getrennt wird."
+          en: "Hearing whether the prefix is stressed tells you right away whether the verb splits in a main clause."
+      - type: figure
+        image: images/prefix-stress-diagram.svg
+        alt:
+          de: "Peters Laut-Schrift-Tafel zur Betonung bei Verbpräfixen: Trennbare Verben betonen das Präfix (AUF-stehen, AN-rufen), untrennbare Verben betonen den Stamm (ver-STEH-en, er-ZÄH-len)."
+          en: "Peter's Sound-Spelling Board on verb-prefix stress: separable verbs stress the prefix (AUF-stehen, AN-rufen), while inseparable verbs stress the stem (ver-STEH-en, er-ZÄH-len)."
+        caption:
+          de: "Peters Laut-Schrift-Tafel: Betontes Präfix = trennbar, betontes Stammverb = untrennbar."
+          en: "Peter's Sound-Spelling Board: stressed prefix = separable, stressed stem = inseparable."
+        source:
+          de: "Eigene Zeichnung"
+          en: "Own drawing"
+        licence: CC0-1.0
+
+  - type: section
+    id: tafel
+    title:
+      de: "Trennbare vs. untrennbare Verbpräfixe"
+      en: "Separable vs. Inseparable Verb Prefixes"
+    blocks:
       - type: table
         caption:
           de: "Trennbare vs. untrennbare Verbpräfixe"
@@ -83,27 +126,40 @@ blocks:
         explanation:
           de: "Die acht untrennbaren Präfixe (*be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*) tragen nie den Hauptakzent; Präfixe wie *ein-, auf-, an-, mit-* sind immer betont."
           en: "The eight inseparable prefixes (*be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*) never take main stress; prefixes like *ein-, auf-, an-, mit-* are always stressed."
-      - type: single-choice
-        id: uebersetzen-akzent
+      - type: matching
+        id: praefix-typ-zuordnen
         text:
-          de: "Nadia hilft Peter, einen Satz ins Deutsche zu **übersetzen** (*to translate*). Welche Silbe wird betont?"
-          en: "Nadia helps Peter **übersetzen** (*translate*) a sentence into German. Which syllable is stressed?"
-        options:
-          - text:
-              {
-                de: "über-**SETZ**-en (auf dem Stamm – untrennbar)",
-                en: "über-**SETZ**-en (on the stem — inseparable)",
-              }
-            correct: true
-            info:
-              de: "Richtig! *übersetzen* in der Bedeutung *translate* ist untrennbar: *Nadia übersetzt den Satz.*"
-              en: "Correct! *übersetzen* meaning *to translate* is inseparable: *Nadia übersetzt den Satz.*"
-          - text:
-              { de: "**Ü**-ber-setzen (auf dem Präfix – trennbar)", en: "**Ü**-ber-setzen (on the prefix — separable)" }
-            correct: false
-            info:
-              de: "Mit betontem *Ü-ber-* bedeutet es *mit einer Fähre ans andere Ufer fahren* (*to ferry across*)."
-              en: "With stressed *Ü-ber-*, it means *to ferry across a river*, not *to translate*."
+          de: "Ordne jedes Verb dem passenden Betonungs- und Grammatikmuster zu."
+          en: "Match each verb to its stress and grammar pattern."
+        pairs:
+          - left: { de: "aufmachen", en: "aufmachen" }
+            right: { de: "AUF-machen (Präfix betont, trennbar)", en: "AUF-machen (prefix stressed, separable)" }
+          - left: { de: "bekommen", en: "bekommen" }
+            right: { de: "be-KOM-men (Stamm betont, untrennbar)", en: "be-KOM-men (stem stressed, inseparable)" }
+          - left: { de: "vorlesen", en: "vorlesen" }
+            right: { de: "VOR-lesen (Präfix betont, trennbar)", en: "VOR-lesen (prefix stressed, separable)" }
+          - left: { de: "vergessen", en: "vergessen" }
+            right: { de: "ver-GES-sen (Stamm betont, untrennbar)", en: "ver-GES-sen (stem stressed, inseparable)" }
         explanation:
-          de: "Wenn du hörst, ob das Präfix betont ist, weißt du sofort, ob das Verb im Hauptsatz getrennt wird."
-          en: "Hearing whether the prefix is stressed tells you right away whether the verb splits in a main clause."
+          de: "Präfixe wie *auf-, vor-* sind betont und trennbar; *be-, ver-* sind immer unbetont und untrennbar."
+          en: "Prefixes like *auf-, vor-* are stressed and separable; *be-, ver-* are always unstressed and inseparable."
+      - type: language-task
+        id: praefix-satz-wahl
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle die richtige Verbform im Hauptsatz: trennt sich das Verb oder bleibt es zusammen?"
+          en: "Choose the right verb form in the main clause: does the verb split or stay together?"
+        items:
+          - source: "Peter gets up early (AUF-stehen)."
+            target: "Peter [steht] früh [auf]."
+            distractors: [["aufsteht"], ["stehen"]]
+          - source: "Nadia understands the question (ver-STEH-en)."
+            target: "Nadia [versteht] die Frage."
+            distractors: [["steht ... ver"]]
+          - source: "Lukas calls Peter (AN-rufen)."
+            target: "Lukas [ruft] Peter [an]."
+            distractors: [["anruft"], ["rufen"]]
+        explanation:
+          de: "Betontes Präfix → trennbar (*steht … auf, ruft … an*); unbetontes Präfix → untrennbar (*versteht*)."
+          en: "Stressed prefix → separable (*steht … auf, ruft … an*); unstressed prefix → inseparable (*versteht*)."

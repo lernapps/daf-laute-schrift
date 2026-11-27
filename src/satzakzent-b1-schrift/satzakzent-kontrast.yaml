@@ -17,40 +17,6 @@ blocks:
         text:
           de: "Beim Proben für den Lindenberger Schul-Podcast merkt Peter: Derselbe Satz (*„Peter fährt morgen nach Berlin.“*) beantwortet ganz verschiedene Fragen – je nachdem, **welches Wort** den **Satzakzent** trägt!"
           en: "While rehearsing for the Lindenberg school podcast, Peter notices: the exact same sentence (*'Peter fährt morgen nach Berlin.'*) answers completely different questions depending on **which word** gets the **sentence stress**!"
-      - type: table
-        caption:
-          de: "Wie der Satzakzent den Fokus verschiebt"
-          en: "How sentence stress shifts focus"
-        header:
-          - { de: "Betonung im Satz", en: "Stressed word in sentence" }
-          - { de: "Was wird hervorgehoben?", en: "What is highlighted?" }
-          - { de: "Passender Kontrast", en: "Matching contrast" }
-        rows:
-          - - { de: "**SAM** fährt morgen nach Berlin.", en: "**SAM** fährt morgen nach Berlin." }
-            - { de: "die Person (nicht jemand anderes)", en: "the person (not someone else)" }
-            - { de: "nicht Lukas, sondern Peter", en: "not Lukas, but Peter" }
-          - - { de: "Peter fährt **MORGEN** nach Berlin.", en: "Peter fährt **MORGEN** nach Berlin." }
-            - { de: "der Zeitpunkt", en: "the time" }
-            - { de: "nicht erst am Freitag", en: "not on Friday" }
-          - - { de: "Peter fährt morgen nach **BERLIN**.", en: "Peter fährt morgen nach **BERLIN**." }
-            - { de: "das Ziel (neutraler Fokus / neue Info)", en: "the destination (neutral focus / new info)" }
-            - { de: "nicht nach Hamburg", en: "not to Hamburg" }
-      - type: note
-        title:
-          de: "Faustregel für den Satzakzent"
-          en: "Rule of thumb for sentence stress"
-        blocks:
-          - type: text
-            text:
-              de: "**Neue** oder **korrigierte** Information wird betont; bereits bekannte Wörter bleiben leiser und schneller. In einem neutralen Satz liegt der Satzakzent meist auf dem letzten neuen Inhaltswort (oft direkt vor dem Verb am Satzende)."
-              en: "**New** or **corrected** information gets the stress; already known words stay softer and faster. In a neutral sentence, main stress usually falls on the last new content word (often right before a clause-final verb)."
-
-  - type: section
-    id: uebung
-    title:
-      de: "Übung: Den richtigen Kontrast betonen"
-      en: "Practice: Stressing the Right Contrast"
-    blocks:
       - type: single-choice
         id: kontrast-korrektur
         text:
@@ -75,6 +41,47 @@ blocks:
         explanation:
           de: "Im Gespräch wandert der Satzakzent genau auf das Wort, das die neue Information oder Korrektur liefert."
           en: "In conversation, sentence stress moves directly onto the word that delivers the new information or correction."
+
+  - type: section
+    id: tafel
+    title:
+      de: "Wie der Satzakzent den Fokus verschiebt"
+      en: "How Sentence Stress Shifts Focus"
+    blocks:
+      - type: table
+        caption:
+          de: "Wie der Satzakzent den Fokus verschiebt"
+          en: "How sentence stress shifts focus"
+        header:
+          - { de: "Betonung im Satz", en: "Stressed word in sentence" }
+          - { de: "Was wird hervorgehoben?", en: "What is highlighted?" }
+          - { de: "Passender Kontrast", en: "Matching contrast" }
+        rows:
+          - - { de: "**PETER** fährt morgen nach Berlin.", en: "**PETER** fährt morgen nach Berlin." }
+            - { de: "die Person (nicht jemand anderes)", en: "the person (not someone else)" }
+            - { de: "nicht Lukas, sondern Peter", en: "not Lukas, but Peter" }
+          - - { de: "Peter fährt **MORGEN** nach Berlin.", en: "Peter fährt **MORGEN** nach Berlin." }
+            - { de: "der Zeitpunkt", en: "the time" }
+            - { de: "nicht erst am Freitag", en: "not on Friday" }
+          - - { de: "Peter fährt morgen nach **BERLIN**.", en: "Peter fährt morgen nach **BERLIN**." }
+            - { de: "das Ziel (neutraler Fokus / neue Info)", en: "the destination (neutral focus / new info)" }
+            - { de: "nicht nach Hamburg", en: "not to Hamburg" }
+      - type: note
+        title:
+          de: "Faustregel für den Satzakzent"
+          en: "Rule of thumb for sentence stress"
+        blocks:
+          - type: text
+            text:
+              de: "**Neue** oder **korrigierte** Information wird betont; bereits bekannte Wörter bleiben leiser und schneller. In einem neutralen Satz liegt der Satzakzent meist auf dem letzten neuen Inhaltswort (oft direkt vor dem Verb am Satzende)."
+              en: "**New** or **corrected** information gets the stress; already known words stay softer and faster. In a neutral sentence, main stress usually falls on the last new content word (often right before a clause-final verb)."
+
+  - type: section
+    id: uebung
+    title:
+      de: "Übung: Den richtigen Kontrast betonen"
+      en: "Practice: Stressing the Right Contrast"
+    blocks:
       - type: matching
         id: frage-fokus-zuordnen
         text:
@@ -90,3 +97,59 @@ blocks:
         explanation:
           de: "Das Wort, das direkt auf die Frage antwortet oder eine Annahme korrigiert, trägt den stärksten Akzent im Satz."
           en: "The word that directly answers the question or corrects an assumption carries the strongest stress in the sentence."
+      - type: language-task
+        id: satzakzent-regeln-check
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle das Wort in Großbuchstaben, das den gesuchten Kontrastakzent richtig trägt."
+          en: "Choose the capitalized word that carries the intended contrastive stress."
+        items:
+          - source: "Not Lukas, but PETER is going to Berlin."
+            target: "[PETER] fährt morgen nach Berlin."
+            distractors: [["Peter"]]
+          - source: "Not on Friday, but TOMORROW."
+            target: "Peter fährt [MORGEN] nach Berlin."
+            distractors: [["morgen"]]
+          - source: "Not to Hamburg, but to BERLIN."
+            target: "Peter fährt morgen nach [BERLIN]."
+            distractors: [["Berlin"]]
+        explanation:
+          de: "Der Satzakzent wandert genau auf das Wort, das den Kontrast setzt: *PETER* (Person), *MORGEN* (Zeit), *BERLIN* (Ziel)."
+          en: "Sentence stress moves directly onto the word setting the contrast: *PETER* (person), *MORGEN* (time), *BERLIN* (destination)."
+      - type: multiple-choice
+        id: kontrast-podcast
+        text:
+          de: "Lukas sagt im Podcast: *„Wir treffen uns am **Samstag** im **Park**.“* Welche Antworten korrigieren ein Detail mit dem passenden Kontrastakzent?"
+          en: "On the podcast, Lukas says: *'Wir treffen uns am **Samstag** im **Park**.'* Which replies correct a detail with matching contrastive stress?"
+        options:
+          - text:
+              {
+                de: "Nein, wir treffen uns am **SONNTAG** im Park. (Tag korrigiert)",
+                en: "Nein, wir treffen uns am **SONNTAG** im Park. (correcting the day)",
+              }
+            correct: true
+            info:
+              de: "Richtig! *SONNTAG* kontrastiert direkt mit *Samstag*."
+              en: "Correct! *SONNTAG* contrasts directly with *Samstag*."
+          - text:
+              {
+                de: "Nein, wir treffen uns am Samstag in der **BIBLIOTHEK**. (Ort korrigiert)",
+                en: "Nein, wir treffen uns am Samstag in der **BIBLIOTHEK**. (correcting the place)",
+              }
+            correct: true
+            info:
+              de: "Richtig! *BIBLIOTHEK* kontrastiert direkt mit *Park*."
+              en: "Correct! *BIBLIOTHEK* contrasts directly with *Park*."
+          - text:
+              {
+                de: "Nein, wir **TREFFEN** uns am Sonntag im Park. (Tag korrigiert)",
+                en: "Nein, wir **TREFFEN** uns am Sonntag im Park. (correcting the day)",
+              }
+            correct: false
+            info:
+              de: "Wer den Tag korrigieren will, muss **SONNTAG** betonen, nicht das bekannte Verb *treffen*."
+              en: "To correct the day, stress **SONNTAG**, not the already-known verb *treffen*."
+        explanation:
+          de: "Betone genau das Element, das du korrigierst: *SONNTAG* für den Tag, *BIBLIOTHEK* für den Ort."
+          en: "Stress the exact detail you are correcting: *SONNTAG* for the day, *BIBLIOTHEK* for the place."

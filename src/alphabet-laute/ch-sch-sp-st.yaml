@@ -15,8 +15,45 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Nadia liest Peter zwei Sätze vor: *„**Ich** ma**ch**e heute einen Ku**ch**en in der Kü**ch**e.“* Dasselbe **ch** klingt mal weich vorn im Mund (*ich, Küche*) und mal rau hinten (*mache, Kuchen*). Der Buchstabe **davor** entscheidet!"
-          en: "Nadia reads Peter a sentence: *'Ich mache heute einen Kuchen in der Küche.'* The same **ch** sounds soft in the front (*ich, Küche*) and raspy in the back (*mache, Kuchen*). The letter **right before** **ch** decides!"
+          de: "In der Pause liest Nadia Peter einen Zungenbrecher vor: *„**Ich** ma**ch**e heute einen Ku**ch**en in der Kü**ch**e.“* Dasselbe **ch** klingt mal weich vorn im Mund (*ich, Küche*) und mal rau hinten (*mache, Kuchen*). Der Buchstabe **davor** entscheidet!"
+          en: "At break time, Nadia reads Peter a tongue twister: *'Ich mache heute einen Kuchen in der Küche.'* The same **ch** sounds soft in the front (*ich, Küche*) and raspy in the back (*mache, Kuchen*). The letter **right before** **ch** decides!"
+      - type: single-choice
+        id: ch-einstieg
+        text:
+          de: "Wie klingt **ch** im Wort **Kuchen** (nach dem Buchstaben **u**)?"
+          en: "How does **ch** sound in **Kuchen** (right after the letter **u**)?"
+        options:
+          - text:
+              de: "hinten im Rachen (Ach-Laut, wie in *mache*)"
+              en: "in the back of the throat (ach-sound, as in *mache*)"
+            correct: true
+            info:
+              de: "Richtig! Nach **a, o, u, au** liegt **ch** hinten im Rachen."
+              en: "Correct! After **a, o, u, au**, **ch** is spoken in the back of the throat."
+          - text:
+              de: "weich vorn im Mund (Ich-Laut, wie in *ich*)"
+              en: "soft in the front of the mouth (ich-sound, as in *ich*)"
+            correct: false
+            info:
+              de: "Der weiche Ich-Laut steht nach *i, e, ä, ö, ü* – in *Küche* (mit *ü*) klingt er vorn, in *Kuchen* (mit *u*) hinten!"
+              en: "The soft ich-sound comes after *i, e, ä, ö, ü* — in *Küche* (with *ü*) it is in front, but in *Kuchen* (with *u*) it is in the back!"
+          - text:
+              de: "wie ein deutsches *k* (wie in *Kaffee*)"
+              en: "like a hard *k* (as in *Kaffee*)"
+            correct: false
+            info:
+              de: "Deutsches **ch** wird nach Vokalen nicht wie *k* gesprochen, sondern als Reibelaut."
+              en: "After vowels, German **ch** is not a hard *k* — it is a breathy sound in the back or front of the mouth."
+        explanation:
+          de: "Schau immer auf den Buchstaben **vor** dem **ch**: *a, o, u, au* → Ach-Laut hinten; alles andere → Ich-Laut vorn."
+          en: "Always look at the letter **before** **ch**: *a, o, u, au* → back ach-sound; everything else → front ich-sound."
+
+  - type: section
+    id: tafel
+    title:
+      de: "Laut-Schrift-Tafel: ch, sch, sp/st und z"
+      en: "Sound-Spelling Board: ch, sch, sp/st, and z"
+    blocks:
       - type: table
         caption:
           de: "Laut-Schrift-Tafel: ch, sch, sp/st und z"
@@ -109,3 +146,26 @@ blocks:
         explanation:
           de: "**sp/st** werden nur am Anfang eines Wortes oder Wortstamms zu *schp/scht*; am Wortende (*Fest*) bleibt das einfache *s*. **z** ist immer *ts*."
           en: "**sp/st** become *shp/sht* only at the start of a word or stem; at the end (*Fest*), plain *s* remains. **z** is always *ts*."
+      - type: language-task
+        id: konsonanten-luecken
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle die richtige Buchstabengruppe für Peters Wörter aus Klasse 6."
+          en: "Choose the right consonant spelling for Peter's Year 6 words."
+        items:
+          - source: "school (sh sound)"
+            target: "[Sch]ule"
+            distractors: [["Ch", "Sh"]]
+          - source: "table (sh sound at end)"
+            target: "Ti[sch]"
+            distractors: [["ch", "st"]]
+          - source: "square / seat (ts sound after short a)"
+            target: "Pla[tz]"
+            distractors: [["ts", "sch"]]
+          - source: "cat (ts sound after short a)"
+            target: "Ka[tz]e"
+            distractors: [["ts", "ss"]]
+        explanation:
+          de: "Im Deutschen schreibt man den *sh*-Laut immer **sch** (nie *sh*) und den *ts*-Laut nach kurzem Vokal **tz** (*Platz, Katze*)."
+          en: "German always spells the *sh* sound as **sch** (never *sh*) and the *ts* sound after a short vowel as **tz** (*Platz, Katze*)."

@@ -10,3 +10,13 @@ pages:
   - fremdwoerter-aussprache
   - komma-infinitiv-relativsatz
   - zusammen-getrenntschreibung
+selfAssessment:
+  pages:
+    - exercises:
+        - /satzakzent-b1-schrift/satzakzent-kontrast/#frage-fokus-zuordnen
+        - /satzakzent-b1-schrift/fremdwoerter-aussprache/#fremdwoerter-akzent-sortieren
+        - /satzakzent-b1-schrift/fremdwoerter-aussprache/#fremdwoerter-endungen
+    - exercises:
+        - /satzakzent-b1-schrift/komma-infinitiv-relativsatz/#infinitiv-komma-pflicht
+        - /satzakzent-b1-schrift/zusammen-getrenntschreibung/#nominalisierung-gross
+        - /satzakzent-b1-schrift/zusammen-getrenntschreibung/#nominalisierung-tippen
